@@ -17,11 +17,13 @@ console.log("%c Github %c", "background:#333333; color:#ffffff", "", "https://gi
       $(".fab-up").addClass("fab-up-active");
       $(".fab-plus").addClass("fab-plus-active");
       $(".fab-daovoice").addClass("fab-daovoice-active");
+      $(".fab-tencent-chao").addClass("fab-tencent-chao-active");
     },
     freezeFab: function () {
       $(".fab-up").removeClass("fab-up-active");
       $(".fab-plus").removeClass("fab-plus-active");
       $(".fab-daovoice").removeClass("fab-daovoice-active");
+      $(".fab-tencent-chao").removeClass("fab-tencent-chao-active");
     },
     showFab: function () {
       $(".fab").removeClass("fab-hide").addClass("fab-show");
@@ -132,9 +134,8 @@ console.log("%c Github %c", "background:#333333; color:#ffffff", "", "https://gi
       });
       $(".fab-daovoice").on("click", function () {
         daovoice('openMessages');
-        fn.freezeFab();
       });
-      $(".fab-up .fab-daovoice").on("click", function () {
+      $(".fab-up, .fab-daovoice, fab-tencent-chao").on("click", function () {
         fn.freezeFab();
       });
       if (CONFIG.fab.always_show) {
@@ -178,13 +179,13 @@ console.log("%c Github %c", "background:#333333; color:#ffffff", "", "https://gi
     },
     donate: function () {
       $(".donate .icon").on("mouseover", function () {
-        $(".donate .qrcode").show();
+        $("#qrcode-donate").show();
       });
       $(".donate .icon").children("a").on("mouseover", function () {
-        $(".donate .qrcode img").attr('src', eval('CONFIG.donate.' + $(this).attr('id')))
+        $("#qrcode-donate img").attr('src', eval('CONFIG.donate.' + $(this).attr('id')))
       });
       $(".donate .icon").on("mouseout", function () {
-        $(".donate .qrcode").hide();
+        $("#qrcode-donate").hide();
       });
     },
     lazyload: function () {
@@ -220,10 +221,10 @@ console.log("%c Github %c", "background:#333333; color:#ffffff", "", "https://gi
         $(".qrcode").fadeOut(300);
       });
       $(".j-navbar-qrcode").on("click", function () {
-        if ($(".qrcode").is(":hidden")) {
-          $(".qrcode").fadeIn(300);
+        if ($("#qrcode-navbar").is(":hidden")) {
+          $("#qrcode-navbar").fadeIn(300);
         } else {
-          $(".qrcode").fadeOut(300);
+          $("#qrcode-navbar").fadeOut(300);
         }
       });
     },
@@ -233,13 +234,13 @@ console.log("%c Github %c", "background:#333333; color:#ffffff", "", "https://gi
     },
     qrcode: function () {
       if (CONFIG.qrcode.type === 'url') {
-        $(".qrcode").qrcode({
+        $("#qrcode-navbar").qrcode({
           text: window.location.href,
           width: 150,
           height: 150
         });
       } else if (CONFIG.qrcode.type === 'image') {
-        $(".qrcode").append('<img src="' + CONFIG.qrcode.image + '" alt="qrcode" />');
+        $("#qrcode-navbar").append('<img src="' + CONFIG.qrcode.image + '" alt="qrcode" />');
       }
     }
   }
