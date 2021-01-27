@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>谷歌_ICASSP2018_Generalized End-to-End Loss for Speaker Verification</title>
+      <link href="2021/01/27/Paper027/"/>
+      <url>2021/01/27/Paper027/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>本文提出了一种新型的损失函数，称为广义端到端（GE2E）损失函数，使得说话人认证模型的训练比以前基于元组的端到端（TE2E）损失函数更加有效。与TE2E不同，GE2E损失函数以强调实例的方式更新网络，这些实例在训练过程的每个步骤中都难以验证。此外，GE2E损失函数不需要选择示例的初始阶段。利用这些特性，我们的新损失函数模型使说话人验证EER降低了10%以上，同时使训练时间减少了60%。从而学习出一个更好的模型。我们还介绍了MultiReader技术，它允许我们进行域自适应训练一个更精确的模型——支持多个关键字（即OK Google和Hey Google）以及多个方言。</p><p><strong>参考</strong><br>[1] <em>Wan L, Wang Q, Papir A, et al. Generalized end-to-end loss for speaker verification[C]//2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2018: 4879-4883.</em><a href="https://arxiv.org/abs/1710.10467">[pdf]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> End-to-End </tag>
+            
+            <tag> 说话人认证 </tag>
+            
+            <tag> LSTM </tag>
+            
+            <tag> GE2E </tag>
+            
+            <tag> TE2E </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>下班后要不要回工作消息——从八小时工作制说起</title>
       <link href="2021/01/25/Essay001/"/>
       <url>2021/01/25/Essay001/</url>
@@ -603,9 +636,9 @@
             
             <tag> 合成器 </tag>
             
-            <tag> 声码器 </tag>
-            
             <tag> Tacotron2 </tag>
+            
+            <tag> 声码器 </tag>
             
             <tag> 语音转换 </tag>
             
@@ -640,9 +673,9 @@
             
             <tag> 合成器 </tag>
             
-            <tag> Tacotron </tag>
-            
             <tag> 声码器 </tag>
+            
+            <tag> Tacotron </tag>
             
             <tag> Griffin-Lim </tag>
             
@@ -722,13 +755,13 @@
             
             <tag> 合成器 </tag>
             
-            <tag> Tacotron </tag>
-            
             <tag> 声码器 </tag>
             
-            <tag> Griffin-Lim </tag>
-            
             <tag> WaveNet </tag>
+            
+            <tag> Tacotron </tag>
+            
+            <tag> Griffin-Lim </tag>
             
             <tag> 语音转换 </tag>
             
@@ -765,13 +798,13 @@
             
             <tag> 合成器 </tag>
             
-            <tag> Tacotron </tag>
-            
             <tag> 声码器 </tag>
             
-            <tag> Griffin-Lim </tag>
-            
             <tag> WaveNet </tag>
+            
+            <tag> Tacotron </tag>
+            
+            <tag> Griffin-Lim </tag>
             
             <tag> 语音转换 </tag>
             
@@ -808,9 +841,9 @@
             
             <tag> 合成器 </tag>
             
-            <tag> Tacotron </tag>
-            
             <tag> 声码器 </tag>
+            
+            <tag> Tacotron </tag>
             
             <tag> Griffin-Lim </tag>
             
@@ -841,9 +874,9 @@
             
             <tag> 合成器 </tag>
             
-            <tag> 声码器 </tag>
-            
             <tag> Tacotron2 </tag>
+            
+            <tag> 声码器 </tag>
             
             <tag> WaveNet </tag>
             
@@ -950,9 +983,9 @@
             
             <tag> 合成器 </tag>
             
-            <tag> 声码器 </tag>
-            
             <tag> Tacotron2 </tag>
+            
+            <tag> 声码器 </tag>
             
             <tag> WaveNet </tag>
             
@@ -985,9 +1018,9 @@
             
             <tag> 合成器 </tag>
             
-            <tag> Tacotron </tag>
-            
             <tag> 声码器 </tag>
+            
+            <tag> Tacotron </tag>
             
             <tag> Griffin-Lim </tag>
             
