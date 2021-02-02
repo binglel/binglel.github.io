@@ -4,6 +4,41 @@
   
     
     <entry>
+      <title>谷歌_Interspeech2020_Conformer：Convolution-augmented Transformer for Speech Recognition</title>
+      <link href="2021/02/02/Paper028/"/>
+      <url>2021/02/02/Paper028/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>摘要：近年来，基于Transformer和卷积神经网络（CNN）的模型在自动语音识别（ASR）中取得了优于循环神经网络（RNNs）的良好效果。Transformer模型擅长捕获基于内容的全局交互，而CNN有效地利用局部特征。在这项工作中，我们通过研究如何将卷积神经网络和Transformer结合起来，以一种有效参数的方式对音频序列的局部和全局依赖性进行建模，从而达到两者的最佳效果。为此，我们提出了一种用于语音识别的卷积增强Transformer，称为Conformer。Conformer的性能明显优于之前基于Transformer和CNN的模型，实现了最先进的精确度。在广泛使用的LibriSpeech基准测试上，其中在Test和TestOther数据集上，我们的模型在没有使用语言模型的情况下获得了2.1%和4.3%的WER，在使用外部语言模型的情况下获得了1.9%和3.9%的WER。我们还观察到仅用10M参数的一个小模型的竞争性能为2.7%和6.3%。</p><p><strong>参考</strong><br>[1] <em>Gulati A, Qin J, Chiu C C, et al. Conformer: Convolution-augmented transformer for speech recognition[J]. arXiv preprint arXiv:2005.08100, 2020.</em><a href="https://arxiv.org/abs/2005.08100">[pdf]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> End-to-End </tag>
+            
+            <tag> Attention </tag>
+            
+            <tag> CNN </tag>
+            
+            <tag> Transformer </tag>
+            
+            <tag> Conformer </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>SLT2021-儿童语音识别挑战赛研讨会</title>
       <link href="2021/02/01/Tutorial001/"/>
       <url>2021/02/01/Tutorial001/</url>
