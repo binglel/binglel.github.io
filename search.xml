@@ -8,7 +8,7 @@
       <link href="2021/02/08/Tutorial002/"/>
       <url>2021/02/08/Tutorial002/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><a href="https://www.bilibili.com/video/BV1q5411V7tT?from=search&seid=15419541146503431608">深度学习语音识别课程2020</a></p><ul><li>课程视频内容<ul><li>ASR Summary</li><li>Listen,Attention and Spell(LAS)</li><li>Connectionist Temporal Classification(CTC)</li><li>RNN Transducer(RNN-T)</li><li>Neural Transducer</li><li>Monotonic Chunkwise Attention(MoChA)</li><li>Hidden Markov Model(HMM)</li><li>Language Model(N-Gram/NN/RNN)</li><li>Shallow/Deep Fusion</li></ul></li></ul>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><a href="https://www.bilibili.com/video/BV1q5411V7tT?from=search&seid=15419541146503431608">深度学习语音识别课程2020</a></p><ul><li>课程视频内容<ul><li>ASR Summary</li><li>Listen,Attention and Spell(LAS)</li><li>Connectionist Temporal Classification(CTC)</li><li>RNN Transducer(RNN-T)</li><li>Neural Transducer</li><li>Monotonic Chunkwise Attention(MoChA)</li><li>Hidden Markov Model(HMM)</li><li>Language Model(N-Gram/NN/RNN)</li><li>Shallow/Deep Fusion/Cold Fusion</li></ul></li></ul>]]></content>
       
       
       <categories>
