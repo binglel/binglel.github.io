@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>深度学习语音识别课程2020_李宏毅_国立台湾大学</title>
+      <title>深度学习与人类语言处理课程2020_李宏毅_国立台湾大学</title>
       <link href="2021/02/08/Tutorial002/"/>
       <url>2021/02/08/Tutorial002/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><a href="https://www.bilibili.com/video/BV1q5411V7tT?from=search&seid=15419541146503431608">深度学习语音识别课程2020</a></p><ul><li>课程视频内容<ul><li>ASR Summary</li><li>Listen,Attention and Spell(LAS)</li><li>Connectionist Temporal Classification(CTC)</li><li>RNN Transducer(RNN-T)</li><li>Neural Transducer</li><li>Monotonic Chunkwise Attention(MoChA)</li><li>Hidden Markov Model(HMM)</li><li>Language Model(N-Gram/NN/RNN)</li><li>Shallow/Deep Fusion/Cold Fusion</li></ul></li></ul>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="https://www.bilibili.com/video/BV1nt4y1U7Zb?p=1">深度学习与人类语言处理课程2020（完整版）</a></p></blockquote><blockquote><p><a href="https://www.bilibili.com/video/BV1q5411V7tT?from=search&seid=15419541146503431608">深度学习与人类语言处理课程2020之语音识别</a></p></blockquote><ul><li>语音识别课程视频内容<ul><li>ASR Summary</li><li>Listen,Attention and Spell(LAS)</li><li>Connectionist Temporal Classification(CTC)</li><li>RNN Transducer(RNN-T)</li><li>Neural Transducer</li><li>Monotonic Chunkwise Attention(MoChA)</li><li>Hidden Markov Model(HMM)</li><li>Language Model(N-Gram/NN/RNN)</li><li>Shallow/Deep Fusion/Cold Fusion</li></ul></li></ul>]]></content>
       
       
       <categories>
@@ -20,9 +20,15 @@
       
         <tags>
             
+            <tag> 语音合成 </tag>
+            
             <tag> 语音识别 </tag>
             
+            <tag> 语音转换 </tag>
+            
             <tag> 深度学习 </tag>
+            
+            <tag> 语音分离 </tag>
             
         </tags>
       
@@ -70,7 +76,7 @@
       <link href="2021/02/01/Tutorial001/"/>
       <url>2021/02/01/Tutorial001/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><a href="https://www.data-baker.com/csrc_challenge.html">SLT2021-儿童语音识别挑战赛官网</a></p><p align="center">  <img src= "/img/loading.gif" data-lazy-src="/img/tutorials/tutorial_001-02.png" width = 520 height = 240/></p><p><a href="https://www.bilibili.com/video/BV15N411o7JL">SLT2021-儿童语音识别挑战赛研讨会</a></p><ul><li>研讨会视频内容<ul><li>赛道1分享-冠军队伍（上海交通大学智能语音实验室）</li><li>赛道2分享-冠军队伍（小米&amp;微软小冰&amp;Seasalt AI）</li><li>面向端侧部署的流式端到端语音识别技术-谢磊（西北工业大学）</li><li>基于直通梯度的端到端语音识别神经架构搜索-欧智坚（清华大学）</li><li>语音技术及其在美团的应用-黄辰（美团）</li><li>贝克找房的语音技术应用与研究-汤志远（贝克找房）</li><li>数据助力技术，技术助力数据-吴本谷（标贝科技）</li></ul></li></ul>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="https://www.data-baker.com/csrc_challenge.html">SLT2021-儿童语音识别挑战赛官网</a></p></blockquote><p align="center">  <img src= "/img/loading.gif" data-lazy-src="/img/tutorials/tutorial_001-02.png" width = 520 height = 240/></p><blockquote><p><a href="https://www.bilibili.com/video/BV15N411o7JL">SLT2021-儿童语音识别挑战赛研讨会</a></p></blockquote><ul><li>研讨会视频内容<ul><li>赛道1分享-冠军队伍（上海交通大学智能语音实验室）</li><li>赛道2分享-冠军队伍（小米&amp;微软小冰&amp;Seasalt AI）</li><li>面向端侧部署的流式端到端语音识别技术-谢磊（西北工业大学）</li><li>基于直通梯度的端到端语音识别神经架构搜索-欧智坚（清华大学）</li><li>语音技术及其在美团的应用-黄辰（美团）</li><li>贝克找房的语音技术应用与研究-汤志远（贝克找房）</li><li>数据助力技术，技术助力数据-吴本谷（标贝科技）</li></ul></li></ul>]]></content>
       
       
       <categories>
@@ -1163,9 +1169,9 @@
       
         <tags>
             
-            <tag> 网络技术 </tag>
-            
             <tag> Wi-Fi </tag>
+            
+            <tag> 网络技术 </tag>
             
             <tag> 网络热点服务 </tag>
             
@@ -1217,11 +1223,11 @@
       
         <tags>
             
+            <tag> 网络技术 </tag>
+            
             <tag> Python </tag>
             
             <tag> SOCK5 </tag>
-            
-            <tag> 网络技术 </tag>
             
             <tag> 代理服务 </tag>
             
