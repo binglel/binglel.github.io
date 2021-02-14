@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>华盛顿州立大学_ICASSP2018_Attention-Based Models for Text-Dependent Speaker Verification</title>
+      <link href="2021/02/14/Paper030/"/>
+      <url>2021/02/14/Paper030/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>最近，基于注意力的模型在语音识别、机器翻译和图像字幕等一系列任务中表现出很好的性能，这是因为它们能够总结贯穿整个输入序列长度的相关信息。本文分析了注意机制在端到端文本相关说话人识别系统中对序列摘要问题的应用。我们探索了注意力层的不同拓扑结构及其变体，并比较了不同的池化方法在注意力权重上的差异。最终实验结果表明，与非注意力LSTM基线模型相比，基于注意力的模型可以使说话人认证系统的等错误率(EER)提高14%。</p><p><strong>参考</strong><br>[1] <em>rahman Chowdhury F A R, Wang Q, Moreno I L, et al. Attention-based models for text-dependent speaker verification[C]//2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2018: 5359-5363.</em><a href="https://arxiv.org/abs/1710.10470">[pdf]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> End-to-End </tag>
+            
+            <tag> 说话人认证 </tag>
+            
+            <tag> Attention </tag>
+            
+            <tag> LSTM </tag>
+            
+            <tag> TE2E </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>DFKI_ICASSP2016_End-to-End Text-Dependent Speaker Verification</title>
       <link href="2021/02/14/Paper029/"/>
       <url>2021/02/14/Paper029/</url>
