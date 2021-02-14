@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>DFKI_ICASSP2016_End-to-End Text-Dependent Speaker Verification</title>
+      <link href="2021/02/14/Paper029/"/>
+      <url>2021/02/14/Paper029/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>本文提出了一种数据驱动的、集成的说话人认证方法，该方法将一条测试语句和几条参考话语直接映射到单个分数进行认证，并使用与测试时相同的评估协议和度量来联合优化系统的组件。这样的方法将产生简单而高效的系统，几乎不需要特定领域的知识和做什么模型假设。我们通过将问题描述为一个单一的神经网络体系结构来实现这一想法，包括只在几条语句上估计说话人模型，并在我们内部的“OK Google”基准上进行评估，以进行依赖于文本的说话人验证。对于像我们这样需要高度精确、易于维护且占用空间小的系统的大数据应用来说，所提出的方法似乎非常有效。</p><p><strong>参考</strong><br>[1] <em>Heigold G, Moreno I, Bengio S, et al. End-to-end text-dependent speaker verification[C]//2016 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2016: 5115-5119.</em><a href="https://arxiv.org/abs/1509.08062v1">[pdf]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> End-to-End </tag>
+            
+            <tag> 说话人认证 </tag>
+            
+            <tag> LSTM </tag>
+            
+            <tag> TE2E </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>深度学习与人类语言处理课程2020_李宏毅_国立台湾大学</title>
       <link href="2021/02/08/Tutorial002/"/>
       <url>2021/02/08/Tutorial002/</url>
