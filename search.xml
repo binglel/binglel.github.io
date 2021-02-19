@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>多伦多大学_ICML2006_Connectionist temporal classification：labelling unsegmented sequence data with recurrent neural networks</title>
+      <link href="2021/02/19/Paper032/"/>
+      <url>2021/02/19/Paper032/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>许多现实世界中的序列学习任务需要从有噪声的、未切分的输入数据中预测标签序列。例如，在语音识别中，声音信号被转录成词或子词单元。循环神经网络（RNN）是功能强大的序列学习器，似乎非常适合这样的任务。然而，由于它们需要预先切分的训练数据，以及将其输出转换为标签序列的后处理，因此它们的适用性到目前为止一直受到限制。本文提出了一种训练RNN直接标注未切分序列的新方法，从而解决了这两个问题。在TIMIT语音语料库上的实验表明，该方法优于基线HMM和混合HMM-RNN。</p><p><strong>参考</strong><br>[1] <em>Graves A, Fernández S, Gomez F, et al. Connectionist temporal classification: labelling unsegmented sequence data with recurrent neural networks[C]//Proceedings of the 23rd international conference on Machine learning. 2006: 369-376.</em><a href="http://axon.cs.byu.edu/~martinez/classes/778/Papers/p369-graves.pdf">[pdf]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> End-to-End </tag>
+            
+            <tag> CTC </tag>
+            
+            <tag> RNN </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>CMU_ICASSP2016_Listen, Attend and Spell</title>
       <link href="2021/02/19/Paper031/"/>
       <url>2021/02/19/Paper031/</url>
