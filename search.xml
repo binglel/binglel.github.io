@@ -22,11 +22,11 @@
             
             <tag> 语音识别 </tag>
             
-            <tag> End-to-End </tag>
-            
             <tag> BLSTM </tag>
             
             <tag> Attention </tag>
+            
+            <tag> Sequence-to-Sequence </tag>
             
             <tag> LAS </tag>
             
