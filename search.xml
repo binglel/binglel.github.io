@@ -20,9 +20,9 @@
       
         <tags>
             
-            <tag> 语音识别 </tag>
-            
             <tag> End-to-End </tag>
+            
+            <tag> 语音识别 </tag>
             
             <tag> CTC </tag>
             
@@ -181,9 +181,9 @@
       
         <tags>
             
-            <tag> 语音识别 </tag>
-            
             <tag> End-to-End </tag>
+            
+            <tag> 语音识别 </tag>
             
             <tag> Attention </tag>
             
@@ -357,9 +357,9 @@
       
         <tags>
             
-            <tag> 语音识别 </tag>
-            
             <tag> End-to-End </tag>
+            
+            <tag> 语音识别 </tag>
             
             <tag> CTC </tag>
             
@@ -388,9 +388,9 @@
       
         <tags>
             
-            <tag> 语音识别 </tag>
-            
             <tag> End-to-End </tag>
+            
+            <tag> 语音识别 </tag>
             
             <tag> CTC </tag>
             
@@ -485,9 +485,9 @@
       
         <tags>
             
-            <tag> 语音识别 </tag>
-            
             <tag> End-to-End </tag>
+            
+            <tag> 语音识别 </tag>
             
             <tag> CTC </tag>
             
@@ -520,9 +520,9 @@
       
         <tags>
             
-            <tag> 语音识别 </tag>
-            
             <tag> End-to-End </tag>
+            
+            <tag> 语音识别 </tag>
             
             <tag> 声学模型 </tag>
             
@@ -623,9 +623,9 @@
       
         <tags>
             
-            <tag> 语音识别 </tag>
-            
             <tag> End-to-End </tag>
+            
+            <tag> 语音识别 </tag>
             
             <tag> 声学模型 </tag>
             
@@ -662,9 +662,9 @@
       
         <tags>
             
-            <tag> 语音识别 </tag>
-            
             <tag> End-to-End </tag>
+            
+            <tag> 语音识别 </tag>
             
             <tag> 声学模型 </tag>
             
@@ -730,9 +730,9 @@
       
         <tags>
             
-            <tag> 语音识别 </tag>
-            
             <tag> End-to-End </tag>
+            
+            <tag> 语音识别 </tag>
             
             <tag> 声学模型 </tag>
             
@@ -767,9 +767,9 @@
       
         <tags>
             
-            <tag> 语音识别 </tag>
-            
             <tag> End-to-End </tag>
+            
+            <tag> 语音识别 </tag>
             
             <tag> Kaldi </tag>
             
