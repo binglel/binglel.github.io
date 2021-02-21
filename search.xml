@@ -4,6 +4,130 @@
   
     
     <entry>
+      <title>谷歌_ICLR2018_Monotonic Chunkwise Attention</title>
+      <link href="2021/02/21/Paper036/"/>
+      <url>2021/02/21/Paper036/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>软注意力序列间模型已成功地应用于各种各样的问题，但其解码过程需要大量的时间和空间开销，不适用于实时序列转换。为了解决这些问题，我们提出了单调的组块注意力（MOCHA），它自适应地将输入序列分割成小块，在这些小块上计算软注意。我们证明了使用MOCHA的模型可以在标准反向传播的情况下有效地训练，同时允许在测试时进行在线和线性时间解码。当应用于在线语音识别时，我们获得了最先进的结果，并与使用离线软注意力机制的模型性能进行了比较。在文档总结的实验中，在没有进行单调对齐的情况下，与基于单调注意力的基线模型相比，该模型表现出显著的改进性能。</p><p><strong>参考</strong><br>[1] <em>Chiu C C, Raffel C. Monotonic chunkwise attention[J]. arXiv preprint arXiv:1712.05382, 2017.</em><a href="https://arxiv.org/abs/1712.05382">[pdf]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> Attention </tag>
+            
+            <tag> Sequence-to-Sequence </tag>
+            
+            <tag> MoChA </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>谷歌_20160804_A Neural Transducer</title>
+      <link href="2021/02/21/Paper035/"/>
+      <url>2021/02/21/Paper035/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>序列到序列模型已经在各种任务上取得了令人印象深刻的结果。然而，它们不适用于需要随着更多数据到来而进行增量预测的任务，或者具有长输入序列和输出序列的任务。这是因为它们生成以整个输入序列为条件的输出序列。在本文中，我们提出了一种神经转换器，它可以在更多的输入到来时进行增量预测，而不需要重新进行整个输入序列计算。与序列到序列模型不同，神经转换器根据部分观察到的输入序列和部分生成的序列来计算下一步分布。在每个时间步，转换器可以决定发射零到多个输出符号。数据可以使用编码器进行处理，并作为转换器的输入。在每个时间步发射一个符号的离散决策使得用传统的反向传播很难学习。然而，可以通过使用动态规划算法来训练转换器以产生离散决策。我们的实验表明，神经转换器在需要数据输入时产生输出预测的环境下工作良好。我们还发现，即使在没有使用注意力机制的情况下，神经转换器在长序列中也表现得很好。</p><p><strong>参考</strong><br>[1] <em>Jaitly N, Sussillo D, Le Q V, et al. A neural transducer[J]. arXiv preprint arXiv:1511.04868, 2015.</em><a href="https://arxiv.org/abs/1511.04868">[pdf]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> RNN </tag>
+            
+            <tag> RNN-T </tag>
+            
+            <tag> Sequence-to-Sequence </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>谷歌_Interspeech2017_Recurrent Neural Aligner：An Encoder-Decoder Neural Network Model for Sequence to Sequence Mapping</title>
+      <link href="2021/02/21/Paper034/"/>
+      <url>2021/02/21/Paper034/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>介绍了一种可用于序列到序列映射任务的编解码器循环神经网络模型——循环神经对齐器（RNA）。与连接主义时间分类（CTC）模型类似，RNA定义了目标标签序列上的概率分布，包括与输入中每个时间步长相对应的空白标签。通过在所有可能的空白标签位置上边际化来计算标签序列的概率。与CTC不同的是，RNA不对标签预测做条件独立假设，它在预测t时刻的标签时，将t-1时刻的预测标签作为递归模型的附加输入，我们将该模型应用于端到端语音识别。由于解码器不使用注意机制，因此RNA能够进行流识别。该模型对转录的声学数据进行训练以预测字素，并且不使用外部语言和发音模型来解码。我们使用近似动态规划方法来优化负对数似然率，并使用基于采样的序列判别训练技术来微调模型以最小化期望词错误率。我们证明了该模型在不使用外部语言模型和进行波束搜索解码的情况下达到了具有竞争力的精度。</p><p><strong>参考</strong><br>[1] <em>Sak H, Shannon M, Rao K, et al. Recurrent Neural Aligner: An Encoder-Decoder Neural Network Model for Sequence to Sequence Mapping[C]//Interspeech. 2017, 8: 1298-1302.</em><a href="https://www.isca-speech.org/archive/Interspeech_2017/abstracts/1705.html">[pdf]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> RNN </tag>
+            
+            <tag> Sequence-to-Sequence </tag>
+            
+            <tag> RNA </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>多伦多大学_ICML2012_Sequence Transduction with Recurrent Neural Networks</title>
+      <link href="2021/02/21/Paper033/"/>
+      <url>2021/02/21/Paper033/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>许多机器学习任务可以表示为输入序列到输出序列的转换：语音识别、机器翻译、蛋白质二级结构预测和文本到语音等。序列转换的关键挑战之一是学会以一种不受序列失真（如收缩、拉伸和平移）影响的方式来表示输入和输出序列。循环神经网络（RNN）是一种具有强大的序列学习结构，已被证明能够学习这样的表示。然而，在传统上，RNN需要输入和输出序列之间的预先定义的对齐来进行转换。这是一个严重的限制，因为对齐是许多序列转换问题中最困难的部分。事实上，甚至是确定输出序列的长度也常常是具有挑战性的。本文介绍了一种完全基于RNN的端到端概率序列转换系统，该系统原则上能够将任何输入序列转换成任何有限的、离散的输出序列。本文给出了在TIMIT语音语料库上进行音素识别的实验结果。</p><p><strong>参考</strong><br>[1] <em>Graves A. Sequence transduction with recurrent neural networks[J]. arXiv preprint arXiv:1211.3711, 2012.</em><a href="https://arxiv.org/abs/1211.3711">[pdf]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> RNN </tag>
+            
+            <tag> RNN-T </tag>
+            
+            <tag> Sequence-to-Sequence </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>多伦多大学_ICML2006_Connectionist temporal classification：labelling unsegmented sequence data with recurrent neural networks</title>
       <link href="2021/02/19/Paper032/"/>
       <url>2021/02/19/Paper032/</url>
