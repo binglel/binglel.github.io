@@ -4,6 +4,56 @@
   
     
     <entry>
+      <title>现代语音信号处理_胡航</title>
+      <link href="2021/02/22/Book002/"/>
+      <url>2021/02/22/Book002/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p align="left">  <img src= "/img/loading.gif" data-lazy-src="/img/books/book_002-02.jpg" width = 240 height = 320/></p><ul><li><p>第一章 绪论</p></li><li><p>第二章 语音信号处理的基础知识</p></li><li><p>第三章 时域分析</p></li><li><p>第四章 短时傅里叶分析</p></li><li><p>第五章 倒谱分析与同态滤波</p></li><li><p>第六章 线性预测分析</p></li><li><p>第七章 语音信号的非线性分析</p></li><li><p>第八章 语音特征参数估计</p></li><li><p>第九章 矢量量化</p></li><li><p>第十章 隐马尔可夫模型</p></li><li><p>第十一章 语音编码</p></li><li><p>第十二章 语音合成</p></li><li><p>第十三章 语音识别</p></li><li><p>第十四章 说话人识别</p></li><li><p>第十五章 智能信息处理技术在语音信号处理中的应用</p></li><li><p>第十六章 语音增强</p></li><li><p>第十七章 基于麦克风阵列的语音信号处理</p></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> Book </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 信号处理 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>机器学习_周志华</title>
+      <link href="2021/02/22/Book001/"/>
+      <url>2021/02/22/Book001/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p align="left">  <img src= "/img/loading.gif" data-lazy-src="/img/books/book_001-02.jpg" width = 240 height = 320/></p><ul><li><p>第一章 绪论</p></li><li><p>第二章 模型评估与选择</p></li><li><p>第三章 线性模型</p></li><li><p>第四章 决策树</p></li><li><p>第五章 神经网络</p></li><li><p>第六章 支持向量机</p></li><li><p>第七章 贝叶斯分类器</p></li><li><p>第八章 集成学习</p></li><li><p>第九章 聚类</p></li><li><p>第十章 降维与度量学习</p></li><li><p>第十一章 特征选择与稀疏学习</p></li><li><p>第十二章 计算学习理论</p></li><li><p>第十三章 半监督学习</p></li><li><p>第十四章 概率图模型</p></li><li><p>第十五章 规则学习</p></li><li><p>第十六章 强化学习</p></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> Book </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 机器学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>谷歌_ICLR2018_Monotonic Chunkwise Attention</title>
       <link href="2021/02/21/Paper036/"/>
       <url>2021/02/21/Paper036/</url>
