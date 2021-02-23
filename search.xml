@@ -4,6 +4,70 @@
   
     
     <entry>
+      <title>Kaldi语音识别实战_陈果果&amp;都家宇&amp;那兴宇&amp;张俊博</title>
+      <link href="2021/02/23/Book006/"/>
+      <url>2021/02/23/Book006/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p align="left">  <img src= "/img/loading.gif" data-lazy-src="/img/books/book_006-02.jpg" width = 240 height = 320/></p><ul><li><p>第一章 语音识别技术基础</p></li><li><p>第二章 Kaldi概要介绍</p></li><li><p>第三章 数据整理</p></li><li><p>第四章 经典声学建模技术</p></li><li><p>第五章 构图和解码</p></li><li><p>第六章 深度学习声学建模技术</p></li><li><p>第七章 关键词搜索与语音唤醒</p></li><li><p>第八章 说话人识别</p></li><li><p>第九章 语音识别应用实践</p></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> Book </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> 语音唤醒 </tag>
+            
+            <tag> 说话人识别 </tag>
+            
+            <tag> Kaldi </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>解析深度学习：语音识别实践_俞栋&amp;邓力（俞凯&amp;钱彦旻等译）</title>
+      <link href="2021/02/23/Book005/"/>
+      <url>2021/02/23/Book005/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p align="left">  <img src= "/img/loading.gif" data-lazy-src="/img/books/book_005-02.jpg" width = 240 height = 320/></p><ul><li><p>第一章 简介</p></li><li><p>第二章 混合高斯模型</p></li><li><p>第三章 隐马尔可夫模型及其变体</p></li><li><p>第四章 深度神经网络</p></li><li><p>第五章 高级模型初始化技术</p></li><li><p>第六章 深度神经网络-隐马尔可夫模型混合系统</p></li><li><p>第七章 训练和解码的加速</p></li><li><p>第八章 深度神经网络序列鉴别性训练</p></li><li><p>第九章 深度神经网络中的特征表示学习</p></li><li><p>第十章 深度神经网络和混合高斯模型的融合</p></li><li><p>第十一章 深度神经网络的自适应技术</p></li><li><p>第十二章 深度神经网络中的表征共享和迁移</p></li><li><p>第十三章 循环神经网络及相关模型</p></li><li><p>第十四章 计算型网络</p></li><li><p>第十五章 总结及未来研究方向</p></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> Book </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> GMM </tag>
+            
+            <tag> HMM </tag>
+            
+            <tag> GMM-HMM </tag>
+            
+            <tag> DNN-HMM </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>数位语音处理概论_李琳山_国立台湾大学</title>
       <link href="2021/02/23/Tutorial003/"/>
       <url>2021/02/23/Tutorial003/</url>
@@ -508,11 +572,11 @@
       
         <tags>
             
+            <tag> 语音唤醒 </tag>
+            
             <tag> End-to-End </tag>
             
             <tag> Attention </tag>
-            
-            <tag> 语音唤醒 </tag>
             
         </tags>
       
@@ -978,13 +1042,13 @@
             
             <tag> 语音识别 </tag>
             
-            <tag> End-to-End </tag>
+            <tag> HMM </tag>
             
             <tag> Kaldi </tag>
             
-            <tag> 声学模型 </tag>
+            <tag> End-to-End </tag>
             
-            <tag> HMM </tag>
+            <tag> 声学模型 </tag>
             
             <tag> DNN </tag>
             
