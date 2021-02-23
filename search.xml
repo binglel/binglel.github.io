@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>数位语音处理概论_李琳山_国立台湾大学</title>
+      <link href="2021/02/23/Tutorial003/"/>
+      <url>2021/02/23/Tutorial003/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/104S204">数位语音处理概论（官网：视频+课件）</a></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> Tutorial </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> 信号处理 </tag>
+            
+            <tag> 说话人认证 </tag>
+            
+            <tag> 声学模型 </tag>
+            
+            <tag> 语言模型 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>现代语音信号处理_胡航</title>
       <link href="2021/02/22/Book002/"/>
       <url>2021/02/22/Book002/</url>
@@ -310,7 +343,7 @@
       <link href="2021/02/08/Tutorial002/"/>
       <url>2021/02/08/Tutorial002/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="https://www.bilibili.com/video/BV1nt4y1U7Zb?p=1">深度学习与人类语言处理课程2020（完整版）</a></p></blockquote><blockquote><p><a href="https://www.bilibili.com/video/BV1q5411V7tT?from=search&seid=15419541146503431608">深度学习与人类语言处理课程2020之语音识别</a></p></blockquote><ul><li><p>深度学习与人类语言处理课程介绍</p></li><li><p>语音识别课程视频内容</p><ul><li>ASR Summary</li><li>Listen,Attention and Spell(LAS)</li><li>Connectionist Temporal Classification(CTC)</li><li>RNN Transducer(RNN-T)</li><li>Neural Transducer</li><li>Monotonic Chunkwise Attention(MoChA)</li><li>Hidden Markov Model(HMM)</li><li>Alignment of HMM/CTC/RNN-T</li><li>Score Computation of HMM/CTC/RNN-T</li><li>Decoding of HMM/CTC/RNN-T</li><li>Language Model(N-Gram/NN/RNN)</li><li>Shallow/Deep Fusion/Cold Fusion</li></ul></li><li><p>语音转换课程视频内容</p><ul><li>Content/Speaker Encoder-Decoder</li><li>CycleGAN</li><li>StarGAN</li><li>Blow</li></ul></li></ul>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLHLP20.html">深度学习与人类语言处理课程2020（官网：视频+课件+作业）</a></p></blockquote><blockquote><p><a href="https://www.bilibili.com/video/BV1nt4y1U7Zb?p=1">深度学习与人类语言处理课程2020（完整版）</a></p></blockquote><blockquote><p><a href="https://www.bilibili.com/video/BV1q5411V7tT?from=search&seid=15419541146503431608">深度学习与人类语言处理课程2020之语音识别</a></p></blockquote><ul><li><p>深度学习与人类语言处理课程介绍</p></li><li><p>语音识别课程视频内容</p><ul><li>ASR Summary</li><li>Listen,Attention and Spell(LAS)</li><li>Connectionist Temporal Classification(CTC)</li><li>RNN Transducer(RNN-T)</li><li>Neural Transducer</li><li>Monotonic Chunkwise Attention(MoChA)</li><li>Hidden Markov Model(HMM)</li><li>Alignment of HMM/CTC/RNN-T</li><li>Score Computation of HMM/CTC/RNN-T</li><li>Decoding of HMM/CTC/RNN-T</li><li>Language Model(N-Gram/NN/RNN)</li><li>Shallow/Deep Fusion/Cold Fusion</li></ul></li><li><p>语音转换课程视频内容</p><ul><li>Content/Speaker Encoder-Decoder</li><li>CycleGAN</li><li>StarGAN</li><li>Blow</li></ul></li><li><p>语音分离课程视频内容</p><ul><li>Deep Clustering</li><li>Permutation Invariant Training(PIT)</li><li>Time-domain Audio Separation Network(TasNet)</li></ul></li><li><p>语音合成课程视频内容</p><ul><li>Concatenative Approach</li><li>Parametic Approach</li><li>DeepVoice 1/3</li><li>Tacotron 1/2</li><li>FastSpeech/DurIAN</li><li>Dual Learning</li><li>Speaker Embedding/Global Style Token(GST)</li></ul></li><li><p>语音验证(说话人认证)课程视频内容</p><ul><li>Speaker Embedding</li><li>i-vector</li><li>d-vector</li><li>x-vector</li><li>End-to-End</li></ul></li><li><p>自然语言处理课程视频内容</p><ul><li>Category</li><li>Part-of-Speech(POS) Tagging</li><li>Word Segmentation</li><li>Parsing</li><li>Coreference Resolution</li><li>Summarization</li><li>Machine Translation</li><li>Grammar Error Correction</li><li>Sentiment Classification</li><li>Stance Detection</li><li>Veracity Prediction</li><li>Natural Language Inference(NLI)</li><li>Search Engine</li><li>Question Answering(QA)</li><li>Dialogue</li><li>Natural Language Generation(NLG)</li><li>Natural Language Understanding(NLU)</li><li>Knowledge Extraction</li><li>Name Entity Recognition(NER)</li><li>Relation Extraction    </li><li>BERT</li></ul></li></ul>]]></content>
       
       
       <categories>
@@ -327,6 +360,8 @@
             <tag> 语音识别 </tag>
             
             <tag> 语音转换 </tag>
+            
+            <tag> 说话人认证 </tag>
             
             <tag> 深度学习 </tag>
             
