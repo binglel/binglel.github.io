@@ -4,6 +4,58 @@
   
     
     <entry>
+      <title>基于Kaldi的语音识别_Dan·Povey_约翰斯·霍普金斯大学</title>
+      <link href="2021/02/27/Tutorial008/"/>
+      <url>2021/02/27/Tutorial008/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://www.danielpovey.com/">Dan Povey</a></p></blockquote><blockquote><p><a href="https://www.clsp.jhu.edu/">The Center for Language and Speech Processing(CLSP@JHU)</a></p></blockquote><blockquote><p><a href="http://www.danielpovey.com/kaldi-lectures.html">基于Kaldi的语音识别（官网：课件）</a></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> Tutorial </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> Kaldi </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>语音识别：从入门到精通_谢磊_西北工业大学</title>
+      <link href="2021/02/27/Tutorial007/"/>
+      <url>2021/02/27/Tutorial007/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://lxie.npu-aslp.org/">谢磊</a> / <a href="https://teacher.nwpu.edu.cn/xielei">谢磊</a></p></blockquote><blockquote><p><a href="http://www.npu-aslp.org/">西北工业大学音频、语音与语言处理研究组(ASLP@NPU)</a></p></blockquote><blockquote><p><a href="https://www.shenlanxueyuan.com/course/311">语音识别：从入门到精通</a></p></blockquote><ul><li><p>语音识别综述-谢磊</p></li><li><p>语音信号处理及特征提取-孙思宁</p></li><li><p>GMM以及EM算法-孙思宁</p></li><li><p>隐马尔可夫模型(HMM)-许开拓</p></li><li><p>基于GMM-HMM的语音识别系统-张彬彬</p></li><li><p>基于DNN-HMM的语音识别系统-张彬彬</p></li><li><p>语言模型-吕航</p></li><li><p>基于WFST的解码器-吕航</p></li><li><p>区分性训练和LF-MMI-张彬彬</p></li><li><p>端到端语音识别-许开拓</p></li><li><p>课程总结-谢磊</p></li><li><p>kaldi学习经验-吕航</p></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> Tutorial </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>文本数据管理与分析_邱锡鹏_复旦大学</title>
       <link href="2021/02/26/Tutorial006/"/>
       <url>2021/02/26/Tutorial006/</url>
@@ -1651,9 +1703,9 @@
       
         <tags>
             
-            <tag> 网络技术 </tag>
-            
             <tag> Wi-Fi </tag>
+            
+            <tag> 网络技术 </tag>
             
             <tag> 网络热点服务 </tag>
             
@@ -1705,11 +1757,11 @@
       
         <tags>
             
+            <tag> 网络技术 </tag>
+            
             <tag> Python </tag>
             
             <tag> SOCK5 </tag>
-            
-            <tag> 网络技术 </tag>
             
             <tag> 代理服务 </tag>
             
