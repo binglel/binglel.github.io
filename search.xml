@@ -4,6 +4,41 @@
   
     
     <entry>
+      <title>跟踪在语音领域最新技术和最新结果</title>
+      <link href="2021/02/28/Blog005/"/>
+      <url>2021/02/28/Blog005/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="https://github.com/syhw/wer_are_we">wer_are_we</a></p></blockquote><p><strong>语音识别任务的数据集列表</strong></p><ul><li><p>LibriSpeech</p></li><li><p>WSJ</p></li><li><p>Hub5’00 Evaluation(Switchboard / CallHome)</p></li><li><p>Rich Transcriptions</p></li><li><p>Fisher</p></li><li><p>TED-LIUM</p></li><li><p>CHiME6(multiarray noisy speech)</p></li><li><p>CHiME(noisy speech)</p></li><li><p>TIMIT</p></li></ul><blockquote><p><a href="https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers">awesome-speech-recognition-speech-synthesis-papers</a></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> Blog </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音合成 </tag>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> 语音转换 </tag>
+            
+            <tag> 音乐合成 </tag>
+            
+            <tag> 说话人认证 </tag>
+            
+            <tag> 语言模型 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>基于Kaldi的语音识别_Dan·Povey_约翰斯·霍普金斯大学</title>
       <link href="2021/02/27/Tutorial008/"/>
       <url>2021/02/27/Tutorial008/</url>
@@ -97,9 +132,9 @@
       
         <tags>
             
-            <tag> Attention </tag>
-            
             <tag> RNN </tag>
+            
+            <tag> Attention </tag>
             
             <tag> CNN </tag>
             
@@ -219,13 +254,13 @@
             
             <tag> 语音识别 </tag>
             
-            <tag> 信号处理 </tag>
-            
             <tag> 说话人认证 </tag>
             
-            <tag> 声学模型 </tag>
-            
             <tag> 语言模型 </tag>
+            
+            <tag> 信号处理 </tag>
+            
+            <tag> 声学模型 </tag>
             
         </tags>
       
@@ -428,9 +463,9 @@
             
             <tag> End-to-End </tag>
             
-            <tag> CTC </tag>
-            
             <tag> RNN </tag>
+            
+            <tag> CTC </tag>
             
         </tags>
       
@@ -457,9 +492,9 @@
             
             <tag> 语音识别 </tag>
             
-            <tag> BLSTM </tag>
-            
             <tag> Attention </tag>
+            
+            <tag> BLSTM </tag>
             
             <tag> Sequence-to-Sequence </tag>
             
@@ -488,9 +523,9 @@
       
         <tags>
             
-            <tag> End-to-End </tag>
-            
             <tag> 说话人认证 </tag>
+            
+            <tag> End-to-End </tag>
             
             <tag> Attention </tag>
             
@@ -521,9 +556,9 @@
       
         <tags>
             
-            <tag> End-to-End </tag>
-            
             <tag> 说话人认证 </tag>
+            
+            <tag> End-to-End </tag>
             
             <tag> LSTM </tag>
             
@@ -647,9 +682,9 @@
       
         <tags>
             
-            <tag> End-to-End </tag>
-            
             <tag> 说话人认证 </tag>
+            
+            <tag> End-to-End </tag>
             
             <tag> LSTM </tag>
             
@@ -928,17 +963,17 @@
             
             <tag> 语音识别 </tag>
             
+            <tag> 语言模型 </tag>
+            
             <tag> End-to-End </tag>
             
             <tag> 声学模型 </tag>
             
+            <tag> RNN </tag>
+            
             <tag> 解码器 </tag>
             
             <tag> CTC </tag>
-            
-            <tag> 语言模型 </tag>
-            
-            <tag> RNN </tag>
             
             <tag> CNN </tag>
             
@@ -1031,17 +1066,17 @@
             
             <tag> 语音识别 </tag>
             
+            <tag> 语言模型 </tag>
+            
             <tag> End-to-End </tag>
             
             <tag> 声学模型 </tag>
             
+            <tag> RNN </tag>
+            
             <tag> 解码器 </tag>
             
             <tag> CTC </tag>
-            
-            <tag> 语言模型 </tag>
-            
-            <tag> RNN </tag>
             
             <tag> N-Gram </tag>
             
@@ -1074,13 +1109,13 @@
             
             <tag> 声学模型 </tag>
             
+            <tag> RNN </tag>
+            
             <tag> 解码器 </tag>
             
             <tag> CTC </tag>
             
             <tag> Attention </tag>
-            
-            <tag> RNN </tag>
             
         </tags>
       
@@ -1142,13 +1177,13 @@
             
             <tag> 声学模型 </tag>
             
+            <tag> RNN </tag>
+            
             <tag> 解码器 </tag>
             
             <tag> CTC </tag>
             
             <tag> Attention </tag>
-            
-            <tag> RNN </tag>
             
         </tags>
       
@@ -1175,13 +1210,21 @@
             
             <tag> 语音识别 </tag>
             
-            <tag> Kaldi </tag>
+            <tag> 语言模型 </tag>
             
             <tag> HMM </tag>
+            
+            <tag> Kaldi </tag>
             
             <tag> End-to-End </tag>
             
             <tag> 声学模型 </tag>
+            
+            <tag> 解码器 </tag>
+            
+            <tag> CTC </tag>
+            
+            <tag> Attention </tag>
             
             <tag> DNN </tag>
             
@@ -1192,14 +1235,6 @@
             <tag> LF-MMI </tag>
             
             <tag> Chain </tag>
-            
-            <tag> 解码器 </tag>
-            
-            <tag> CTC </tag>
-            
-            <tag> Attention </tag>
-            
-            <tag> 语言模型 </tag>
             
             <tag> RNNLM </tag>
             
@@ -1261,13 +1296,13 @@
             
             <tag> 语音合成 </tag>
             
+            <tag> 语音转换 </tag>
+            
             <tag> 合成器 </tag>
             
             <tag> 声码器 </tag>
             
             <tag> Tacotron2 </tag>
-            
-            <tag> 语音转换 </tag>
             
             <tag> 多语言/跨语言 </tag>
             
@@ -1298,6 +1333,8 @@
             
             <tag> 语音合成 </tag>
             
+            <tag> 语音转换 </tag>
+            
             <tag> 合成器 </tag>
             
             <tag> Tacotron </tag>
@@ -1305,8 +1342,6 @@
             <tag> 声码器 </tag>
             
             <tag> Griffin-Lim </tag>
-            
-            <tag> 语音转换 </tag>
             
             <tag> 声纹编码器 </tag>
             
@@ -1339,11 +1374,11 @@
             
             <tag> 语音合成 </tag>
             
+            <tag> 语音转换 </tag>
+            
             <tag> 合成器 </tag>
             
             <tag> 声码器 </tag>
-            
-            <tag> 语音转换 </tag>
             
             <tag> 语音后验图 </tag>
             
@@ -1380,6 +1415,8 @@
             
             <tag> 语音合成 </tag>
             
+            <tag> 语音转换 </tag>
+            
             <tag> 合成器 </tag>
             
             <tag> Tacotron </tag>
@@ -1389,8 +1426,6 @@
             <tag> Griffin-Lim </tag>
             
             <tag> WaveNet </tag>
-            
-            <tag> 语音转换 </tag>
             
             <tag> 说话人风格迁移 </tag>
             
@@ -1423,6 +1458,8 @@
             
             <tag> 语音合成 </tag>
             
+            <tag> 语音转换 </tag>
+            
             <tag> 合成器 </tag>
             
             <tag> Tacotron </tag>
@@ -1432,8 +1469,6 @@
             <tag> Griffin-Lim </tag>
             
             <tag> WaveNet </tag>
-            
-            <tag> 语音转换 </tag>
             
             <tag> 说话人风格迁移 </tag>
             
@@ -1499,6 +1534,10 @@
             
             <tag> 语音合成 </tag>
             
+            <tag> 语音转换 </tag>
+            
+            <tag> 说话人认证 </tag>
+            
             <tag> 合成器 </tag>
             
             <tag> 声码器 </tag>
@@ -1507,11 +1546,7 @@
             
             <tag> WaveNet </tag>
             
-            <tag> 语音转换 </tag>
-            
             <tag> 说话人风格迁移 </tag>
-            
-            <tag> 说话人认证 </tag>
             
             <tag> 声纹编码器 </tag>
             
