@@ -4,7 +4,7 @@
   
     
     <entry>
-      <title>跟踪在语音领域最新技术和最新结果</title>
+      <title>跟踪语音领域最新技术和最新结果</title>
       <link href="2021/02/28/Blog005/"/>
       <url>2021/02/28/Blog005/</url>
       
@@ -1429,9 +1429,9 @@
             
             <tag> 说话人风格迁移 </tag>
             
-            <tag> 韵律编码器 </tag>
-            
             <tag> 声纹编码器 </tag>
+            
+            <tag> 韵律编码器 </tag>
             
         </tags>
       
