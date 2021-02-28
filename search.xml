@@ -132,9 +132,9 @@
       
         <tags>
             
-            <tag> RNN </tag>
-            
             <tag> Attention </tag>
+            
+            <tag> RNN </tag>
             
             <tag> CNN </tag>
             
@@ -463,9 +463,9 @@
             
             <tag> End-to-End </tag>
             
-            <tag> RNN </tag>
-            
             <tag> CTC </tag>
+            
+            <tag> RNN </tag>
             
         </tags>
       
@@ -492,9 +492,9 @@
             
             <tag> 语音识别 </tag>
             
-            <tag> Attention </tag>
-            
             <tag> BLSTM </tag>
+            
+            <tag> Attention </tag>
             
             <tag> Sequence-to-Sequence </tag>
             
@@ -969,11 +969,11 @@
             
             <tag> 声学模型 </tag>
             
-            <tag> RNN </tag>
-            
             <tag> 解码器 </tag>
             
             <tag> CTC </tag>
+            
+            <tag> RNN </tag>
             
             <tag> CNN </tag>
             
@@ -1072,11 +1072,11 @@
             
             <tag> 声学模型 </tag>
             
-            <tag> RNN </tag>
-            
             <tag> 解码器 </tag>
             
             <tag> CTC </tag>
+            
+            <tag> RNN </tag>
             
             <tag> N-Gram </tag>
             
@@ -1109,13 +1109,13 @@
             
             <tag> 声学模型 </tag>
             
-            <tag> RNN </tag>
-            
             <tag> 解码器 </tag>
             
             <tag> CTC </tag>
             
             <tag> Attention </tag>
+            
+            <tag> RNN </tag>
             
         </tags>
       
@@ -1177,13 +1177,13 @@
             
             <tag> 声学模型 </tag>
             
-            <tag> RNN </tag>
-            
             <tag> 解码器 </tag>
             
             <tag> CTC </tag>
             
             <tag> Attention </tag>
+            
+            <tag> RNN </tag>
             
         </tags>
       
@@ -1220,12 +1220,6 @@
             
             <tag> 声学模型 </tag>
             
-            <tag> 解码器 </tag>
-            
-            <tag> CTC </tag>
-            
-            <tag> Attention </tag>
-            
             <tag> DNN </tag>
             
             <tag> TDNN </tag>
@@ -1235,6 +1229,12 @@
             <tag> LF-MMI </tag>
             
             <tag> Chain </tag>
+            
+            <tag> 解码器 </tag>
+            
+            <tag> CTC </tag>
+            
+            <tag> Attention </tag>
             
             <tag> RNNLM </tag>
             
