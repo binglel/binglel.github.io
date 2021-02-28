@@ -1175,9 +1175,9 @@
             
             <tag> 语音识别 </tag>
             
-            <tag> HMM </tag>
-            
             <tag> Kaldi </tag>
+            
+            <tag> HMM </tag>
             
             <tag> End-to-End </tag>
             
