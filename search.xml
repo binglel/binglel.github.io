@@ -1263,9 +1263,9 @@
             
             <tag> 合成器 </tag>
             
-            <tag> Tacotron2 </tag>
-            
             <tag> 声码器 </tag>
+            
+            <tag> Tacotron2 </tag>
             
             <tag> 语音转换 </tag>
             
@@ -1300,9 +1300,9 @@
             
             <tag> 合成器 </tag>
             
-            <tag> 声码器 </tag>
-            
             <tag> Tacotron </tag>
+            
+            <tag> 声码器 </tag>
             
             <tag> Griffin-Lim </tag>
             
@@ -1382,13 +1382,13 @@
             
             <tag> 合成器 </tag>
             
-            <tag> 声码器 </tag>
-            
-            <tag> WaveNet </tag>
-            
             <tag> Tacotron </tag>
             
+            <tag> 声码器 </tag>
+            
             <tag> Griffin-Lim </tag>
+            
+            <tag> WaveNet </tag>
             
             <tag> 语音转换 </tag>
             
@@ -1425,13 +1425,13 @@
             
             <tag> 合成器 </tag>
             
-            <tag> 声码器 </tag>
-            
-            <tag> WaveNet </tag>
-            
             <tag> Tacotron </tag>
             
+            <tag> 声码器 </tag>
+            
             <tag> Griffin-Lim </tag>
+            
+            <tag> WaveNet </tag>
             
             <tag> 语音转换 </tag>
             
@@ -1468,9 +1468,9 @@
             
             <tag> 合成器 </tag>
             
-            <tag> 声码器 </tag>
-            
             <tag> Tacotron </tag>
+            
+            <tag> 声码器 </tag>
             
             <tag> Griffin-Lim </tag>
             
@@ -1501,9 +1501,9 @@
             
             <tag> 合成器 </tag>
             
-            <tag> Tacotron2 </tag>
-            
             <tag> 声码器 </tag>
+            
+            <tag> Tacotron2 </tag>
             
             <tag> WaveNet </tag>
             
@@ -1610,9 +1610,9 @@
             
             <tag> 合成器 </tag>
             
-            <tag> Tacotron2 </tag>
-            
             <tag> 声码器 </tag>
+            
+            <tag> Tacotron2 </tag>
             
             <tag> WaveNet </tag>
             
@@ -1645,9 +1645,9 @@
             
             <tag> 合成器 </tag>
             
-            <tag> 声码器 </tag>
-            
             <tag> Tacotron </tag>
+            
+            <tag> 声码器 </tag>
             
             <tag> Griffin-Lim </tag>
             
