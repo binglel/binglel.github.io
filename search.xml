@@ -4,6 +4,70 @@
   
     
     <entry>
+      <title>加泰罗尼亚理工大学_Interspeech2017_SEGAN：Speech Enhancement Generative Adversarial Network</title>
+      <link href="2021/03/02/Paper037/"/>
+      <url>2021/03/02/Paper037/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>当前的语音增强技术是在频谱域上操作或开发一些更高级别的特征。其中大多数能解决有限数量的噪声环境，并依赖于一阶统计量。为了规避这些问题，深度网络越来越多地被使用，这要归功于它们从大样本集中学习复杂函数的能力。在这项工作中，我们提出使用生成对抗网络进行语音增强。与当前的技术不同，我们在波形级别操作，端到端地训练模型，并将28个说话人和40个不同的噪声环境合并到同一模型中，以便在它们之间共享模型参数。我们使用一个独立的、未见的测试集对所提出的模型进行评估，该测试集有两个说话人和20种不同的噪声环境。增强后的样本证实了该模型的可行性，客观评价和主观评价都证实了该模型的有效性。在此基础上，我们开启了语音增强生成架构的探索，它可能会逐步吸收更多以语音为中心的设计选择，以提高其性能。</p><p><strong>参考</strong><br>[1] <em>Pascual S, Bonafonte A, Serra J. SEGAN: Speech enhancement generative adversarial network[J]. arXiv preprint arXiv:1703.09452, 2017.</em><a href="https://arxiv.org/abs/1703.09452">[pdf]</a></p><p><strong>源码</strong><br>[1] segan<a href="https://github.com/santi-pdp/segan">[GitHub]</a><br>[2] <a href="https://binglel.gitee.io/2021/03/02/Open001/">语音增强模型-SEGAN开源代码</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音增强 </tag>
+            
+            <tag> GAN </tag>
+            
+            <tag> SEGAN </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>语音增强模型-SEGAN开源代码</title>
+      <link href="2021/03/02/Open001/"/>
+      <url>2021/03/02/Open001/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="源码"><a href="#源码" class="headerlink" title="源码"></a>源码</h1><ul><li><a href="https://github.com/santi-pdp/segan">segan</a></li></ul><h1 id="部署"><a href="#部署" class="headerlink" title="部署"></a>部署</h1><h2 id="虚拟空间"><a href="#虚拟空间" class="headerlink" title="虚拟空间"></a>虚拟空间</h2><p>CUDA v8.0 + CUDNN v5.1</p><pre>conda create -n py2_tf0.12_gpu python=2.7source activate py2_tf0.12_gpu</pre><h2 id="配置环境"><a href="#配置环境" class="headerlink" title="配置环境"></a>配置环境</h2><pre>git clone https://github.com/santi-pdp/segancd segansudo apt install soxpip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple</pre><h1 id="数据处理"><a href="#数据处理" class="headerlink" title="数据处理"></a>数据处理</h1><pre>chmod 754 prepare_data.sh./prepare_data.sh</pre><h2 id="运行结果"><a href="#运行结果" class="headerlink" title="运行结果"></a>运行结果</h2><pre>~/segan/data ~/seganINFLATING CLEAN TRAINSET ZIP...CONVERTING CLEAN WAVS TO 16K...~/segan/data/clean_trainset_wav ~/segan/data ~/segan~/segan/data ~/seganINFLATING NOISY TRAINSET ZIP...CONVERTING NOISY WAVS TO 16K...~/segan/data/noisy_trainset_wav ~/segan/data ~/segan~/segan/data ~/segan~/seganPREPARING TRAINING DATA...I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locallyI tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locallyI tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locallyI tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locallyI tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally--------------------------------------------------Processing wav file 11572/11572 data/clean_trainset_wav_16k/p233_033.wav          **************************************************Total processing and writing time: 35.0719149113 s</pre><p>首先完成数据下载和解压，然后通过sox工具完成采样频率转换（to 16kHz），接着读取成对的干净语音和带躁语音，通过一个0.5（500ms）的滑动窗口生成标准的每秒2**14（16384）个采样点，最后将所有生成的数据存储为一个TFRecord格式的文件，目的是在训练时可高效读取。</p><h1 id="模型训练"><a href="#模型训练" class="headerlink" title="模型训练"></a>模型训练</h1><pre>chmod 754 train_segan.sh./train_segan.sh</pre><p>更多信息可参阅官网及源码！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Open </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Python </tag>
+            
+            <tag> 开源代码 </tag>
+            
+            <tag> TensorFlow </tag>
+            
+            <tag> 语音增强 </tag>
+            
+            <tag> GAN </tag>
+            
+            <tag> SEGAN </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>跟踪语音领域最新技术和最新结果</title>
       <link href="2021/02/28/Blog005/"/>
       <url>2021/02/28/Blog005/</url>
@@ -319,37 +383,6 @@
     
     
     <entry>
-      <title>谷歌_20160804_A Neural Transducer</title>
-      <link href="2021/02/21/Paper035/"/>
-      <url>2021/02/21/Paper035/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>序列到序列模型已经在各种任务上取得了令人印象深刻的结果。然而，它们不适用于需要随着更多数据到来而进行增量预测的任务，或者具有长输入序列和输出序列的任务。这是因为它们生成以整个输入序列为条件的输出序列。在本文中，我们提出了一种神经转换器，它可以在更多的输入到来时进行增量预测，而不需要重新进行整个输入序列计算。与序列到序列模型不同，神经转换器根据部分观察到的输入序列和部分生成的序列来计算下一步分布。在每个时间步，转换器可以决定发射零到多个输出符号。数据可以使用编码器进行处理，并作为转换器的输入。在每个时间步发射一个符号的离散决策使得用传统的反向传播很难学习。然而，可以通过使用动态规划算法来训练转换器以产生离散决策。我们的实验表明，神经转换器在需要数据输入时产生输出预测的环境下工作良好。我们还发现，即使在没有使用注意力机制的情况下，神经转换器在长序列中也表现得很好。</p><p><strong>参考</strong><br>[1] <em>Jaitly N, Sussillo D, Le Q V, et al. A neural transducer[J]. arXiv preprint arXiv:1511.04868, 2015.</em><a href="https://arxiv.org/abs/1511.04868">[pdf]</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Paper </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 语音识别 </tag>
-            
-            <tag> RNN </tag>
-            
-            <tag> RNN-T </tag>
-            
-            <tag> Sequence-to-Sequence </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>谷歌_ICLR2018_Monotonic Chunkwise Attention</title>
       <link href="2021/02/21/Paper036/"/>
       <url>2021/02/21/Paper036/</url>
@@ -373,6 +406,37 @@
             <tag> Sequence-to-Sequence </tag>
             
             <tag> MoChA </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>谷歌_20160804_A Neural Transducer</title>
+      <link href="2021/02/21/Paper035/"/>
+      <url>2021/02/21/Paper035/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>序列到序列模型已经在各种任务上取得了令人印象深刻的结果。然而，它们不适用于需要随着更多数据到来而进行增量预测的任务，或者具有长输入序列和输出序列的任务。这是因为它们生成以整个输入序列为条件的输出序列。在本文中，我们提出了一种神经转换器，它可以在更多的输入到来时进行增量预测，而不需要重新进行整个输入序列计算。与序列到序列模型不同，神经转换器根据部分观察到的输入序列和部分生成的序列来计算下一步分布。在每个时间步，转换器可以决定发射零到多个输出符号。数据可以使用编码器进行处理，并作为转换器的输入。在每个时间步发射一个符号的离散决策使得用传统的反向传播很难学习。然而，可以通过使用动态规划算法来训练转换器以产生离散决策。我们的实验表明，神经转换器在需要数据输入时产生输出预测的环境下工作良好。我们还发现，即使在没有使用注意力机制的情况下，神经转换器在长序列中也表现得很好。</p><p><strong>参考</strong><br>[1] <em>Jaitly N, Sussillo D, Le Q V, et al. A neural transducer[J]. arXiv preprint arXiv:1511.04868, 2015.</em><a href="https://arxiv.org/abs/1511.04868">[pdf]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> RNN </tag>
+            
+            <tag> RNN-T </tag>
+            
+            <tag> Sequence-to-Sequence </tag>
             
         </tags>
       
@@ -895,11 +959,11 @@
             
             <tag> 语音识别 </tag>
             
-            <tag> Attention </tag>
-            
             <tag> 语音增强 </tag>
             
             <tag> SEGAN </tag>
+            
+            <tag> Attention </tag>
             
             <tag> WGAN </tag>
             
