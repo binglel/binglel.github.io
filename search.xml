@@ -4,6 +4,41 @@
   
     
     <entry>
+      <title>清华大学_Datasets_THCHS30</title>
+      <link href="2021/03/06/Data001/"/>
+      <url>2021/03/06/Data001/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://cslt.riit.tsinghua.edu.cn/">清华大学语音和语言技术中心（CSLT@THU）</a></p></blockquote><blockquote><p><a href="http://cslt.riit.tsinghua.edu.cn/mediawiki/index.php/Public_data">CSLT Open_Data List</a></p></blockquote><ul><li><a href="http://166.111.134.19:7777/data/thchs30/README.html">下载地址</a><ul><li><a href="http://www.openslr.org/18/">0penSLR</a><br>SLR18 is used by the Kaldi: A Free Chinese Speech Corpus Released by CSLT@Tsinghua University</li><li><a href="http://166.111.134.19:7777/data/thchs30/standalone.html">Standalone</a><br>This version is used by the HTK, Sphinx etc.</li></ul></li></ul><p>THCHS30是一个很经典的中文语音数据集，包含了<code>1万余条</code>语音文件，大约<code>40小时</code>的中文语音数据，内容以文章、诗句为主。它是由清华大学语音与语言技术中心（CSLT）出版的开放式中文语音数据库。原创录音于2002年由朱晓燕教授在清华大学计算机科学系智能与系统重点实验室监督下进行，原名为“TCMSD”，代表“清华连续普通话语音数据库”。13年后的出版由王东博士发起，并得到了朱晓燕教授的支持。他们希望为语音识别领域的新入门的研究人员提供玩具级别的数据库，因此，数据库对学术用户完全免费。</p><p><strong>Data(13388条) = TrainData(10000条) + DevData(893条) + TestData(2495条)</strong></p><p><strong>女声ID</strong>（49）</p><pre>A2、A4、A6、A7、A11、A12、A13、A14、A19、A22、A23、A32、A34、A36;B2、B4、B6、B7、B11、B12、B15、B22、B31、B32、B33;C2、C4、C6、C7、C12、C13、C14、C17、C18、C19、C20、C21、C22、C23、C31;D4、D6、D7、D11、D12、D13、D21、D31、D32.</pre><p><strong>男声ID</strong>（10）</p><pre>A5、A8、A9、A33、A35、B8、B21、B34、C8、D8.</pre><p><strong>参考</strong><br>[1] <em>Wang D, Zhang X. Thchs-30: A free chinese speech corpus[J]. arXiv preprint arXiv:1512.01882, 2015.</em><a href="https://arxiv.org/abs/1512.01882">[pdf]</a></p><p><strong>源码</strong><br>[1] kaldi<a href="https://github.com/kaldi-asr/kaldi">[GitHub]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Data </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音合成 </tag>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> 说话人识别 </tag>
+            
+            <tag> Kaldi </tag>
+            
+            <tag> 中文语音数据集 </tag>
+            
+            <tag> HTK </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>谷歌_Interspeech2019_SpecAugment：A Simple Data Augmentation Method for Automatic Speech Recognition</title>
       <link href="2021/03/04/Paper038/"/>
       <url>2021/03/04/Paper038/</url>
