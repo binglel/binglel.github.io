@@ -4,6 +4,120 @@
   
     
     <entry>
+      <title>希尔贝壳_Datasets_AISHELL-3</title>
+      <link href="2021/03/07/Data006/"/>
+      <url>2021/03/07/Data006/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://www.aishelltech.com/">希尔贝壳官网</a></p><blockquote><p><a href="http://www.aishelltech.com/aishell_3">AISHELL-3</a></p></blockquote></blockquote><ul><li>下载地址<ul><li><a href="http://www.openslr.org/93/">OpenSLR</a></li><li><a href="https://mab.to/nqR84htNPt662">Netdisk</a></li></ul></li></ul><p>希尔贝壳中文普通话语音数据库AISHELL-3的语音时长为85小时88035句，可做为多说话人合成系统。录制过程在安静室内环境中， 使用高保真麦克风（44.1kHz，16bit）。218名来自中国不同口音区域的发言人参与录制。专业语音校对人员进行拼音和韵律标注，并通过严格质量检验，此数据库音字确率在98%以上。</p><p><strong>参考</strong><br>[1] <em>Shi Y, Bu H, Xu X, et al. AISHELL-3: A Multi-speaker Mandarin TTS Corpus and the Baselines[J]. arXiv preprint arXiv:2010.11567, 2020.</em><a href="https://arxiv.org/abs/2010.11567">[pdf]</a></p><p><strong>源码</strong><br>[1] aishell-3-baseline-fc<a href="https://github.com/sos1sos2Sixteen/aishell-3-baseline-fc">[GitHub]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Data </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音合成 </tag>
+            
+            <tag> 中文语音数据集 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>希尔贝壳_Datasets_AISHELL-2</title>
+      <link href="2021/03/07/Data005/"/>
+      <url>2021/03/07/Data005/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://www.aishelltech.com/">希尔贝壳官网</a></p><blockquote><p><a href="http://www.aishelltech.com/aishell_2">AISHELL-2</a></p></blockquote></blockquote><p>希尔贝壳中文普通话语音数据库AISHELL-2的语音时长为<code>1000小时</code>，其中718小时来自AISHELL-ASR0009-[ZH-CN]，282小时来自AISHELL-ASR0010-[ZH-CN]。录音文本涉及唤醒词、语音控制词、智能家居、无人驾驶、工业生产等12个领域。录制过程在安静室内环境中， 同时使用3种不同设备： 高保真麦克风（44.1kHz，16bit）；Android系统手机（16kHz，16bit）；iOS系统手机（16kHz，16bit）。AISHELL-2采用iOS系统手机录制的语音数据。<code>1991名</code>来自中国不同口音区域的发言人参与录制。经过专业语音校对人员转写标注，并通过严格质量检验，此数据库文本正确率在96%以上。<br><strong>需申请下载</strong></p><p><strong>参考</strong><br>[1] <em>Du J, Na X, Liu X, et al. Aishell-2: Transforming mandarin asr research into industrial scale[J]. arXiv preprint arXiv:1808.10583, 2018.</em><a href="https://arxiv.org/abs/1808.10583">[pdf]</a></p><p><strong>源码</strong><br>[1] kaldi<a href="https://github.com/kaldi-asr/kaldi">[GitHub]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Data </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> Kaldi </tag>
+            
+            <tag> 中文语音数据集 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>希尔贝壳_Datasets_AISHELL-1</title>
+      <link href="2021/03/07/Data004/"/>
+      <url>2021/03/07/Data004/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://www.aishelltech.com/">希尔贝壳官网</a></p><blockquote><p><a href="http://www.aishelltech.com/kysjcp">AISHELL-1</a></p></blockquote></blockquote><ul><li>下载地址<ul><li><a href="http://www.openslr.org/33/">OpenSLR</a></li><li><a href="https://mab.to/ojn60R5b4rTor">Netdisk</a></li></ul></li></ul><p>希尔贝壳中文普通话开源语音数据库AISHELL-ASR0009-OS1录音时长<code>178小时</code>，是希尔贝壳中文普通话语音数据库AISHELL-ASR0009的一部分。AISHELL-ASR0009录音文本涉及智能家居、无人驾驶、工业生产等11个领域。录制过程在安静室内环境中， 同时使用3种不同设备： 高保真麦克风（44.1kHz，16-bit）；Android系统手机（16kHz，16-bit）；iOS系统手机（16kHz，16-bit）。高保真麦克风录制的音频降采样为16kHz，用于制作AISHELL-ASR0009-OS1。<code>400名</code>来自中国不同口音区域的发言人参与录制。经过专业语音校对人员转写标注，并通过严格质量检验，此数据库文本正确率在95%以上。分为训练集、开发集、测试集。</p><p><strong>参考</strong><br>[1] <em>Bu H, Du J, Na X, et al. Aishell-1: An open-source mandarin speech corpus and a speech recognition baseline[C]//2017 20th Conference of the Oriental Chapter of the International Coordinating Committee on Speech Databases and Speech I/O Systems and Assessment (O-COCOSDA). IEEE, 2017: 1-5.</em><a href="https://arxiv.org/abs/1709.05522">[pdf]</a></p><p><strong>源码</strong><br>[1] kaldi<a href="https://github.com/kaldi-asr/kaldi">[GitHub]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Data </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> Kaldi </tag>
+            
+            <tag> 中文语音数据集 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>CMU_Datasets_AN4</title>
+      <link href="2021/03/07/Data003/"/>
+      <url>2021/03/07/Data003/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://www.speech.cs.cmu.edu/">Speech at CMU</a></p><blockquote><p><a href="http://www.speech.cs.cmu.edu/databases/">The CMU Audio Databases</a></p></blockquote></blockquote><ul><li>下载地址<ul><li><a href="http://www.speech.cs.cmu.edu/databases/an4/">官网</a><br>This database, also known as AN4 and as the Alphanumeric database, was recorded internally at CMU circa 1991.</li></ul></li></ul><p>AN4是由美国卡内基梅隆大学与1991年采集的，其内容是个人信息录入，总共包含约50分钟的语音。</p><p><strong>源码</strong><br>[1] kaldi<a href="https://github.com/kaldi-asr/kaldi">[GitHub]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Data </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> Kaldi </tag>
+            
+            <tag> 英文语音数据集 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>DARPA_Datasets_TIMIT</title>
       <link href="2021/03/07/Data002/"/>
       <url>2021/03/07/Data002/</url>
@@ -37,7 +151,7 @@
       <link href="2021/03/06/Data001/"/>
       <url>2021/03/06/Data001/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://cslt.riit.tsinghua.edu.cn/">清华大学语音和语言技术中心（CSLT@THU）</a></p></blockquote><blockquote><p><a href="http://cslt.riit.tsinghua.edu.cn/mediawiki/index.php/Public_data">CSLT Open_Data List</a></p></blockquote><ul><li><a href="http://166.111.134.19:7777/data/thchs30/README.html">下载地址</a><ul><li><a href="http://www.openslr.org/18/">0penSLR</a><br>SLR18 is used by the Kaldi: A Free Chinese Speech Corpus Released by CSLT@Tsinghua University</li><li><a href="http://166.111.134.19:7777/data/thchs30/standalone.html">Standalone</a><br>This version is used by the HTK, Sphinx etc.</li></ul></li></ul><p>THCHS30是一个很经典的中文语音数据集，包含了<code>1万余条</code>语音文件，大约<code>40小时</code>的中文语音数据，内容以文章、诗句为主。它是由清华大学语音与语言技术中心（CSLT）出版的开放式中文语音数据库。原创录音于2002年由朱晓燕教授在清华大学计算机科学系智能与系统重点实验室监督下进行，原名为“TCMSD”，代表“清华连续普通话语音数据库”。13年后的出版由王东博士发起，并得到了朱晓燕教授的支持。他们希望为语音识别领域的新入门的研究人员提供玩具级别的数据库，因此，数据库对学术用户完全免费。</p><p><strong>Data(13388条) = TrainData(10000条) + DevData(893条) + TestData(2495条)</strong></p><p><strong>女声ID</strong>（49）</p><pre>A2、A4、A6、A7、A11、A12、A13、A14、A19、A22、A23、A32、A34、A36;B2、B4、B6、B7、B11、B12、B15、B22、B31、B32、B33;C2、C4、C6、C7、C12、C13、C14、C17、C18、C19、C20、C21、C22、C23、C31;D4、D6、D7、D11、D12、D13、D21、D31、D32.</pre><p><strong>男声ID</strong>（10）</p><pre>A5、A8、A9、A33、A35、B8、B21、B34、C8、D8.</pre><p><strong>参考</strong><br>[1] <em>Wang D, Zhang X. Thchs-30: A free chinese speech corpus[J]. arXiv preprint arXiv:1512.01882, 2015.</em><a href="https://arxiv.org/abs/1512.01882">[pdf]</a></p><p><strong>源码</strong><br>[1] kaldi<a href="https://github.com/kaldi-asr/kaldi">[GitHub]</a></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://cslt.riit.tsinghua.edu.cn/">清华大学语音和语言技术中心（CSLT@THU）</a></p><blockquote><p><a href="http://cslt.riit.tsinghua.edu.cn/mediawiki/index.php/Public_data">CSLT Open_Data List</a></p></blockquote></blockquote><ul><li><a href="http://166.111.134.19:7777/data/thchs30/README.html">下载地址</a><ul><li><a href="http://www.openslr.org/18/">0penSLR</a><br>SLR18 is used by the Kaldi: A Free Chinese Speech Corpus Released by CSLT@Tsinghua University</li><li><a href="http://166.111.134.19:7777/data/thchs30/standalone.html">Standalone</a><br>This version is used by the HTK, Sphinx etc.</li></ul></li></ul><p>THCHS30是一个很经典的中文语音数据集，包含了<code>1万余条</code>语音文件，大约<code>40小时</code>的中文语音数据，内容以文章、诗句为主。它是由清华大学语音与语言技术中心（CSLT）出版的开放式中文语音数据库。原创录音于2002年由朱晓燕教授在清华大学计算机科学系智能与系统重点实验室监督下进行，原名为“TCMSD”，代表“清华连续普通话语音数据库”。13年后的出版由王东博士发起，并得到了朱晓燕教授的支持。他们希望为语音识别领域的新入门的研究人员提供玩具级别的数据库，因此，数据库对学术用户完全免费。</p><p><strong>Data(13388条) = TrainData(10000条) + DevData(893条) + TestData(2495条)</strong></p><p><strong>女声ID</strong>（49）</p><pre>A2、A4、A6、A7、A11、A12、A13、A14、A19、A22、A23、A32、A34、A36;B2、B4、B6、B7、B11、B12、B15、B22、B31、B32、B33;C2、C4、C6、C7、C12、C13、C14、C17、C18、C19、C20、C21、C22、C23、C31;D4、D6、D7、D11、D12、D13、D21、D31、D32.</pre><p><strong>男声ID</strong>（10）</p><pre>A5、A8、A9、A33、A35、B8、B21、B34、C8、D8.</pre><p><strong>参考</strong><br>[1] <em>Wang D, Zhang X. Thchs-30: A free chinese speech corpus[J]. arXiv preprint arXiv:1512.01882, 2015.</em><a href="https://arxiv.org/abs/1512.01882">[pdf]</a></p><p><strong>源码</strong><br>[1] kaldi<a href="https://github.com/kaldi-asr/kaldi">[GitHub]</a></p>]]></content>
       
       
       <categories>
@@ -476,37 +590,6 @@
     
     
     <entry>
-      <title>谷歌_20160804_A Neural Transducer</title>
-      <link href="2021/02/21/Paper035/"/>
-      <url>2021/02/21/Paper035/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>序列到序列模型已经在各种任务上取得了令人印象深刻的结果。然而，它们不适用于需要随着更多数据到来而进行增量预测的任务，或者具有长输入序列和输出序列的任务。这是因为它们生成以整个输入序列为条件的输出序列。在本文中，我们提出了一种神经转换器，它可以在更多的输入到来时进行增量预测，而不需要重新进行整个输入序列计算。与序列到序列模型不同，神经转换器根据部分观察到的输入序列和部分生成的序列来计算下一步分布。在每个时间步，转换器可以决定发射零到多个输出符号。数据可以使用编码器进行处理，并作为转换器的输入。在每个时间步发射一个符号的离散决策使得用传统的反向传播很难学习。然而，可以通过使用动态规划算法来训练转换器以产生离散决策。我们的实验表明，神经转换器在需要数据输入时产生输出预测的环境下工作良好。我们还发现，即使在没有使用注意力机制的情况下，神经转换器在长序列中也表现得很好。</p><p><strong>参考</strong><br>[1] <em>Jaitly N, Sussillo D, Le Q V, et al. A neural transducer[J]. arXiv preprint arXiv:1511.04868, 2015.</em><a href="https://arxiv.org/abs/1511.04868">[pdf]</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Paper </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 语音识别 </tag>
-            
-            <tag> RNN </tag>
-            
-            <tag> RNN-T </tag>
-            
-            <tag> Sequence-to-Sequence </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>谷歌_ICLR2018_Monotonic Chunkwise Attention</title>
       <link href="2021/02/21/Paper036/"/>
       <url>2021/02/21/Paper036/</url>
@@ -530,6 +613,37 @@
             <tag> Sequence-to-Sequence </tag>
             
             <tag> MoChA </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>谷歌_20160804_A Neural Transducer</title>
+      <link href="2021/02/21/Paper035/"/>
+      <url>2021/02/21/Paper035/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>序列到序列模型已经在各种任务上取得了令人印象深刻的结果。然而，它们不适用于需要随着更多数据到来而进行增量预测的任务，或者具有长输入序列和输出序列的任务。这是因为它们生成以整个输入序列为条件的输出序列。在本文中，我们提出了一种神经转换器，它可以在更多的输入到来时进行增量预测，而不需要重新进行整个输入序列计算。与序列到序列模型不同，神经转换器根据部分观察到的输入序列和部分生成的序列来计算下一步分布。在每个时间步，转换器可以决定发射零到多个输出符号。数据可以使用编码器进行处理，并作为转换器的输入。在每个时间步发射一个符号的离散决策使得用传统的反向传播很难学习。然而，可以通过使用动态规划算法来训练转换器以产生离散决策。我们的实验表明，神经转换器在需要数据输入时产生输出预测的环境下工作良好。我们还发现，即使在没有使用注意力机制的情况下，神经转换器在长序列中也表现得很好。</p><p><strong>参考</strong><br>[1] <em>Jaitly N, Sussillo D, Le Q V, et al. A neural transducer[J]. arXiv preprint arXiv:1511.04868, 2015.</em><a href="https://arxiv.org/abs/1511.04868">[pdf]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> RNN </tag>
+            
+            <tag> RNN-T </tag>
+            
+            <tag> Sequence-to-Sequence </tag>
             
         </tags>
       
