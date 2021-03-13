@@ -4,11 +4,125 @@
   
     
     <entry>
+      <title>数据堂_Datasets_AIDataTang_1505zh</title>
+      <link href="2021/03/13/Data010/"/>
+      <url>2021/03/13/Data010/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="https://www.datatang.com/">数据堂官网</a></p><blockquote><p><a href="https://www.datatang.com/opensource">AI数据开源计划</a><br><a href="https://www.datatang.com/Opendatasets">AI数据助研计划</a></p></blockquote></blockquote><ul><li>下载地址<ul><li>aidatatang_1505zh（<strong>需申请下载</strong>）</li></ul></li></ul><p>aidatatang_1505zh中文普通话语音数据集时长1505小时，是数据堂中文普通话语音数据库中的一部分。采集区域覆盖全国34个省级行政区域，参与录音人数达6408人，录音内容超30万条口语化句子。经过专业语音校对人员转写标注，并通过严格质量检验，句标注准确率达98%以上，是行业内句准确率的最高标准。</p><p><strong>源码</strong><br>[1] aidatatang_1505zh<a href="https://github.com/xiayongtao/aidatatang_1505zh">[GitHub]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Data </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> 语音数据集 </tag>
+            
+            <tag> 中文语音数据集 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>数据堂_Datasets_AIDataTang_200zh</title>
+      <link href="2021/03/13/Data009/"/>
+      <url>2021/03/13/Data009/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="https://www.datatang.com/">数据堂官网</a></p><blockquote><p><a href="https://www.datatang.com/opensource">AI数据开源计划</a><br><a href="https://www.datatang.com/Opendatasets">AI数据助研计划</a></p></blockquote></blockquote><ul><li>下载地址<ul><li><a href="http://www.openslr.org/62/">OpenSLR</a> / <a href="https://openslr.magicdatatech.com/62/">OpenSLR-China</a><br>aidatatang_200zh数据集是aidatatang_1505zh数据集中的一部分</li></ul></li></ul><p>aidatatang_200zh是由北京数据科技有限公司（数据堂）提供的开放式中文普通话电话语音库。语料库长达200小时，由Android系统手机（16kHz，16位）和iOS系统手机（16kHz，16位）记录。邀请来自中国不同重点区域的600名演讲者参加录音，录音是在安静的室内环境或环境中进行，其中包含不影响语音识别的背景噪音。参与者的性别和年龄均匀分布。语料库的语言材料是设计为音素均衡的口语句子。每个句子的手动转录准确率大于98％。</p><p><strong>源码</strong><br>[1] kaldi<a href="https://github.com/kaldi-asr/kaldi">[GitHub]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Data </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> 语音数据集 </tag>
+            
+            <tag> 中文语音数据集 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>希尔贝壳_Datasets_DMASH</title>
+      <link href="2021/03/13/Data008/"/>
+      <url>2021/03/13/Data008/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://www.aishelltech.com/">希尔贝壳官网</a></p><blockquote><p><a href="http://www.aishelltech.com/DMASH_Dataset">DMASH</a></p></blockquote></blockquote><ul><li>下载地址<ul><li>DMASH（<strong>需申请下载</strong>）</li><li><a href="http://aishell-dmash.oss-cn-hangzhou.aliyuncs.com/train_dev.rar">Aliyun-Train/Dev</a> + <a href="http://aishell-dmash.oss-cn-hangzhou.aliyuncs.com/evaluation.rar">Aliyun-Test</a><br>The FFSVC20 challenge dataset is part of the DMASH dataset</li></ul></li></ul><p>DMASH为中文普通话麦克风阵列家居场景语音数据库，在两个不同房间的真实智能家居场景中录制的。录音设备包括一个近距离通话麦克风和七组设备，分别位于房间的七个不同位置。每组录音设备包括一部iPhone、一部安卓手机、一部iPad、一个麦克风，以及一个半径为5厘米的圆形麦克风阵列。该数据集包含500名说话者的50000小时语音数据，每个说话者录制三次，每次间隔7-15天。AISHELL-DMASH数据集由专业语音校对人员转写标注，并通过严格质量检验，字词的准确率达到98%，可用于声纹识别、语音识别、唤醒词识别等方面的研究。</p><p><strong>参考</strong><br>[1] <em>Qin X, Li M, Bu H, et al. The INTERSPEECH 2020 Far-Field Speaker Verification Challenge[J]. arXiv preprint arXiv:2005.08046, 2020.</em><a href="https://arxiv.org/abs/2005.08046">[pdf]</a><br>[2] <em>Qin X, Li M, Bu H, et al. The ffsvc 2020 evaluation plan[J]. arXiv preprint arXiv:2002.00387, 2020.</em><a href="https://arxiv.org/abs/2002.00387">[pdf]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Data </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> 语音数据集 </tag>
+            
+            <tag> 中文语音数据集 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>希尔贝壳_Datasets_HI-MIA</title>
+      <link href="2021/03/12/Data007/"/>
+      <url>2021/03/12/Data007/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://www.aishelltech.com/">希尔贝壳官网</a></p><blockquote><p><a href="http://www.aishelltech.com/wakeup_data">HI-MIA</a></p></blockquote></blockquote><ul><li>下载地址<ul><li><a href="http://www.openslr.org/85/">OpenSLR</a> / <a href="https://openslr.magicdatatech.com/85/">OpenSLR-China</a><br>A far-field text-dependent speaker verification database for AISHELL Speaker Verification Challenge 2019</li><li><a href="https://mab.to/fH6iY8C5Ank17">Netdisk-Train/Dev</a> + <a href="https://mab.to/TBvujkh8W5uPN">Netdisk-Test</a> + <a href="https://mab.to/PuqMHfmHJ68yX">Netdisk-Test-Update</a><br>The data is used in AISHELL Speaker Verification Challenge 2019</li><li>AISHELL-WakeUp-1（<strong>需申请下载</strong>）</li><li><a href="https://mab.to/4iLb6p5siFp31">Netdisk-2019B-EVAL</a><br>Speech and Speaker Recognition Evaluation</li></ul></li></ul><p>HI-MIA，是一个智能家居场景下的固有唤醒词数据库。该数据库共包含<code>340个说话人</code>，每个说话人语料包含了近场麦克风拾音和远场麦克风阵列的多通道拾音。它可用于声纹识别、语音唤醒识别等研究。HI-MIA是从<a href="http://www.aishelltech.com/wakeup_data"><strong>AISHELL-WakeUp-1</strong></a>数据集（254人）和<a href="http://www.aishelltech.com/aishell_2019B_eval"><strong>AISHELL-2019B-EVAL</strong></a>数据集（86人）两个子数据库提取出来的，分别覆盖近讲高保真麦克风、1/3/5米圆型阵列的数据。<br>其中，AISHELL-WakeUp-1语音数据库共唤醒词语音<code>3936003条</code>，<code>1561.12小时</code>。录音语言，中文和英文；录音地区，中国。录音文本为“你好，米雅”、“hi, mia”唤醒词。邀请254名发言人参与录制。录制过程在真实家居环境中，设置7个录音位，使用6个圆形16路PDM麦克风阵列录音板做远讲拾音（16kHz，16bit）、1个高保真麦克风做近讲拾音（44.1kHz，16bit）。此数据库经过专业语音校对人员转写标注，并通过严格质量检验，字正确率100%。可用于声纹识别、语音唤醒识别等研究使用。</p><p><strong>参考</strong><br>[1] <em>Qin X, Bu H, Li M. Hi-mia: A far-field text-dependent speaker verification database and the baselines[C]//ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2020: 7609-7613.</em><a href="https://arxiv.org/abs/1912.01231">[pdf]</a></p><p><strong>源码</strong><br>[1] kaldi<a href="https://github.com/kaldi-asr/kaldi">[GitHub]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Data </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音唤醒 </tag>
+            
+            <tag> 语音数据集 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>希尔贝壳_Datasets_AISHELL-3</title>
       <link href="2021/03/07/Data006/"/>
       <url>2021/03/07/Data006/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://www.aishelltech.com/">希尔贝壳官网</a></p><blockquote><p><a href="http://www.aishelltech.com/aishell_3">AISHELL-3</a></p></blockquote></blockquote><ul><li>下载地址<ul><li><a href="http://www.openslr.org/93/">OpenSLR</a></li><li><a href="https://mab.to/nqR84htNPt662">Netdisk</a></li></ul></li></ul><p>希尔贝壳中文普通话语音数据库AISHELL-3的语音时长为85小时88035句，可做为多说话人合成系统。录制过程在安静室内环境中， 使用高保真麦克风（44.1kHz，16bit）。218名来自中国不同口音区域的发言人参与录制。专业语音校对人员进行拼音和韵律标注，并通过严格质量检验，此数据库音字确率在98%以上。</p><p><strong>参考</strong><br>[1] <em>Shi Y, Bu H, Xu X, et al. AISHELL-3: A Multi-speaker Mandarin TTS Corpus and the Baselines[J]. arXiv preprint arXiv:2010.11567, 2020.</em><a href="https://arxiv.org/abs/2010.11567">[pdf]</a></p><p><strong>源码</strong><br>[1] aishell-3-baseline-fc<a href="https://github.com/sos1sos2Sixteen/aishell-3-baseline-fc">[GitHub]</a></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://www.aishelltech.com/">希尔贝壳官网</a></p><blockquote><p><a href="http://www.aishelltech.com/aishell_3">AISHELL-3</a></p></blockquote></blockquote><ul><li>下载地址<ul><li><a href="http://www.openslr.org/93/">OpenSLR</a> / <a href="https://openslr.magicdatatech.com/93/">OpenSLR-China</a></li><li><a href="https://mab.to/nqR84htNPt662">Netdisk</a></li></ul></li></ul><p>希尔贝壳中文普通话语音数据库AISHELL-3的语音时长为85小时88035句，可做为多说话人合成系统。录制过程在安静室内环境中， 使用高保真麦克风（44.1kHz，16bit）。218名来自中国不同口音区域的发言人参与录制。专业语音校对人员进行拼音和韵律标注，并通过严格质量检验，此数据库音字确率在98%以上。</p><p><strong>参考</strong><br>[1] <em>Shi Y, Bu H, Xu X, et al. AISHELL-3: A Multi-speaker Mandarin TTS Corpus and the Baselines[J]. arXiv preprint arXiv:2010.11567, 2020.</em><a href="https://arxiv.org/abs/2010.11567">[pdf]</a></p><p><strong>源码</strong><br>[1] aishell-3-baseline-fc<a href="https://github.com/sos1sos2Sixteen/aishell-3-baseline-fc">[GitHub]</a></p>]]></content>
       
       
       <categories>
@@ -21,6 +135,8 @@
         <tags>
             
             <tag> 语音合成 </tag>
+            
+            <tag> 语音数据集 </tag>
             
             <tag> 中文语音数据集 </tag>
             
@@ -35,7 +151,7 @@
       <link href="2021/03/07/Data005/"/>
       <url>2021/03/07/Data005/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://www.aishelltech.com/">希尔贝壳官网</a></p><blockquote><p><a href="http://www.aishelltech.com/aishell_2">AISHELL-2</a></p></blockquote></blockquote><p>希尔贝壳中文普通话语音数据库AISHELL-2的语音时长为<code>1000小时</code>，其中718小时来自AISHELL-ASR0009-[ZH-CN]，282小时来自AISHELL-ASR0010-[ZH-CN]。录音文本涉及唤醒词、语音控制词、智能家居、无人驾驶、工业生产等12个领域。录制过程在安静室内环境中， 同时使用3种不同设备： 高保真麦克风（44.1kHz，16bit）；Android系统手机（16kHz，16bit）；iOS系统手机（16kHz，16bit）。AISHELL-2采用iOS系统手机录制的语音数据。<code>1991名</code>来自中国不同口音区域的发言人参与录制。经过专业语音校对人员转写标注，并通过严格质量检验，此数据库文本正确率在96%以上。<br><strong>需申请下载</strong></p><p><strong>参考</strong><br>[1] <em>Du J, Na X, Liu X, et al. Aishell-2: Transforming mandarin asr research into industrial scale[J]. arXiv preprint arXiv:1808.10583, 2018.</em><a href="https://arxiv.org/abs/1808.10583">[pdf]</a></p><p><strong>源码</strong><br>[1] kaldi<a href="https://github.com/kaldi-asr/kaldi">[GitHub]</a></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://www.aishelltech.com/">希尔贝壳官网</a></p><blockquote><p><a href="http://www.aishelltech.com/aishell_2">AISHELL-2</a></p></blockquote></blockquote><ul><li>下载地址<ul><li>AISHELL-3（<strong>需申请下载</strong>）</li></ul></li></ul><p>希尔贝壳中文普通话语音数据库AISHELL-2的语音时长为<code>1000小时</code>，其中718小时来自AISHELL-ASR0009-[ZH-CN]，282小时来自AISHELL-ASR0010-[ZH-CN]。录音文本涉及唤醒词、语音控制词、智能家居、无人驾驶、工业生产等12个领域。录制过程在安静室内环境中， 同时使用3种不同设备： 高保真麦克风（44.1kHz，16bit）；Android系统手机（16kHz，16bit）；iOS系统手机（16kHz，16bit）。AISHELL-2采用iOS系统手机录制的语音数据。<code>1991名</code>来自中国不同口音区域的发言人参与录制。经过专业语音校对人员转写标注，并通过严格质量检验，此数据库文本正确率在96%以上。</p><p><strong>参考</strong><br>[1] <em>Du J, Na X, Liu X, et al. Aishell-2: Transforming mandarin asr research into industrial scale[J]. arXiv preprint arXiv:1808.10583, 2018.</em><a href="https://arxiv.org/abs/1808.10583">[pdf]</a></p><p><strong>源码</strong><br>[1] kaldi<a href="https://github.com/kaldi-asr/kaldi">[GitHub]</a></p>]]></content>
       
       
       <categories>
@@ -50,6 +166,8 @@
             <tag> 语音识别 </tag>
             
             <tag> Kaldi </tag>
+            
+            <tag> 语音数据集 </tag>
             
             <tag> 中文语音数据集 </tag>
             
@@ -64,7 +182,7 @@
       <link href="2021/03/07/Data004/"/>
       <url>2021/03/07/Data004/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://www.aishelltech.com/">希尔贝壳官网</a></p><blockquote><p><a href="http://www.aishelltech.com/kysjcp">AISHELL-1</a></p></blockquote></blockquote><ul><li>下载地址<ul><li><a href="http://www.openslr.org/33/">OpenSLR</a></li><li><a href="https://mab.to/ojn60R5b4rTor">Netdisk</a></li></ul></li></ul><p>希尔贝壳中文普通话开源语音数据库AISHELL-ASR0009-OS1录音时长<code>178小时</code>，是希尔贝壳中文普通话语音数据库AISHELL-ASR0009的一部分。AISHELL-ASR0009录音文本涉及智能家居、无人驾驶、工业生产等11个领域。录制过程在安静室内环境中， 同时使用3种不同设备： 高保真麦克风（44.1kHz，16-bit）；Android系统手机（16kHz，16-bit）；iOS系统手机（16kHz，16-bit）。高保真麦克风录制的音频降采样为16kHz，用于制作AISHELL-ASR0009-OS1。<code>400名</code>来自中国不同口音区域的发言人参与录制。经过专业语音校对人员转写标注，并通过严格质量检验，此数据库文本正确率在95%以上。分为训练集、开发集、测试集。</p><p><strong>参考</strong><br>[1] <em>Bu H, Du J, Na X, et al. Aishell-1: An open-source mandarin speech corpus and a speech recognition baseline[C]//2017 20th Conference of the Oriental Chapter of the International Coordinating Committee on Speech Databases and Speech I/O Systems and Assessment (O-COCOSDA). IEEE, 2017: 1-5.</em><a href="https://arxiv.org/abs/1709.05522">[pdf]</a></p><p><strong>源码</strong><br>[1] kaldi<a href="https://github.com/kaldi-asr/kaldi">[GitHub]</a></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://www.aishelltech.com/">希尔贝壳官网</a></p><blockquote><p><a href="http://www.aishelltech.com/kysjcp">AISHELL-1</a></p></blockquote></blockquote><ul><li>下载地址<ul><li><a href="http://www.openslr.org/33/">OpenSLR</a> / <a href="https://openslr.magicdatatech.com/33/">OpenSLR-China</a></li><li><a href="https://mab.to/ojn60R5b4rTor">Netdisk</a></li></ul></li></ul><p>希尔贝壳中文普通话开源语音数据库AISHELL-ASR0009-OS1录音时长<code>178小时</code>，是希尔贝壳中文普通话语音数据库AISHELL-ASR0009的一部分。AISHELL-ASR0009录音文本涉及智能家居、无人驾驶、工业生产等11个领域。录制过程在安静室内环境中， 同时使用3种不同设备： 高保真麦克风（44.1kHz，16-bit）；Android系统手机（16kHz，16-bit）；iOS系统手机（16kHz，16-bit）。高保真麦克风录制的音频降采样为16kHz，用于制作AISHELL-ASR0009-OS1。<code>400名</code>来自中国不同口音区域的发言人参与录制。经过专业语音校对人员转写标注，并通过严格质量检验，此数据库文本正确率在95%以上。分为训练集、开发集、测试集。</p><p><strong>参考</strong><br>[1] <em>Bu H, Du J, Na X, et al. Aishell-1: An open-source mandarin speech corpus and a speech recognition baseline[C]//2017 20th Conference of the Oriental Chapter of the International Coordinating Committee on Speech Databases and Speech I/O Systems and Assessment (O-COCOSDA). IEEE, 2017: 1-5.</em><a href="https://arxiv.org/abs/1709.05522">[pdf]</a></p><p><strong>源码</strong><br>[1] kaldi<a href="https://github.com/kaldi-asr/kaldi">[GitHub]</a></p>]]></content>
       
       
       <categories>
@@ -79,6 +197,8 @@
             <tag> 语音识别 </tag>
             
             <tag> Kaldi </tag>
+            
+            <tag> 语音数据集 </tag>
             
             <tag> 中文语音数据集 </tag>
             
@@ -109,6 +229,8 @@
             
             <tag> Kaldi </tag>
             
+            <tag> 语音数据集 </tag>
+            
             <tag> 英文语音数据集 </tag>
             
         </tags>
@@ -138,6 +260,8 @@
             
             <tag> Kaldi </tag>
             
+            <tag> 语音数据集 </tag>
+            
             <tag> 英文语音数据集 </tag>
             
         </tags>
@@ -151,7 +275,7 @@
       <link href="2021/03/06/Data001/"/>
       <url>2021/03/06/Data001/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://cslt.riit.tsinghua.edu.cn/">清华大学语音和语言技术中心（CSLT@THU）</a></p><blockquote><p><a href="http://cslt.riit.tsinghua.edu.cn/mediawiki/index.php/Public_data">CSLT Open_Data List</a></p></blockquote></blockquote><ul><li><a href="http://166.111.134.19:7777/data/thchs30/README.html">下载地址</a><ul><li><a href="http://www.openslr.org/18/">0penSLR</a><br>SLR18 is used by the Kaldi: A Free Chinese Speech Corpus Released by CSLT@Tsinghua University</li><li><a href="http://166.111.134.19:7777/data/thchs30/standalone.html">Standalone</a><br>This version is used by the HTK, Sphinx etc.</li></ul></li></ul><p>THCHS30是一个很经典的中文语音数据集，包含了<code>1万余条</code>语音文件，大约<code>40小时</code>的中文语音数据，内容以文章、诗句为主。它是由清华大学语音与语言技术中心（CSLT）出版的开放式中文语音数据库。原创录音于2002年由朱晓燕教授在清华大学计算机科学系智能与系统重点实验室监督下进行，原名为“TCMSD”，代表“清华连续普通话语音数据库”。13年后的出版由王东博士发起，并得到了朱晓燕教授的支持。他们希望为语音识别领域的新入门的研究人员提供玩具级别的数据库，因此，数据库对学术用户完全免费。</p><p><strong>Data(13388条) = TrainData(10000条) + DevData(893条) + TestData(2495条)</strong></p><p><strong>女声ID</strong>（49）</p><pre>A2、A4、A6、A7、A11、A12、A13、A14、A19、A22、A23、A32、A34、A36;B2、B4、B6、B7、B11、B12、B15、B22、B31、B32、B33;C2、C4、C6、C7、C12、C13、C14、C17、C18、C19、C20、C21、C22、C23、C31;D4、D6、D7、D11、D12、D13、D21、D31、D32.</pre><p><strong>男声ID</strong>（10）</p><pre>A5、A8、A9、A33、A35、B8、B21、B34、C8、D8.</pre><p><strong>参考</strong><br>[1] <em>Wang D, Zhang X. Thchs-30: A free chinese speech corpus[J]. arXiv preprint arXiv:1512.01882, 2015.</em><a href="https://arxiv.org/abs/1512.01882">[pdf]</a></p><p><strong>源码</strong><br>[1] kaldi<a href="https://github.com/kaldi-asr/kaldi">[GitHub]</a></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://cslt.riit.tsinghua.edu.cn/">清华大学语音和语言技术中心（CSLT@THU）</a></p><blockquote><p><a href="http://cslt.riit.tsinghua.edu.cn/mediawiki/index.php/Public_data">CSLT Open_Data List</a></p></blockquote></blockquote><ul><li><a href="http://166.111.134.19:7777/data/thchs30/README.html">下载地址</a><ul><li><a href="http://www.openslr.org/18/">0penSLR</a> / <a href="https://openslr.magicdatatech.com/18/">OpenSLR-China</a><br>SLR18 is used by the Kaldi: A Free Chinese Speech Corpus Released by CSLT@Tsinghua University</li><li><a href="http://166.111.134.19:7777/data/thchs30/standalone.html">Standalone</a><br>This version is used by the HTK, Sphinx etc.</li></ul></li></ul><p>THCHS30是一个很经典的中文语音数据集，包含了<code>1万余条</code>语音文件，大约<code>40小时</code>的中文语音数据，内容以文章、诗句为主。它是由清华大学语音与语言技术中心（CSLT）出版的开放式中文语音数据库。原创录音于2002年由朱晓燕教授在清华大学计算机科学系智能与系统重点实验室监督下进行，原名为“TCMSD”，代表“清华连续普通话语音数据库”。13年后的出版由王东博士发起，并得到了朱晓燕教授的支持。他们希望为语音识别领域的新入门的研究人员提供玩具级别的数据库，因此，数据库对学术用户完全免费。</p><p><strong>Data(13388条) = TrainData(10000条) + DevData(893条) + TestData(2495条)</strong></p><p><strong>女声ID</strong>（49）</p><pre>A2、A4、A6、A7、A11、A12、A13、A14、A19、A22、A23、A32、A34、A36;B2、B4、B6、B7、B11、B12、B15、B22、B31、B32、B33;C2、C4、C6、C7、C12、C13、C14、C17、C18、C19、C20、C21、C22、C23、C31;D4、D6、D7、D11、D12、D13、D21、D31、D32.</pre><p><strong>男声ID</strong>（10）</p><pre>A5、A8、A9、A33、A35、B8、B21、B34、C8、D8.</pre><p><strong>参考</strong><br>[1] <em>Wang D, Zhang X. Thchs-30: A free chinese speech corpus[J]. arXiv preprint arXiv:1512.01882, 2015.</em><a href="https://arxiv.org/abs/1512.01882">[pdf]</a></p><p><strong>源码</strong><br>[1] kaldi<a href="https://github.com/kaldi-asr/kaldi">[GitHub]</a></p>]]></content>
       
       
       <categories>
@@ -170,6 +294,8 @@
             <tag> 说话人识别 </tag>
             
             <tag> Kaldi </tag>
+            
+            <tag> 语音数据集 </tag>
             
             <tag> 中文语音数据集 </tag>
             
