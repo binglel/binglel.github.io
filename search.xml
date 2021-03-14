@@ -4,6 +4,95 @@
   
     
     <entry>
+      <title>LibriVox_Datasets_The LJ Speech Dataset</title>
+      <link href="2021/03/14/Data019/"/>
+      <url>2021/03/14/Data019/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><ul><li>下载地址<ul><li><a href="https://keithito.com/LJ-Speech-Dataset/">LJ-Speech-Dataset</a></li></ul></li></ul><p>这是一个公共领域的语音数据集，包含13100句单人的短音频片段，这些语音片段来自7部非小说类书籍。 为每个剪辑提供了转录。 剪辑的长度从1到10秒不等，总长度约为24小时。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Data </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> 语音数据集 </tag>
+            
+            <tag> 英文语音数据集 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>谷歌_Datasets_LibriTTS</title>
+      <link href="2021/03/14/Data018/"/>
+      <url>2021/03/14/Data018/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><ul><li>下载地址<ul><li><a href="http://www.openslr.org/60/">0penSLR</a> / <a href="https://openslr.magicdatatech.com/60/">OpenSLR-China</a><br>Large-scale corpus of English speech derived from the original materials of the LibriSpeech corpus</li></ul></li></ul><p><strong>参考</strong><br>[1] <em>Zen H, Dang V, Clark R, et al. LibriTTS: A corpus derived from LibriSpeech for text-to-speech[J]. arXiv preprint arXiv:1904.02882, 2019.</em><a href="https://arxiv.org/abs/1904.02882">[pdf]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Data </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音合成 </tag>
+            
+            <tag> 语音数据集 </tag>
+            
+            <tag> 英文语音数据集 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>约翰斯·霍普金斯大学_Datasets_LibriSpeech</title>
+      <link href="2021/03/14/Data017/"/>
+      <url>2021/03/14/Data017/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="https://www.clsp.jhu.edu/">The Center for Language and Speech Processing(CLSP@JHU)</a></p></blockquote><ul><li>下载地址<ul><li><a href="http://www.openslr.org/12/">0penSLR</a> / <a href="https://openslr.magicdatatech.com/12/">OpenSLR-China</a><br>Large-scale (1000 hours) corpus of read English speech</li><li><a href="http://www.openslr.org/31/">0penSLR</a> / <a href="https://openslr.magicdatatech.com/31/">OpenSLR-China</a><br>Subset of LibriSpeech corpus for purpose of regression testing</li></ul></li></ul><p>Librispeech是由kaldi开发者整理并发布的免费英语朗读数据，其数据总量是<code>960小时</code>，内容来自有声电子书项目LibriVox。</p><p><strong>数据内容</strong><br>train-clean-100：251个说话人<br>train-clean-360：921个说话人<br>train-clean-500：1166个说话人<br>……</p><p><strong>参考</strong><br>[1] <em>Panayotov V, Chen G, Povey D, et al. Librispeech: an asr corpus based on public domain audio books[C]//2015 IEEE international conference on acoustics, speech and signal processing (ICASSP). IEEE, 2015: 5206-5210.</em><a href="http://www.danielpovey.com/files/2015_icassp_librispeech.pdf">[pdf]</a></p><p><strong>源码</strong><br>[1] kaldi<a href="https://github.com/kaldi-asr/kaldi">[GitHub]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Data </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> Kaldi </tag>
+            
+            <tag> 语音数据集 </tag>
+            
+            <tag> 英文语音数据集 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>清华大学_Datasets_CN-Celeb</title>
       <link href="2021/03/14/Data016/"/>
       <url>2021/03/14/Data016/</url>
@@ -892,37 +981,6 @@
     
     
     <entry>
-      <title>谷歌_20160804_A Neural Transducer</title>
-      <link href="2021/02/21/Paper035/"/>
-      <url>2021/02/21/Paper035/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>序列到序列模型已经在各种任务上取得了令人印象深刻的结果。然而，它们不适用于需要随着更多数据到来而进行增量预测的任务，或者具有长输入序列和输出序列的任务。这是因为它们生成以整个输入序列为条件的输出序列。在本文中，我们提出了一种神经转换器，它可以在更多的输入到来时进行增量预测，而不需要重新进行整个输入序列计算。与序列到序列模型不同，神经转换器根据部分观察到的输入序列和部分生成的序列来计算下一步分布。在每个时间步，转换器可以决定发射零到多个输出符号。数据可以使用编码器进行处理，并作为转换器的输入。在每个时间步发射一个符号的离散决策使得用传统的反向传播很难学习。然而，可以通过使用动态规划算法来训练转换器以产生离散决策。我们的实验表明，神经转换器在需要数据输入时产生输出预测的环境下工作良好。我们还发现，即使在没有使用注意力机制的情况下，神经转换器在长序列中也表现得很好。</p><p><strong>参考</strong><br>[1] <em>Jaitly N, Sussillo D, Le Q V, et al. A neural transducer[J]. arXiv preprint arXiv:1511.04868, 2015.</em><a href="https://arxiv.org/abs/1511.04868">[pdf]</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Paper </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 语音识别 </tag>
-            
-            <tag> RNN </tag>
-            
-            <tag> RNN-T </tag>
-            
-            <tag> Sequence-to-Sequence </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>谷歌_ICLR2018_Monotonic Chunkwise Attention</title>
       <link href="2021/02/21/Paper036/"/>
       <url>2021/02/21/Paper036/</url>
@@ -946,6 +1004,37 @@
             <tag> Sequence-to-Sequence </tag>
             
             <tag> MoChA </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>谷歌_20160804_A Neural Transducer</title>
+      <link href="2021/02/21/Paper035/"/>
+      <url>2021/02/21/Paper035/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>序列到序列模型已经在各种任务上取得了令人印象深刻的结果。然而，它们不适用于需要随着更多数据到来而进行增量预测的任务，或者具有长输入序列和输出序列的任务。这是因为它们生成以整个输入序列为条件的输出序列。在本文中，我们提出了一种神经转换器，它可以在更多的输入到来时进行增量预测，而不需要重新进行整个输入序列计算。与序列到序列模型不同，神经转换器根据部分观察到的输入序列和部分生成的序列来计算下一步分布。在每个时间步，转换器可以决定发射零到多个输出符号。数据可以使用编码器进行处理，并作为转换器的输入。在每个时间步发射一个符号的离散决策使得用传统的反向传播很难学习。然而，可以通过使用动态规划算法来训练转换器以产生离散决策。我们的实验表明，神经转换器在需要数据输入时产生输出预测的环境下工作良好。我们还发现，即使在没有使用注意力机制的情况下，神经转换器在长序列中也表现得很好。</p><p><strong>参考</strong><br>[1] <em>Jaitly N, Sussillo D, Le Q V, et al. A neural transducer[J]. arXiv preprint arXiv:1511.04868, 2015.</em><a href="https://arxiv.org/abs/1511.04868">[pdf]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> RNN </tag>
+            
+            <tag> RNN-T </tag>
+            
+            <tag> Sequence-to-Sequence </tag>
             
         </tags>
       
@@ -1873,9 +1962,9 @@
             
             <tag> 合成器 </tag>
             
-            <tag> Tacotron2 </tag>
-            
             <tag> 声码器 </tag>
+            
+            <tag> Tacotron2 </tag>
             
             <tag> 多语言/跨语言 </tag>
             
@@ -1910,9 +1999,9 @@
             
             <tag> 合成器 </tag>
             
-            <tag> 声码器 </tag>
-            
             <tag> Tacotron </tag>
+            
+            <tag> 声码器 </tag>
             
             <tag> Griffin-Lim </tag>
             
@@ -1992,13 +2081,13 @@
             
             <tag> 合成器 </tag>
             
-            <tag> 声码器 </tag>
-            
-            <tag> WaveNet </tag>
-            
             <tag> Tacotron </tag>
             
+            <tag> 声码器 </tag>
+            
             <tag> Griffin-Lim </tag>
+            
+            <tag> WaveNet </tag>
             
             <tag> 说话人风格迁移 </tag>
             
@@ -2035,13 +2124,13 @@
             
             <tag> 合成器 </tag>
             
-            <tag> 声码器 </tag>
-            
-            <tag> WaveNet </tag>
-            
             <tag> Tacotron </tag>
             
+            <tag> 声码器 </tag>
+            
             <tag> Griffin-Lim </tag>
+            
+            <tag> WaveNet </tag>
             
             <tag> 说话人风格迁移 </tag>
             
@@ -2076,9 +2165,9 @@
             
             <tag> 合成器 </tag>
             
-            <tag> 声码器 </tag>
-            
             <tag> Tacotron </tag>
+            
+            <tag> 声码器 </tag>
             
             <tag> Griffin-Lim </tag>
             
@@ -2113,9 +2202,9 @@
             
             <tag> 合成器 </tag>
             
-            <tag> Tacotron2 </tag>
-            
             <tag> 声码器 </tag>
+            
+            <tag> Tacotron2 </tag>
             
             <tag> WaveNet </tag>
             
@@ -2218,9 +2307,9 @@
             
             <tag> 合成器 </tag>
             
-            <tag> Tacotron2 </tag>
-            
             <tag> 声码器 </tag>
+            
+            <tag> Tacotron2 </tag>
             
             <tag> WaveNet </tag>
             
@@ -2253,9 +2342,9 @@
             
             <tag> 合成器 </tag>
             
-            <tag> 声码器 </tag>
-            
             <tag> Tacotron </tag>
+            
+            <tag> 声码器 </tag>
             
             <tag> Griffin-Lim </tag>
             
