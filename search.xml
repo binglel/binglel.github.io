@@ -1873,9 +1873,9 @@
             
             <tag> 合成器 </tag>
             
-            <tag> 声码器 </tag>
-            
             <tag> Tacotron2 </tag>
+            
+            <tag> 声码器 </tag>
             
             <tag> 多语言/跨语言 </tag>
             
@@ -1910,9 +1910,9 @@
             
             <tag> 合成器 </tag>
             
-            <tag> Tacotron </tag>
-            
             <tag> 声码器 </tag>
+            
+            <tag> Tacotron </tag>
             
             <tag> Griffin-Lim </tag>
             
@@ -1992,13 +1992,13 @@
             
             <tag> 合成器 </tag>
             
-            <tag> Tacotron </tag>
-            
             <tag> 声码器 </tag>
             
-            <tag> Griffin-Lim </tag>
-            
             <tag> WaveNet </tag>
+            
+            <tag> Tacotron </tag>
+            
+            <tag> Griffin-Lim </tag>
             
             <tag> 说话人风格迁移 </tag>
             
@@ -2035,13 +2035,13 @@
             
             <tag> 合成器 </tag>
             
-            <tag> Tacotron </tag>
-            
             <tag> 声码器 </tag>
             
-            <tag> Griffin-Lim </tag>
-            
             <tag> WaveNet </tag>
+            
+            <tag> Tacotron </tag>
+            
+            <tag> Griffin-Lim </tag>
             
             <tag> 说话人风格迁移 </tag>
             
@@ -2076,9 +2076,9 @@
             
             <tag> 合成器 </tag>
             
-            <tag> Tacotron </tag>
-            
             <tag> 声码器 </tag>
+            
+            <tag> Tacotron </tag>
             
             <tag> Griffin-Lim </tag>
             
@@ -2113,9 +2113,9 @@
             
             <tag> 合成器 </tag>
             
-            <tag> 声码器 </tag>
-            
             <tag> Tacotron2 </tag>
+            
+            <tag> 声码器 </tag>
             
             <tag> WaveNet </tag>
             
@@ -2152,9 +2152,9 @@
             
             <tag> 声码器 </tag>
             
-            <tag> FastSpeech2 </tag>
-            
             <tag> WaveGlow </tag>
+            
+            <tag> FastSpeech2 </tag>
             
         </tags>
       
@@ -2185,9 +2185,9 @@
             
             <tag> 声码器 </tag>
             
-            <tag> WaveGlow </tag>
-            
             <tag> FastSpeech </tag>
+            
+            <tag> WaveGlow </tag>
             
         </tags>
       
@@ -2218,9 +2218,9 @@
             
             <tag> 合成器 </tag>
             
-            <tag> 声码器 </tag>
-            
             <tag> Tacotron2 </tag>
+            
+            <tag> 声码器 </tag>
             
             <tag> WaveNet </tag>
             
@@ -2253,9 +2253,9 @@
             
             <tag> 合成器 </tag>
             
-            <tag> Tacotron </tag>
-            
             <tag> 声码器 </tag>
+            
+            <tag> Tacotron </tag>
             
             <tag> Griffin-Lim </tag>
             
