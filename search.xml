@@ -4,6 +4,182 @@
   
     
     <entry>
+      <title>清华大学_Datasets_CN-Celeb</title>
+      <link href="2021/03/14/Data016/"/>
+      <url>2021/03/14/Data016/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://cslt.riit.tsinghua.edu.cn/">清华大学语音和语言技术中心（CSLT@THU）</a></p><blockquote><p><a href="http://cslt.riit.tsinghua.edu.cn/mediawiki/index.php/Public_data">CSLT Open_Data List</a></p></blockquote></blockquote><ul><li>下载地址<ul><li><a href="http://www.openslr.org/82/">0penSLR</a> / <a href="https://openslr.magicdatatech.com/82/">OpenSLR-China</a><br>A Free Chinese Speaker Recognition Corpus Released by CSLT@Tsinghua University</li></ul></li></ul><p>该数据集是一个非约束条件下的大规模中文说话人识别数据集，包含环境、通道与情感的变化。这是与目前大多数开源说话人识别数据集(约束条件、很小的噪声和通道变化)的最大区别。该数据集包含1000个说话人，共计约13万个句子，总时长274小时，涵盖了11种真实场景下的不同类型。</p><p><strong>参考</strong><br>[1] <em>Fan Y, Kang J W, Li L T, et al. CN-CELEB: a challenging Chinese speaker recognition dataset[C]//ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2020: 7604-7608.</em><a href="https://arxiv.org/abs/1911.01799">[pdf]</a></p><p><strong>源码</strong><br>[1] kaldi<a href="https://github.com/kaldi-asr/kaldi">[GitHub]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Data </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 说话人识别 </tag>
+            
+            <tag> Kaldi </tag>
+            
+            <tag> 语音数据集 </tag>
+            
+            <tag> 中文语音数据集 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>冲浪科技_Datasets_Free ST American English Corpus</title>
+      <link href="2021/03/14/Data015/"/>
+      <url>2021/03/14/Data015/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://surfing.ai/">冲浪科技官网</a></p><blockquote><p><a href="http://surfing.ai/index.php?c=category&id=19">开源数据库</a></p></blockquote></blockquote><ul><li>下载地址<ul><li><a href="http://www.openslr.org/45/">OpenSLR</a> / <a href="https://openslr.magicdatatech.com/45/">OpenSLR-China</a><br>Free ST American English Corpus</li></ul></li></ul><p>ST-AEDS-20180100_1是由冲浪科技公司发布的英文语音数据集，使用手机在室内静音环境下录制，该数据集包含<code>10个说话者</code>，每位说话者大约<code>350句</code>。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Data </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> 语音数据集 </tag>
+            
+            <tag> 英文语音数据集 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>冲浪科技_Datasets_Free ST Chinese Mandarin Corpus</title>
+      <link href="2021/03/14/Data014/"/>
+      <url>2021/03/14/Data014/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://surfing.ai/">冲浪科技官网</a></p><blockquote><p><a href="http://surfing.ai/index.php?c=category&id=19">开源数据库</a></p></blockquote></blockquote><ul><li>下载地址<ul><li><a href="http://www.openslr.org/38/">OpenSLR</a> / <a href="https://openslr.magicdatatech.com/38/">OpenSLR-China</a><br>Free ST Chinese Mandarin Corpus</li></ul></li></ul><p>ST-CMDS-20170001_1是由冲浪科技公司发布的中文语音数据集，使用手机在室内静音环境下录制，该数据集包含<code>102600条</code>，<code>大约100余小时</code>的语音数据。数据内容以平时的网上语音聊天和智能语音控制语句为主，<code>855个不同说话者</code>，同时有男声和女声，适合多种场景下使用。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Data </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> 语音数据集 </tag>
+            
+            <tag> 中文语音数据集 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>上海元语_Datasets_Primewords Chinese Corpus Set 1</title>
+      <link href="2021/03/14/Data013/"/>
+      <url>2021/03/14/Data013/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="https://www.primewords.cn/">上海元语官网</a></p><blockquote><p><a href="https://www.primewords.cn/#data">更多数据</a></p></blockquote></blockquote><ul><li>下载地址<ul><li><a href="http://www.openslr.org/47/">OpenSLR</a> / <a href="https://openslr.magicdatatech.com/47/">OpenSLR-China</a><br>Primewords Chinese Corpus Set 1</li></ul></li></ul><p>Primewords Chinese Corpus Set 1包含<code>100小时</code>的中文语音数据，由上海元语信息技术有限公司发布。语料库由<code>296名</code>汉语母语人用智能手机录制。转录准确率超过98％，置信水平为95％，学术用途免费。抄本和语音之间的映射以JSON格式给出。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Data </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> 语音数据集 </tag>
+            
+            <tag> 中文语音数据集 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>爱数智慧_Datasets_MAGICDATA Mandarin Chinese Read Speech Corpus</title>
+      <link href="2021/03/13/Data012/"/>
+      <url>2021/03/13/Data012/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="https://www.magicdatatech.cn/">爱数智慧官网</a></p><blockquote><p><a href="https://www.magicdatatech.cn/open-datasets">开源数据集</a></p></blockquote></blockquote><ul><li>下载地址<ul><li><a href="http://www.openslr.org/68/">OpenSLR</a> / <a href="https://openslr.magicdatatech.com/68/">OpenSLR-China</a><br>MAGICDATA Mandarin Chinese Read Speech Corpus</li></ul></li></ul><p>MagicData（爱数智慧）技术有限公司的语料库，语料库包含<code>755小时</code>的语音数据，其主要是移动终端的录音数据。邀请来自中国不同重点区域的<code>1080名</code>说话者参与录制。句子转录准确率高于98％。录音在安静的室内环境中进行。数据库分为训练集、验证集和测试集。诸如语音数据编码和说话者信息的细节信息被保存在元数据文件中。录音文本领域多样化，包括互动问答、音乐搜索、SNS信息、家庭指挥和控制等，还提供了分段的成绩单。该语料库旨在支持语音识别、机器翻译、说话人识别和其他语音相关领域的研究人员。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Data </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> 语音数据集 </tag>
+            
+            <tag> 中文语音数据集 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标贝科技_Datasets_BZNSYP</title>
+      <link href="2021/03/13/Data011/"/>
+      <url>2021/03/13/Data011/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="https://www.data-baker.com/#/index">标贝科技官网</a></p><blockquote><p><a href="https://www.data-baker.com/#/data/index/source">开放数据</a></p></blockquote></blockquote><ul><li>下载地址<ul><li><a href="https://online-of-baklong.oss-cn-huhehaote.aliyuncs.com/story_resource/BZNSYP.rar?Expires=1615629471&OSSAccessKeyId=LTAI3GkKBSJFDJsp&Signature=f0/nWKVtLuda/XTbY1QhL03JJZI=">Aliyun</a><br>Chinese Standard Mandarin Speech Copus（10000 Sentences）</li></ul></li></ul><p>中文标准女声音库，采集对象的音色风格知性阳光、亲切自然，专业标准普通话女声，听感乐观积极。录制环境为专业录音室和录音软件，录音环境和设备自始至终保持不变，录音环境的信噪比不低于35dB;单声道录音，用48KHz 16比特采样频率、PCM WAV格式。录音语料涵盖各类新闻、小说、科技、娱乐、对话等领域，语料设计综合语料样本量，力求在有限的语料数据量内，对音节音子、类型、音调、音连以及韵律等尽可能全面的覆盖。根据合成语音标注标准对音库进行文本音字校对、韵律层级标注、语音文件边界切分标注。</p><p><strong>数据参数</strong></p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">数据内容：中文标准女声语音库数据</span></span><br><span class="line"><span class="string">录音语料：综合语料样本量；音节音子的数量、类型、音调、音连以及韵律等进行覆盖。</span></span><br><span class="line"><span class="string">有效时长：约12小时</span></span><br><span class="line"><span class="string">平均字数：16字</span></span><br><span class="line"><span class="string">语言类型：标准普通话</span></span><br><span class="line"><span class="string">发</span> <span class="string">音</span> <span class="string">人：女；20-30岁；声音积极知性</span></span><br><span class="line"><span class="string">录音环境：声音采集环境为专业录音棚环境：1）录音棚符合专业音库录制标准；2）录音环境和设备自始至终保持不变；3）录音环境的信噪比不低于35dB。</span></span><br><span class="line"><span class="string">录制工具：专业录音设备及录音软件</span></span><br><span class="line"><span class="string">采样格式：无压缩PCM</span> <span class="string">WAV格式，采样率为48KHz、16bit</span></span><br><span class="line"><span class="string">标注内容：音字校对、韵律标注、中文声韵母边界切分</span></span><br><span class="line"><span class="string">标注格式：文本标注为.txt格式文档；音节音素边界切分文件为.interval格式</span></span><br><span class="line"><span class="string">质量标准：1.</span> <span class="string">语音文件为48k</span> <span class="string">16bit</span> <span class="string">wav格式，音色、音量、语速一致，无漂零无截幅；2.标注文件字准率不低于99.8%；3.音素边界错误大于10ms的比例小于1%；音节边界准确率大于98%.</span></span><br><span class="line"><span class="string">存储方式：FTP存储</span></span><br><span class="line"><span class="string">文件格式：音频文件：WAV</span> <span class="string">文本标注文件：TXT</span> <span class="string">边界标注文件：INTERVAL</span></span><br><span class="line"><span class="string">版权所属者：标贝(北京)科技有限公司</span></span><br></pre></td></tr></table></figure><p><strong>源码</strong><br>[1] espnet<a href="https://github.com/espnet/espnet">[GitHub]</a><br>[2] ParallelWaveGAN<a href="https://github.com/kan-bayashi/ParallelWaveGAN">[GitHub]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Data </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音合成 </tag>
+            
+            <tag> 语音数据集 </tag>
+            
+            <tag> 中文语音数据集 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>数据堂_Datasets_AIDataTang_1505zh</title>
       <link href="2021/03/13/Data010/"/>
       <url>2021/03/13/Data010/</url>
@@ -716,37 +892,6 @@
     
     
     <entry>
-      <title>谷歌_ICLR2018_Monotonic Chunkwise Attention</title>
-      <link href="2021/02/21/Paper036/"/>
-      <url>2021/02/21/Paper036/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>软注意力序列间模型已成功地应用于各种各样的问题，但其解码过程需要大量的时间和空间开销，不适用于实时序列转换。为了解决这些问题，我们提出了单调的组块注意力（MOCHA），它自适应地将输入序列分割成小块，在这些小块上计算软注意。我们证明了使用MOCHA的模型可以在标准反向传播的情况下有效地训练，同时允许在测试时进行在线和线性时间解码。当应用于在线语音识别时，我们获得了最先进的结果，并与使用离线软注意力机制的模型性能进行了比较。在文档总结的实验中，在没有进行单调对齐的情况下，与基于单调注意力的基线模型相比，该模型表现出显著的改进性能。</p><p><strong>参考</strong><br>[1] <em>Chiu C C, Raffel C. Monotonic chunkwise attention[J]. arXiv preprint arXiv:1712.05382, 2017.</em><a href="https://arxiv.org/abs/1712.05382">[pdf]</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Paper </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 语音识别 </tag>
-            
-            <tag> Attention </tag>
-            
-            <tag> Sequence-to-Sequence </tag>
-            
-            <tag> MoChA </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>谷歌_20160804_A Neural Transducer</title>
       <link href="2021/02/21/Paper035/"/>
       <url>2021/02/21/Paper035/</url>
@@ -770,6 +915,37 @@
             <tag> RNN-T </tag>
             
             <tag> Sequence-to-Sequence </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>谷歌_ICLR2018_Monotonic Chunkwise Attention</title>
+      <link href="2021/02/21/Paper036/"/>
+      <url>2021/02/21/Paper036/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>软注意力序列间模型已成功地应用于各种各样的问题，但其解码过程需要大量的时间和空间开销，不适用于实时序列转换。为了解决这些问题，我们提出了单调的组块注意力（MOCHA），它自适应地将输入序列分割成小块，在这些小块上计算软注意。我们证明了使用MOCHA的模型可以在标准反向传播的情况下有效地训练，同时允许在测试时进行在线和线性时间解码。当应用于在线语音识别时，我们获得了最先进的结果，并与使用离线软注意力机制的模型性能进行了比较。在文档总结的实验中，在没有进行单调对齐的情况下，与基于单调注意力的基线模型相比，该模型表现出显著的改进性能。</p><p><strong>参考</strong><br>[1] <em>Chiu C C, Raffel C. Monotonic chunkwise attention[J]. arXiv preprint arXiv:1712.05382, 2017.</em><a href="https://arxiv.org/abs/1712.05382">[pdf]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> Attention </tag>
+            
+            <tag> Sequence-to-Sequence </tag>
+            
+            <tag> MoChA </tag>
             
         </tags>
       
@@ -1976,9 +2152,9 @@
             
             <tag> 声码器 </tag>
             
-            <tag> WaveGlow </tag>
-            
             <tag> FastSpeech2 </tag>
+            
+            <tag> WaveGlow </tag>
             
         </tags>
       
@@ -2009,9 +2185,9 @@
             
             <tag> 声码器 </tag>
             
-            <tag> FastSpeech </tag>
-            
             <tag> WaveGlow </tag>
+            
+            <tag> FastSpeech </tag>
             
         </tags>
       
