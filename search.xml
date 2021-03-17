@@ -2174,9 +2174,9 @@
             
             <tag> Griffin-Lim </tag>
             
-            <tag> 声纹编码器 </tag>
-            
             <tag> WaveNet </tag>
+            
+            <tag> 声纹编码器 </tag>
             
             <tag> 韵律编码器 </tag>
             
@@ -2291,11 +2291,11 @@
             
             <tag> 声码器 </tag>
             
-            <tag> 声纹编码器 </tag>
-            
             <tag> Tacotron2 </tag>
             
             <tag> WaveNet </tag>
+            
+            <tag> 声纹编码器 </tag>
             
         </tags>
       
