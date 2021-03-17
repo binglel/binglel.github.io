@@ -4,6 +4,91 @@
   
     
     <entry>
+      <title>IRISA-CNRS_Datasets_DEMAND</title>
+      <link href="2021/03/17/Data022/"/>
+      <url>2021/03/17/Data022/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><ul><li>下载地址<ul><li><a href="https://zenodo.org/record/1227121#.YFHH7HUzbaR">DEMAND</a><br>A collection of multi-channel recordings of acoustic noise in diverse environments</li></ul></li></ul><p>该数据集是在不同环境下采集的多通道声音噪声。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Data </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 噪声数据集 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>乔治梅森大学_Datasets_The Speech Accent Archive</title>
+      <link href="2021/03/17/Data021/"/>
+      <url>2021/03/17/Data021/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="https://linguistics.gmu.edu/">LINGUISTICS@GMU</a></p></blockquote><ul><li>下载地址<ul><li><a href="http://accent.gmu.edu/index.php">speech accent archive</a></li></ul></li></ul><p>语音口音档案包括各种语言背景的大量语音样本，内容是以英语为母语和非母语的人阅读相同的一段文字，该档案供那些想要比较和分析不同英语使用者口音的人使用。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Data </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> 语音数据集 </tag>
+            
+            <tag> 英文语音数据集 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>爱丁堡大学_Datasets_CSTR VCTK Corpus</title>
+      <link href="2021/03/17/Data020/"/>
+      <url>2021/03/17/Data020/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="https://era.ed.ac.uk/handle/1842/905">The Centre for Speech Technology Research (CSTR@Edin.)</a></p><blockquote><p><a href="https://datashare.ed.ac.uk/">Edinburgh DataShare</a></p></blockquote></blockquote><ul><li>下载地址<ul><li><a href="https://datashare.ed.ac.uk/handle/10283/3443">CSTR VCTK Corpus</a></li></ul></li></ul><p>该语料库包括110位不同口音的英语说话人，每位说话人大约400条语音，句子内容选自报纸等。</p><p><strong>参考</strong><br>[1] <em>Oord A ,  Dieleman S ,  Zen H , et al. WaveNet: A Generative Model for Raw Audio[J].  2016.</em><a href="http://arxiv.org/abs/1609.03499">[pdf]</a></p><p><strong>源码</strong><br>[1] wavenet_torch<a href="https://github.com/r9y9/wavenet_vocoder">[GitHub]</a><br>[2] wavenet_tf<a href="https://github.com/ibab/tensorflow-wavenet">[GitHub]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Data </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音合成 </tag>
+            
+            <tag> 语音数据集 </tag>
+            
+            <tag> 英文语音数据集 </tag>
+            
+            <tag> 说话人风格迁移 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>LibriVox_Datasets_The LJ Speech Dataset</title>
       <link href="2021/03/14/Data019/"/>
       <url>2021/03/14/Data019/</url>
@@ -66,7 +151,7 @@
       <link href="2021/03/14/Data017/"/>
       <url>2021/03/14/Data017/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="https://www.clsp.jhu.edu/">The Center for Language and Speech Processing(CLSP@JHU)</a></p></blockquote><ul><li>下载地址<ul><li><a href="http://www.openslr.org/12/">0penSLR</a> / <a href="https://openslr.magicdatatech.com/12/">OpenSLR-China</a><br>Large-scale (1000 hours) corpus of read English speech</li><li><a href="http://www.openslr.org/31/">0penSLR</a> / <a href="https://openslr.magicdatatech.com/31/">OpenSLR-China</a><br>Subset of LibriSpeech corpus for purpose of regression testing</li></ul></li></ul><p>Librispeech是由kaldi开发者整理并发布的免费英语朗读数据，其数据总量是<code>960小时</code>，内容来自有声电子书项目LibriVox。</p><p><strong>数据内容</strong><br>train-clean-100：251个说话人<br>train-clean-360：921个说话人<br>train-clean-500：1166个说话人<br>……</p><p><strong>参考</strong><br>[1] <em>Panayotov V, Chen G, Povey D, et al. Librispeech: an asr corpus based on public domain audio books[C]//2015 IEEE international conference on acoustics, speech and signal processing (ICASSP). IEEE, 2015: 5206-5210.</em><a href="http://www.danielpovey.com/files/2015_icassp_librispeech.pdf">[pdf]</a></p><p><strong>源码</strong><br>[1] kaldi<a href="https://github.com/kaldi-asr/kaldi">[GitHub]</a></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="https://www.clsp.jhu.edu/">The Center for Language and Speech Processing (CLSP@JHU)</a></p></blockquote><ul><li>下载地址<ul><li><a href="http://www.openslr.org/12/">0penSLR</a> / <a href="https://openslr.magicdatatech.com/12/">OpenSLR-China</a><br>Large-scale (1000 hours) corpus of read English speech</li><li><a href="http://www.openslr.org/31/">0penSLR</a> / <a href="https://openslr.magicdatatech.com/31/">OpenSLR-China</a><br>Subset of LibriSpeech corpus for purpose of regression testing</li></ul></li></ul><p>Librispeech是由kaldi开发者整理并发布的免费英语朗读数据，其数据总量是<code>960小时</code>，内容来自有声电子书项目LibriVox。</p><p><strong>数据内容</strong><br>train-clean-100：251个说话人<br>train-clean-360：921个说话人<br>train-clean-500：1166个说话人<br>……</p><p><strong>参考</strong><br>[1] <em>Panayotov V, Chen G, Povey D, et al. Librispeech: an asr corpus based on public domain audio books[C]//2015 IEEE international conference on acoustics, speech and signal processing (ICASSP). IEEE, 2015: 5206-5210.</em><a href="http://www.danielpovey.com/files/2015_icassp_librispeech.pdf">[pdf]</a></p><p><strong>源码</strong><br>[1] kaldi<a href="https://github.com/kaldi-asr/kaldi">[GitHub]</a></p>]]></content>
       
       
       <categories>
@@ -981,37 +1066,6 @@
     
     
     <entry>
-      <title>谷歌_ICLR2018_Monotonic Chunkwise Attention</title>
-      <link href="2021/02/21/Paper036/"/>
-      <url>2021/02/21/Paper036/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>软注意力序列间模型已成功地应用于各种各样的问题，但其解码过程需要大量的时间和空间开销，不适用于实时序列转换。为了解决这些问题，我们提出了单调的组块注意力（MOCHA），它自适应地将输入序列分割成小块，在这些小块上计算软注意。我们证明了使用MOCHA的模型可以在标准反向传播的情况下有效地训练，同时允许在测试时进行在线和线性时间解码。当应用于在线语音识别时，我们获得了最先进的结果，并与使用离线软注意力机制的模型性能进行了比较。在文档总结的实验中，在没有进行单调对齐的情况下，与基于单调注意力的基线模型相比，该模型表现出显著的改进性能。</p><p><strong>参考</strong><br>[1] <em>Chiu C C, Raffel C. Monotonic chunkwise attention[J]. arXiv preprint arXiv:1712.05382, 2017.</em><a href="https://arxiv.org/abs/1712.05382">[pdf]</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Paper </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 语音识别 </tag>
-            
-            <tag> Attention </tag>
-            
-            <tag> Sequence-to-Sequence </tag>
-            
-            <tag> MoChA </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>谷歌_20160804_A Neural Transducer</title>
       <link href="2021/02/21/Paper035/"/>
       <url>2021/02/21/Paper035/</url>
@@ -1035,6 +1089,37 @@
             <tag> RNN-T </tag>
             
             <tag> Sequence-to-Sequence </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>谷歌_ICLR2018_Monotonic Chunkwise Attention</title>
+      <link href="2021/02/21/Paper036/"/>
+      <url>2021/02/21/Paper036/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>软注意力序列间模型已成功地应用于各种各样的问题，但其解码过程需要大量的时间和空间开销，不适用于实时序列转换。为了解决这些问题，我们提出了单调的组块注意力（MOCHA），它自适应地将输入序列分割成小块，在这些小块上计算软注意。我们证明了使用MOCHA的模型可以在标准反向传播的情况下有效地训练，同时允许在测试时进行在线和线性时间解码。当应用于在线语音识别时，我们获得了最先进的结果，并与使用离线软注意力机制的模型性能进行了比较。在文档总结的实验中，在没有进行单调对齐的情况下，与基于单调注意力的基线模型相比，该模型表现出显著的改进性能。</p><p><strong>参考</strong><br>[1] <em>Chiu C C, Raffel C. Monotonic chunkwise attention[J]. arXiv preprint arXiv:1712.05382, 2017.</em><a href="https://arxiv.org/abs/1712.05382">[pdf]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> Attention </tag>
+            
+            <tag> Sequence-to-Sequence </tag>
+            
+            <tag> MoChA </tag>
             
         </tags>
       
@@ -2079,6 +2164,8 @@
             
             <tag> 语音转换 </tag>
             
+            <tag> 说话人风格迁移 </tag>
+            
             <tag> 合成器 </tag>
             
             <tag> Tacotron </tag>
@@ -2087,11 +2174,9 @@
             
             <tag> Griffin-Lim </tag>
             
-            <tag> WaveNet </tag>
-            
-            <tag> 说话人风格迁移 </tag>
-            
             <tag> 声纹编码器 </tag>
+            
+            <tag> WaveNet </tag>
             
             <tag> 韵律编码器 </tag>
             
@@ -2122,6 +2207,8 @@
             
             <tag> 语音转换 </tag>
             
+            <tag> 说话人风格迁移 </tag>
+            
             <tag> 合成器 </tag>
             
             <tag> Tacotron </tag>
@@ -2131,8 +2218,6 @@
             <tag> Griffin-Lim </tag>
             
             <tag> WaveNet </tag>
-            
-            <tag> 说话人风格迁移 </tag>
             
             <tag> 韵律编码器 </tag>
             
@@ -2200,17 +2285,17 @@
             
             <tag> 说话人认证 </tag>
             
+            <tag> 说话人风格迁移 </tag>
+            
             <tag> 合成器 </tag>
             
             <tag> 声码器 </tag>
             
+            <tag> 声纹编码器 </tag>
+            
             <tag> Tacotron2 </tag>
             
             <tag> WaveNet </tag>
-            
-            <tag> 说话人风格迁移 </tag>
-            
-            <tag> 声纹编码器 </tag>
             
         </tags>
       
