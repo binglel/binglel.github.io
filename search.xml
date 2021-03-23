@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>机器学习白板推导_ZhouJie</title>
+      <link href="2021/03/23/Tutorial009/"/>
+      <url>2021/03/23/Tutorial009/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p>Machine-Learning-Session<a href="https://github.com/shuhuai007/Machine-Learning-Session">[GitHub]</a></p></blockquote><blockquote><p><a href="https://space.bilibili.com/97068901">视频</a></p></blockquote><blockquote><p><a href="https://blog.csdn.net/qq_41485273/article/details/111563979">笔记</a></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> Tutorial </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 机器学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>数学之美_吴军</title>
       <link href="2021/03/19/Book003/"/>
       <url>2021/03/19/Book003/</url>
@@ -33,7 +58,7 @@
       <link href="2021/03/19/Book004/"/>
       <url>2021/03/19/Book004/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p align="left">  <img src= "/img/loading.gif" data-lazy-src="/img/books/book_004-02.jpg" width = 240 height = 320/></p><ul><li><p>第一章 统计学习方法概论</p></li><li><p>第二章 感知机</p></li><li><p>第三章 k近邻法</p></li><li><p>第四章 朴素贝叶斯法</p></li><li><p>第五章 决策树</p></li><li><p>第六章 逻辑斯谛回归与最大熵模型</p></li><li><p>第七章 支持向量机</p></li><li><p>第八章 提升方法</p></li><li><p>第九章 EM算法及其推广</p></li><li><p>第十章 隐马尔可夫模型</p></li><li><p>第十一章 条件随机场</p></li><li><p>第十二章 统计学习方法总结</p></li></ul><p><strong>参考</strong><br>[1] <em>统计学习方法(非扫描版)_李航</em><a href="http://note.youdao.com/noteshare?id=e534664d3f86db8df63db877315e9fca&sub=B0E1D5D153764B1DBEA301189A28EE85">[pdf]</a></p><p><strong>源码</strong><br>[1] <em>lihang_book_algorithm</em><a href="https://github.com/WenDesi/lihang_book_algorithm">[GitHub]</a></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p align="left">  <img src= "/img/loading.gif" data-lazy-src="/img/books/book_004-02.jpg" width = 240 height = 320/></p><ul><li><p>第一章 统计学习方法概论</p></li><li><p>第二章 感知机</p></li><li><p>第三章 k近邻法</p></li><li><p>第四章 朴素贝叶斯法</p></li><li><p>第五章 决策树</p></li><li><p>第六章 逻辑斯谛回归与最大熵模型</p></li><li><p>第七章 支持向量机</p></li><li><p>第八章 提升方法</p></li><li><p>第九章 EM算法及其推广</p></li><li><p>第十章 隐马尔可夫模型</p></li><li><p>第十一章 条件随机场</p></li><li><p>第十二章 统计学习方法总结</p></li></ul><p><strong>参考</strong><br>[1] <em>统计学习方法(非扫描版)_李航</em><a href="http://note.youdao.com/noteshare?id=e534664d3f86db8df63db877315e9fca&sub=B0E1D5D153764B1DBEA301189A28EE85">[pdf]</a></p><p><strong>源码</strong><br>[1] <em>lihang_book_algorithm</em><a href="https://github.com/WenDesi/lihang_book_algorithm">[GitHub]</a> / <a href="https://blog.csdn.net/wds2006sdo/article/details/51923546">[CSDN]</a></p>]]></content>
       
       
       <categories>
