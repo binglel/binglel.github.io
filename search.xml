@@ -317,7 +317,7 @@
       <link href="2021/03/14/Data014/"/>
       <url>2021/03/14/Data014/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://surfing.ai/">冲浪科技官网</a></p><blockquote><p><a href="http://surfing.ai/index.php?c=category&id=19">开源数据库</a></p></blockquote></blockquote><ul><li>下载地址<ul><li><a href="http://www.openslr.org/38/">OpenSLR</a> / <a href="https://openslr.magicdatatech.com/38/">OpenSLR-China</a><br>Free ST Chinese Mandarin Corpus</li></ul></li></ul><p>ST-CMDS-20170001_1是由冲浪科技公司发布的中文语音数据集，使用手机在室内静音环境下录制，该数据集包含<code>102600条</code>，<code>大约100余小时</code>的语音数据。数据内容以平时的网上语音聊天和智能语音控制语句为主，<code>855个不同说话者</code>，同时有男声和女声，适合多种场景下使用。</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://surfing.ai/">冲浪科技官网</a></p><blockquote><p><a href="http://surfing.ai/index.php?c=category&id=19">开源数据库</a></p></blockquote></blockquote><ul><li>下载地址<ul><li><a href="http://www.openslr.org/38/">OpenSLR</a> / <a href="https://openslr.magicdatatech.com/38/">OpenSLR-China</a><br>Free ST Chinese Mandarin Corpus</li></ul></li></ul><p>ST-CMDS-20170001_1是由冲浪科技公司发布的中文语音数据集，使用手机在室内静音环境下录制，该数据集包含<code>102600条</code>，<code>大约100余小时</code>的语音数据。数据内容以平时的网上语音聊天和智能语音控制语句为主，<code>855个不同说话者</code>，同时有男声和女声，适合多种场景下使用。</p><p><strong>源码</strong><br>[1] <em>ASRT_SpeechRecognition</em><a href="https://github.com/nl8590687/ASRT_SpeechRecognition">[GitHub]</a></p>]]></content>
       
       
       <categories>
@@ -1608,7 +1608,7 @@
       <link href="2021/01/24/Paper024/"/>
       <url>2021/01/24/Paper024/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>基于 LSTM-CTC 的端到端语音模型， 由于其简单的训练过程以及高效的解码过程，最近在语音识别领域得到广泛地应用。在传统的 LSTM-CTC 模型中，瓶颈投影矩阵将从LSTM获得的隐藏特征向量映射到Softmax输出层。在本文中，我们提出用高阶投影层来代替投影矩阵。高阶投影层的输出是通过不同的投影矩阵和非线性激活函数从隐藏特征向量投影的向量加权组合。高阶投影层能够提高LSTM-CTC模型的表达能力。实验结果表明，在华尔街日报（WSJ）语料库和LibriSpeech数据集上，该方法比基准CTC系统的相对单词错误率（WER）降低了4%-6%。在不使用额外数据或数据增强的情况下，该模型的性能优于其他已发表的基于CTC的端到端（E2E）模型。</p><p><strong>参考</strong><br>[1] <em>Shi Y, Hwang M Y, Lei X. End-to-end speech recognition using a high rank lstm-ctc based model[C]//ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2019: 7080-7084.</em><a href="https://arxiv.org/abs/1903.05261">[pdf]</a></p><p><strong>源码</strong><br>[1] lstm_ctc<a href="https://github.com/mobvoi/lstm_ctc">[GitHub]</a></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>基于 LSTM-CTC 的端到端语音模型， 由于其简单的训练过程以及高效的解码过程，最近在语音识别领域得到广泛地应用。在传统的 LSTM-CTC 模型中，瓶颈投影矩阵将从LSTM获得的隐藏特征向量映射到Softmax输出层。在本文中，我们提出用高阶投影层来代替投影矩阵。高阶投影层的输出是通过不同的投影矩阵和非线性激活函数从隐藏特征向量投影的向量加权组合。高阶投影层能够提高LSTM-CTC模型的表达能力。实验结果表明，在华尔街日报（WSJ）语料库和LibriSpeech数据集上，该方法比基准CTC系统的相对单词错误率（WER）降低了4%-6%。在不使用额外数据或数据增强的情况下，该模型的性能优于其他已发表的基于CTC的端到端（E2E）模型。</p><p><strong>参考</strong><br>[1] <em>Shi Y, Hwang M Y, Lei X. End-to-end speech recognition using a high rank lstm-ctc based model[C]//ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2019: 7080-7084.</em><a href="https://arxiv.org/abs/1903.05261">[pdf]</a></p><p><strong>源码</strong><br>[1] <em>lstm_ctc</em><a href="https://github.com/mobvoi/lstm_ctc">[GitHub]</a></p>]]></content>
       
       
       <categories>
@@ -2034,9 +2034,9 @@
             
             <tag> 语言模型 </tag>
             
-            <tag> HMM </tag>
-            
             <tag> Kaldi </tag>
+            
+            <tag> HMM </tag>
             
             <tag> End-to-End </tag>
             
