@@ -4,6 +4,56 @@
   
     
     <entry>
+      <title>语音标注工具_Praat</title>
+      <link href="2021/03/23/Open003/"/>
+      <url>2021/03/23/Open003/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="https://www.fon.hum.uva.nl/praat/">官网</a></p></blockquote><blockquote><p>Praat<a href="https://github.com/praat/praat">[Github]</a></p></blockquote><p>Praat的主要功能是对自然语言的语音信号进行采集、分析和标注，并执行包括变换和滤波等在内的多种处理任务。作为分析结果的文字报表和语图，不但可以输出到个人计算机的磁盘文件中和终端的显示器上，更能够输出为精致的矢量图或位图，供写作和印刷学术论文与专著使用。<br>此外，Praat还可用于合成语音或声音、统计分析语言学数据、辅助语音教学测试，等等。随着新版本的发布，Praat的功能和用途仍在不断扩展，但实际上多数用户只需要用到一小部分功能。Praat支持Windows、Linux和Mac端安装与使用。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Open </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音标注 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>语音标注工具_ELAN</title>
+      <link href="2021/03/23/Open002/"/>
+      <url>2021/03/23/Open002/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="https://archive.mpi.nl/tla/elan">官网</a></p></blockquote><p>ELAN是一个对视频和音频数据的标识进行创建、编辑、可视化和搜索的标注工具，旨在为标识提供声音技术以及对多媒体剪辑进行开发利用。ELAN支持Windows、Linux和Mac端安装与使用。虽然ELAN专门为语言、手语、姿势提供分析，但是每个人都可以用它来处理多媒体数据，如视频和音频，以便对其进行标识、分析和建档。用户使用ELAN可以向音频或视频记录添加无限数量的文本注释。注释可以是在媒体中观察到的任何特征的句子、单词、翻译、描述等。层可以分层互连。批注可以与媒体时间对齐，也可以引用其他现有批注。注释的内容由Unicode文本组成，并且注释文档以XML格式（EAF）存储。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Open </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音标注 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>机器学习白板推导_ZhouJie</title>
       <link href="2021/03/23/Tutorial009/"/>
       <url>2021/03/23/Tutorial009/</url>
@@ -712,9 +762,9 @@
       
         <tags>
             
-            <tag> 语音合成 </tag>
-            
             <tag> 语音识别 </tag>
+            
+            <tag> 语音合成 </tag>
             
             <tag> 说话人识别 </tag>
             
@@ -842,9 +892,9 @@
       
         <tags>
             
-            <tag> 语音合成 </tag>
-            
             <tag> 语音识别 </tag>
+            
+            <tag> 语音合成 </tag>
             
             <tag> 语音转换 </tag>
             
@@ -1141,37 +1191,6 @@
     
     
     <entry>
-      <title>谷歌_ICLR2018_Monotonic Chunkwise Attention</title>
-      <link href="2021/02/21/Paper036/"/>
-      <url>2021/02/21/Paper036/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>软注意力序列间模型已成功地应用于各种各样的问题，但其解码过程需要大量的时间和空间开销，不适用于实时序列转换。为了解决这些问题，我们提出了单调的组块注意力（MOCHA），它自适应地将输入序列分割成小块，在这些小块上计算软注意。我们证明了使用MOCHA的模型可以在标准反向传播的情况下有效地训练，同时允许在测试时进行在线和线性时间解码。当应用于在线语音识别时，我们获得了最先进的结果，并与使用离线软注意力机制的模型性能进行了比较。在文档总结的实验中，在没有进行单调对齐的情况下，与基于单调注意力的基线模型相比，该模型表现出显著的改进性能。</p><p><strong>参考</strong><br>[1] <em>Chiu C C, Raffel C. Monotonic chunkwise attention[J]. arXiv preprint arXiv:1712.05382, 2017.</em><a href="https://arxiv.org/abs/1712.05382">[pdf]</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Paper </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 语音识别 </tag>
-            
-            <tag> Attention </tag>
-            
-            <tag> Sequence-to-Sequence </tag>
-            
-            <tag> MoChA </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>谷歌_20160804_A Neural Transducer</title>
       <link href="2021/02/21/Paper035/"/>
       <url>2021/02/21/Paper035/</url>
@@ -1195,6 +1214,37 @@
             <tag> RNN-T </tag>
             
             <tag> Sequence-to-Sequence </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>谷歌_ICLR2018_Monotonic Chunkwise Attention</title>
+      <link href="2021/02/21/Paper036/"/>
+      <url>2021/02/21/Paper036/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>软注意力序列间模型已成功地应用于各种各样的问题，但其解码过程需要大量的时间和空间开销，不适用于实时序列转换。为了解决这些问题，我们提出了单调的组块注意力（MOCHA），它自适应地将输入序列分割成小块，在这些小块上计算软注意。我们证明了使用MOCHA的模型可以在标准反向传播的情况下有效地训练，同时允许在测试时进行在线和线性时间解码。当应用于在线语音识别时，我们获得了最先进的结果，并与使用离线软注意力机制的模型性能进行了比较。在文档总结的实验中，在没有进行单调对齐的情况下，与基于单调注意力的基线模型相比，该模型表现出显著的改进性能。</p><p><strong>参考</strong><br>[1] <em>Chiu C C, Raffel C. Monotonic chunkwise attention[J]. arXiv preprint arXiv:1712.05382, 2017.</em><a href="https://arxiv.org/abs/1712.05382">[pdf]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> Attention </tag>
+            
+            <tag> Sequence-to-Sequence </tag>
+            
+            <tag> MoChA </tag>
             
         </tags>
       
@@ -1409,9 +1459,9 @@
       
         <tags>
             
-            <tag> 语音合成 </tag>
-            
             <tag> 语音识别 </tag>
+            
+            <tag> 语音合成 </tag>
             
             <tag> 语音转换 </tag>
             
@@ -1964,9 +2014,9 @@
             
             <tag> Python </tag>
             
-            <tag> 语音合成 </tag>
-            
             <tag> 语音识别 </tag>
+            
+            <tag> 语音合成 </tag>
             
             <tag> 阿里云服务 </tag>
             
