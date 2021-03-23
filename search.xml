@@ -2034,9 +2034,9 @@
             
             <tag> 语言模型 </tag>
             
-            <tag> Kaldi </tag>
-            
             <tag> HMM </tag>
+            
+            <tag> Kaldi </tag>
             
             <tag> End-to-End </tag>
             
