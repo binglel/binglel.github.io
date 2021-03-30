@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>常用操作系统镜像下载指南</title>
+      <link href="2021/03/30/Blog006/"/>
+      <url>2021/03/30/Blog006/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="Windows"><a href="#Windows" class="headerlink" title="Windows"></a>Windows</h1><p><a href="https://www.microsoft.com/zh-cn/software-download/windows10">MediaCreationTool</a> / <a href="https://msdn.itellyou.cn/">MSDN</a> / <a href="https://next.itellyou.cn/">NEXT</a></p><h1 id="Ubuntu"><a href="#Ubuntu" class="headerlink" title="Ubuntu"></a>Ubuntu</h1><p><a href="https://ubuntu.com/download/desktop">官网</a> / <a href="https://mirrors.tuna.tsinghua.edu.cn/ubuntu-releases/">清华源</a> / <a href="http://mirrors.aliyun.com/ubuntu-releases/">阿里云源</a> / <a href="http://mirrors.163.com/ubuntu-releases/">网易源</a> / <a href="https://mirrors.ustc.edu.cn/ubuntu-releases/">中科大源</a> / <a href="http://mirrors.sohu.com/ubuntu-releases/">搜狐源</a> / <a href="http://mirror.hust.edu.cn/ubuntu-releases/">华中科大源</a> / <a href="http://mirror.bit.edu.cn/ubuntu-releases/">北理源</a> / <a href="https://mirror.lzu.edu.cn/ubuntu-releases/">兰大源</a> / <a href="http://mirrors.neusoft.edu.cn/ubuntu-releases/">大连东软信息学院源</a></p><h1 id="Mint"><a href="#Mint" class="headerlink" title="Mint"></a>Mint</h1><p><a href="https://www.linuxmint.com/download_all.php">官网</a> / <a href="https://mirrors.tuna.tsinghua.edu.cn/linuxmint-cd/stable/">清华源</a></p><h1 id="CentOS"><a href="#CentOS" class="headerlink" title="CentOS"></a>CentOS</h1><p><a href="https://www.centos.org/download/">官网</a> / <a href="https://mirrors.tuna.tsinghua.edu.cn/centos-vault/">清华源</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Blog </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Ubuntu </tag>
+            
+            <tag> 操作系统 </tag>
+            
+            <tag> Windows </tag>
+            
+            <tag> Mint </tag>
+            
+            <tag> CentOS </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>语音标注工具_Praat</title>
       <link href="2021/03/23/Open003/"/>
       <url>2021/03/23/Open003/</url>
