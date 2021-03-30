@@ -323,11 +323,11 @@
             
             <tag> 语音识别 </tag>
             
+            <tag> Kaldi </tag>
+            
             <tag> 语音数据集 </tag>
             
             <tag> 英文语音数据集 </tag>
-            
-            <tag> Kaldi </tag>
             
         </tags>
       
@@ -352,11 +352,11 @@
       
         <tags>
             
-            <tag> 语音数据集 </tag>
+            <tag> 说话人识别 </tag>
             
             <tag> Kaldi </tag>
             
-            <tag> 说话人识别 </tag>
+            <tag> 语音数据集 </tag>
             
             <tag> 中文语音数据集 </tag>
             
@@ -615,9 +615,9 @@
       
         <tags>
             
-            <tag> 语音数据集 </tag>
-            
             <tag> 语音唤醒 </tag>
+            
+            <tag> 语音数据集 </tag>
             
         </tags>
       
@@ -673,9 +673,9 @@
             
             <tag> 语音识别 </tag>
             
-            <tag> 语音数据集 </tag>
-            
             <tag> Kaldi </tag>
+            
+            <tag> 语音数据集 </tag>
             
             <tag> 中文语音数据集 </tag>
             
@@ -704,9 +704,9 @@
             
             <tag> 语音识别 </tag>
             
-            <tag> 语音数据集 </tag>
-            
             <tag> Kaldi </tag>
+            
+            <tag> 语音数据集 </tag>
             
             <tag> 中文语音数据集 </tag>
             
@@ -735,11 +735,11 @@
             
             <tag> 语音识别 </tag>
             
+            <tag> Kaldi </tag>
+            
             <tag> 语音数据集 </tag>
             
             <tag> 英文语音数据集 </tag>
-            
-            <tag> Kaldi </tag>
             
         </tags>
       
@@ -766,11 +766,11 @@
             
             <tag> 语音识别 </tag>
             
+            <tag> Kaldi </tag>
+            
             <tag> 语音数据集 </tag>
             
             <tag> 英文语音数据集 </tag>
-            
-            <tag> Kaldi </tag>
             
         </tags>
       
@@ -799,11 +799,11 @@
             
             <tag> 语音识别 </tag>
             
-            <tag> 语音数据集 </tag>
+            <tag> 说话人识别 </tag>
             
             <tag> Kaldi </tag>
             
-            <tag> 说话人识别 </tag>
+            <tag> 语音数据集 </tag>
             
             <tag> 中文语音数据集 </tag>
             
@@ -1095,11 +1095,11 @@
             
             <tag> 语音识别 </tag>
             
-            <tag> Kaldi </tag>
-            
             <tag> 语音唤醒 </tag>
             
             <tag> 说话人识别 </tag>
+            
+            <tag> Kaldi </tag>
             
         </tags>
       
