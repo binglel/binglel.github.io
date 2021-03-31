@@ -309,7 +309,7 @@
       <link href="2021/03/14/Data017/"/>
       <url>2021/03/14/Data017/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="https://www.clsp.jhu.edu/">The Center for Language and Speech Processing (CLSP@JHU)</a></p></blockquote><ul><li>下载地址<ul><li><a href="http://www.openslr.org/12/">0penSLR</a> / <a href="https://openslr.magicdatatech.com/12/">OpenSLR-China</a><br>Large-scale (1000 hours) corpus of read English speech</li><li><a href="http://www.openslr.org/31/">0penSLR</a> / <a href="https://openslr.magicdatatech.com/31/">OpenSLR-China</a><br>Subset of LibriSpeech corpus for purpose of regression testing</li></ul></li></ul><p>Librispeech是由kaldi开发者整理并发布的免费英语朗读数据，其数据总量是<code>960小时</code>，内容来自有声电子书项目LibriVox。</p><p><strong>数据内容</strong><br>train-clean-100：251个说话人<br>train-clean-360：921个说话人<br>train-clean-500：1166个说话人<br>……</p><p><strong>参考</strong><br>[1] <em>Panayotov V, Chen G, Povey D, et al. Librispeech: an asr corpus based on public domain audio books[C]//2015 IEEE international conference on acoustics, speech and signal processing (ICASSP). IEEE, 2015: 5206-5210.</em><a href="http://www.danielpovey.com/files/2015_icassp_librispeech.pdf">[pdf]</a></p><p><strong>源码</strong><br>[1] <em>kaldi</em><a href="https://github.com/kaldi-asr/kaldi">[GitHub]</a></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="https://www.clsp.jhu.edu/">The Center for Language and Speech Processing (CLSP@JHU)</a></p></blockquote><ul><li>下载地址<ul><li><a href="http://www.openslr.org/12/">0penSLR</a> / <a href="https://openslr.magicdatatech.com/12/">OpenSLR-China</a><br>Large-scale (1000 hours) corpus of read English speech</li><li><a href="http://www.openslr.org/31/">0penSLR</a> / <a href="https://openslr.magicdatatech.com/31/">OpenSLR-China</a><br>Subset of LibriSpeech corpus for purpose of regression testing</li></ul></li></ul><p>Librispeech是由kaldi开发者整理并发布的免费英语朗读数据，其数据总量是<code>960小时</code>，内容来自有声电子书项目LibriVox。</p><p><strong>数据内容</strong><br>train-clean-100：251个说话人<br>train-clean-360：921个说话人<br>train-clean-500：1166个说话人<br>……</p><p><strong>参考</strong><br>[1] <em>Panayotov V, Chen G, Povey D, et al. Librispeech: an asr corpus based on public domain audio books[C]//2015 IEEE international conference on acoustics, speech and signal processing (ICASSP). IEEE, 2015: 5206-5210.</em><a href="http://www.danielpovey.com/files/2015_icassp_librispeech.pdf">[pdf]</a></p><p><strong>源码</strong><br>[1] <em>kaldi</em><a href="https://github.com/kaldi-asr/kaldi">[GitHub]</a><br>[2] <em>wenet</em><a href="https://github.com/mobvoi/wenet">[GitHub]</a></p>]]></content>
       
       
       <categories>
@@ -659,7 +659,7 @@
       <link href="2021/03/07/Data005/"/>
       <url>2021/03/07/Data005/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://www.aishelltech.com/">希尔贝壳官网</a></p><blockquote><p><a href="http://www.aishelltech.com/aishell_2">AISHELL-2</a></p></blockquote></blockquote><ul><li>下载地址<ul><li>AISHELL-3（<strong>需申请下载</strong>）</li></ul></li></ul><p>希尔贝壳中文普通话语音数据库AISHELL-2的语音时长为<code>1000小时</code>，其中718小时来自AISHELL-ASR0009-[ZH-CN]，282小时来自AISHELL-ASR0010-[ZH-CN]。录音文本涉及唤醒词、语音控制词、智能家居、无人驾驶、工业生产等12个领域。录制过程在安静室内环境中， 同时使用3种不同设备： 高保真麦克风（44.1kHz，16bit）；Android系统手机（16kHz，16bit）；iOS系统手机（16kHz，16bit）。AISHELL-2采用iOS系统手机录制的语音数据。<code>1991名</code>来自中国不同口音区域的发言人参与录制。经过专业语音校对人员转写标注，并通过严格质量检验，此数据库文本正确率在96%以上。</p><p><strong>参考</strong><br>[1] <em>Du J, Na X, Liu X, et al. Aishell-2: Transforming mandarin asr research into industrial scale[J]. arXiv preprint arXiv:1808.10583, 2018.</em><a href="https://arxiv.org/abs/1808.10583">[pdf]</a></p><p><strong>源码</strong><br>[1] <em>kaldi</em><a href="https://github.com/kaldi-asr/kaldi">[GitHub]</a></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://www.aishelltech.com/">希尔贝壳官网</a></p><blockquote><p><a href="http://www.aishelltech.com/aishell_2">AISHELL-2</a></p></blockquote></blockquote><ul><li>下载地址<ul><li>AISHELL-3（<strong>需申请下载</strong>）</li></ul></li></ul><p>希尔贝壳中文普通话语音数据库AISHELL-2的语音时长为<code>1000小时</code>，其中718小时来自AISHELL-ASR0009-[ZH-CN]，282小时来自AISHELL-ASR0010-[ZH-CN]。录音文本涉及唤醒词、语音控制词、智能家居、无人驾驶、工业生产等12个领域。录制过程在安静室内环境中， 同时使用3种不同设备： 高保真麦克风（44.1kHz，16bit）；Android系统手机（16kHz，16bit）；iOS系统手机（16kHz，16bit）。AISHELL-2采用iOS系统手机录制的语音数据。<code>1991名</code>来自中国不同口音区域的发言人参与录制。经过专业语音校对人员转写标注，并通过严格质量检验，此数据库文本正确率在96%以上。</p><p><strong>参考</strong><br>[1] <em>Du J, Na X, Liu X, et al. Aishell-2: Transforming mandarin asr research into industrial scale[J]. arXiv preprint arXiv:1808.10583, 2018.</em><a href="https://arxiv.org/abs/1808.10583">[pdf]</a></p><p><strong>源码</strong><br>[1] <em>kaldi</em><a href="https://github.com/kaldi-asr/kaldi">[GitHub]</a><br>[2] <em>wenet</em><a href="https://github.com/mobvoi/wenet">[GitHub]</a></p>]]></content>
       
       
       <categories>
@@ -690,7 +690,7 @@
       <link href="2021/03/07/Data004/"/>
       <url>2021/03/07/Data004/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://www.aishelltech.com/">希尔贝壳官网</a></p><blockquote><p><a href="http://www.aishelltech.com/kysjcp">AISHELL-1</a></p></blockquote></blockquote><ul><li>下载地址<ul><li><a href="http://www.openslr.org/33/">OpenSLR</a> / <a href="https://openslr.magicdatatech.com/33/">OpenSLR-China</a></li><li><a href="https://mab.to/ojn60R5b4rTor">Netdisk</a></li></ul></li></ul><p>希尔贝壳中文普通话开源语音数据库AISHELL-ASR0009-OS1录音时长<code>178小时</code>，是希尔贝壳中文普通话语音数据库AISHELL-ASR0009的一部分。AISHELL-ASR0009录音文本涉及智能家居、无人驾驶、工业生产等11个领域。录制过程在安静室内环境中， 同时使用3种不同设备： 高保真麦克风（44.1kHz，16-bit）；Android系统手机（16kHz，16-bit）；iOS系统手机（16kHz，16-bit）。高保真麦克风录制的音频降采样为16kHz，用于制作AISHELL-ASR0009-OS1。<code>400名</code>来自中国不同口音区域的发言人参与录制。经过专业语音校对人员转写标注，并通过严格质量检验，此数据库文本正确率在95%以上。分为训练集、开发集、测试集。</p><p><strong>参考</strong><br>[1] <em>Bu H, Du J, Na X, et al. Aishell-1: An open-source mandarin speech corpus and a speech recognition baseline[C]//2017 20th Conference of the Oriental Chapter of the International Coordinating Committee on Speech Databases and Speech I/O Systems and Assessment (O-COCOSDA). IEEE, 2017: 1-5.</em><a href="https://arxiv.org/abs/1709.05522">[pdf]</a></p><p><strong>源码</strong><br>[1] <em>kaldi</em><a href="https://github.com/kaldi-asr/kaldi">[GitHub]</a></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://www.aishelltech.com/">希尔贝壳官网</a></p><blockquote><p><a href="http://www.aishelltech.com/kysjcp">AISHELL-1</a></p></blockquote></blockquote><ul><li>下载地址<ul><li><a href="http://www.openslr.org/33/">OpenSLR</a> / <a href="https://openslr.magicdatatech.com/33/">OpenSLR-China</a></li><li><a href="https://mab.to/ojn60R5b4rTor">Netdisk</a></li></ul></li></ul><p>希尔贝壳中文普通话开源语音数据库AISHELL-ASR0009-OS1录音时长<code>178小时</code>，是希尔贝壳中文普通话语音数据库AISHELL-ASR0009的一部分。AISHELL-ASR0009录音文本涉及智能家居、无人驾驶、工业生产等11个领域。录制过程在安静室内环境中， 同时使用3种不同设备： 高保真麦克风（44.1kHz，16-bit）；Android系统手机（16kHz，16-bit）；iOS系统手机（16kHz，16-bit）。高保真麦克风录制的音频降采样为16kHz，用于制作AISHELL-ASR0009-OS1。<code>400名</code>来自中国不同口音区域的发言人参与录制。经过专业语音校对人员转写标注，并通过严格质量检验，此数据库文本正确率在95%以上。分为训练集、开发集、测试集。</p><p><strong>参考</strong><br>[1] <em>Bu H, Du J, Na X, et al. Aishell-1: An open-source mandarin speech corpus and a speech recognition baseline[C]//2017 20th Conference of the Oriental Chapter of the International Coordinating Committee on Speech Databases and Speech I/O Systems and Assessment (O-COCOSDA). IEEE, 2017: 1-5.</em><a href="https://arxiv.org/abs/1709.05522">[pdf]</a></p><p><strong>源码</strong><br>[1] <em>kaldi</em><a href="https://github.com/kaldi-asr/kaldi">[GitHub]</a><br>[2] <em>wenet</em><a href="https://github.com/mobvoi/wenet">[GitHub]</a></p>]]></content>
       
       
       <categories>
@@ -1224,37 +1224,6 @@
     
     
     <entry>
-      <title>谷歌_ICLR2018_Monotonic Chunkwise Attention</title>
-      <link href="2021/02/21/Paper036/"/>
-      <url>2021/02/21/Paper036/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>软注意力序列间模型已成功地应用于各种各样的问题，但其解码过程需要大量的时间和空间开销，不适用于实时序列转换。为了解决这些问题，我们提出了单调的组块注意力（MOCHA），它自适应地将输入序列分割成小块，在这些小块上计算软注意。我们证明了使用MOCHA的模型可以在标准反向传播的情况下有效地训练，同时允许在测试时进行在线和线性时间解码。当应用于在线语音识别时，我们获得了最先进的结果，并与使用离线软注意力机制的模型性能进行了比较。在文档总结的实验中，在没有进行单调对齐的情况下，与基于单调注意力的基线模型相比，该模型表现出显著的改进性能。</p><p><strong>参考</strong><br>[1] <em>Chiu C C, Raffel C. Monotonic chunkwise attention[J]. arXiv preprint arXiv:1712.05382, 2017.</em><a href="https://arxiv.org/abs/1712.05382">[pdf]</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Paper </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 语音识别 </tag>
-            
-            <tag> Attention </tag>
-            
-            <tag> Sequence-to-Sequence </tag>
-            
-            <tag> MoChA </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>谷歌_20160804_A Neural Transducer</title>
       <link href="2021/02/21/Paper035/"/>
       <url>2021/02/21/Paper035/</url>
@@ -1278,6 +1247,37 @@
             <tag> RNN-T </tag>
             
             <tag> Sequence-to-Sequence </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>谷歌_ICLR2018_Monotonic Chunkwise Attention</title>
+      <link href="2021/02/21/Paper036/"/>
+      <url>2021/02/21/Paper036/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>软注意力序列间模型已成功地应用于各种各样的问题，但其解码过程需要大量的时间和空间开销，不适用于实时序列转换。为了解决这些问题，我们提出了单调的组块注意力（MOCHA），它自适应地将输入序列分割成小块，在这些小块上计算软注意。我们证明了使用MOCHA的模型可以在标准反向传播的情况下有效地训练，同时允许在测试时进行在线和线性时间解码。当应用于在线语音识别时，我们获得了最先进的结果，并与使用离线软注意力机制的模型性能进行了比较。在文档总结的实验中，在没有进行单调对齐的情况下，与基于单调注意力的基线模型相比，该模型表现出显著的改进性能。</p><p><strong>参考</strong><br>[1] <em>Chiu C C, Raffel C. Monotonic chunkwise attention[J]. arXiv preprint arXiv:1712.05382, 2017.</em><a href="https://arxiv.org/abs/1712.05382">[pdf]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> Attention </tag>
+            
+            <tag> Sequence-to-Sequence </tag>
+            
+            <tag> MoChA </tag>
             
         </tags>
       
@@ -1722,7 +1722,7 @@
       <link href="2021/01/23/Paper023/"/>
       <url>2021/01/23/Paper023/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>在本文中，我们提出了一种新型的两遍方法来将流式和非流式端到端（E2E）语音识别统一在一个模型中。该模型采用混合CTC和注意力架构，对编码器中的一致性层进行了修改。我们提出了一种基于动态组块的注意策略来允许输入任意合适的上下文长度。在推理时，CTC解码器以流式方式生成n个最佳假设。只需改变块大小，就可以很容易地控制推理延迟。然后，注意力解码器对CTC假设进行重新评分以得到最终结果。这种高效的重新评分过程只会导致非常小的句子级延迟。在开放170小时的AISHELL-1数据集上的实验表明，该方法能够简单有效地统一流式模型和非流式模型。在AISHELL-1测试集上，与标准非流式Tansformer相比，我们的统一模型在非流式ASR上的相对字符错误率（CER）降低了5.60%。同样的模型在流式ASR系统中获得了5.42%的CER和640ms的延迟。</p><p><strong>参考</strong><br>[1] <em>Zhang B, Wu D, Yao Z, et al. Unified Streaming and Non-streaming Two-pass End-to-end Model for Speech Recognition[J]. arXiv preprint arXiv:2012.05481, 2020.</em><a href="https://arxiv.org/abs/2012.05481">[pdf]</a></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>在本文中，我们提出了一种新型的两遍方法来将流式和非流式端到端（E2E）语音识别统一在一个模型中。该模型采用混合CTC和注意力架构，对编码器中的一致性层进行了修改。我们提出了一种基于动态组块的注意策略来允许输入任意合适的上下文长度。在推理时，CTC解码器以流式方式生成n个最佳假设。只需改变块大小，就可以很容易地控制推理延迟。然后，注意力解码器对CTC假设进行重新评分以得到最终结果。这种高效的重新评分过程只会导致非常小的句子级延迟。在开放170小时的AISHELL-1数据集上的实验表明，该方法能够简单有效地统一流式模型和非流式模型。在AISHELL-1测试集上，与标准非流式Tansformer相比，我们的统一模型在非流式ASR上的相对字符错误率（CER）降低了5.60%。同样的模型在流式ASR系统中获得了5.42%的CER和640ms的延迟。</p><p><strong>参考</strong><br>[1] <em>Zhang B, Wu D, Yao Z, et al. Unified Streaming and Non-streaming Two-pass End-to-end Model for Speech Recognition[J]. arXiv preprint arXiv:2012.05481, 2020.</em><a href="https://arxiv.org/abs/2012.05481">[pdf]</a></p><p><strong>源码</strong><br>[1] <em>wenet</em><a href="https://github.com/mobvoi/wenet">[GitHub]</a></p>]]></content>
       
       
       <categories>
