@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>出门问问_20210202_WeNet：Production First and Production Ready End-to-End Speech Recognition Toolkit</title>
+      <link href="2021/03/31/Paper039/"/>
+      <url>2021/03/31/Paper039/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>在本文中，我们提出了一个新开源、产品优先和产品就绪的端到端（E2E）语音识别工具包——WeNet。该工具包的主要目的是缩小E2E语音识别模型的研究和产品之间的差距。WeNet提供了一种在多种现实场景中发布ASR应用程序的有效方式，这是与其他开源E2E语音识别工具包的主要区别和优势。本文从模型体系结构、框架设计和性能度量三个方面对WeNet进行了介绍。我们使用WeNet在AISHELL-1上进行的实验，不仅在统一的流式和非流式的两遍（U2）E2E模型上给出了有前途的字符错误率（CER），而且显示出合理的RTF和延迟，这两个方面都有利于产品应用。</p><p><strong>参考</strong><br>[1] <em>Zhang B, Wu D, Yang C, et al. WeNet: Production First and Production Ready End-to-End Speech Recognition Toolkit[J]. arXiv preprint arXiv:2102.01547, 2021.</em><a href="https://arxiv.org/abs/2102.01547">[pdf]</a></p><p><strong>源码</strong><br>[1] <em>wenet</em><a href="https://github.com/mobvoi/wenet">[GitHub]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> 端到端 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>常用操作系统镜像下载指南</title>
       <link href="2021/03/30/Blog006/"/>
       <url>2021/03/30/Blog006/</url>
