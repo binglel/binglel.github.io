@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>开源_Datasets_汉字与拼音</title>
+      <link href="2021/04/09/Data023/"/>
+      <url>2021/04/09/Data023/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>[1] <em>chinese-xinhua</em><a href="https://github.com/pwxcoo/chinese-xinhua">[GitHub]</a><br>中华新华字典数据库和 API 。收录包括 14032 条歇后语，16142 个汉字，264434 个词语，31648 个成语。<br>注意：字典存在重复的字</p><p>[2] <em>phrase-pinyin-data</em><a href="https://github.com/mozillazg/phrase-pinyin-data">[GitHub]</a><br>词语拼音数据</p><p>[3] <em>pinyin-data</em><a href="https://github.com/mozillazg/pinyin-data">[GitHub]</a><br>汉字拼音数据</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Data </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 汉字与拼音数据集 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>出门问问_20210202_WeNet：Production First and Production Ready End-to-End Speech Recognition Toolkit</title>
       <link href="2021/03/31/Paper039/"/>
       <url>2021/03/31/Paper039/</url>
