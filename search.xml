@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>《中华人民共和国民法典》</title>
+      <link href="2021/04/15/Tale002/"/>
+      <url>2021/04/15/Tale002/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://www.npc.gov.cn/">中国人大网</a></p><blockquote><p><a href="http://www.npc.gov.cn/npc/c30834/202006/75ba6483b8344591abd07917e1d25cc8.shtml">中华人民共和国民法典电子预览版</a></p></blockquote></blockquote><p>《中华人民共和国民法典》于2020年5月28日在十三届全国人大三次会议审议通过，这是新中国成立以来第一部以“法典”命名的法律，是一部固根本、稳预期、利长远的基础性法律，是新时代我国社会主义法治建设的重大成果。民法典的颁布实施对于完善中国特色社会主义法治体系、推进国家治理体系和治理能力现代化，切实维护好广大人民的根本利益，促进社会公平正义具有重要意义。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Tale </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 法律常识 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>开源_Datasets_汉字与拼音</title>
       <link href="2021/04/09/Data023/"/>
       <url>2021/04/09/Data023/</url>
@@ -1276,37 +1301,6 @@
     
     
     <entry>
-      <title>谷歌_20160804_A Neural Transducer</title>
-      <link href="2021/02/21/Paper035/"/>
-      <url>2021/02/21/Paper035/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>序列到序列模型已经在各种任务上取得了令人印象深刻的结果。然而，它们不适用于需要随着更多数据到来而进行增量预测的任务，或者具有长输入序列和输出序列的任务。这是因为它们生成以整个输入序列为条件的输出序列。在本文中，我们提出了一种神经转换器，它可以在更多的输入到来时进行增量预测，而不需要重新进行整个输入序列计算。与序列到序列模型不同，神经转换器根据部分观察到的输入序列和部分生成的序列来计算下一步分布。在每个时间步，转换器可以决定发射零到多个输出符号。数据可以使用编码器进行处理，并作为转换器的输入。在每个时间步发射一个符号的离散决策使得用传统的反向传播很难学习。然而，可以通过使用动态规划算法来训练转换器以产生离散决策。我们的实验表明，神经转换器在需要数据输入时产生输出预测的环境下工作良好。我们还发现，即使在没有使用注意力机制的情况下，神经转换器在长序列中也表现得很好。</p><p><strong>参考</strong><br>[1] <em>Jaitly N, Sussillo D, Le Q V, et al. A neural transducer[J]. arXiv preprint arXiv:1511.04868, 2015.</em><a href="https://arxiv.org/abs/1511.04868">[pdf]</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Paper </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 语音识别 </tag>
-            
-            <tag> RNN </tag>
-            
-            <tag> RNN-T </tag>
-            
-            <tag> Sequence-to-Sequence </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>谷歌_ICLR2018_Monotonic Chunkwise Attention</title>
       <link href="2021/02/21/Paper036/"/>
       <url>2021/02/21/Paper036/</url>
@@ -1330,6 +1324,37 @@
             <tag> Sequence-to-Sequence </tag>
             
             <tag> MoChA </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>谷歌_20160804_A Neural Transducer</title>
+      <link href="2021/02/21/Paper035/"/>
+      <url>2021/02/21/Paper035/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>序列到序列模型已经在各种任务上取得了令人印象深刻的结果。然而，它们不适用于需要随着更多数据到来而进行增量预测的任务，或者具有长输入序列和输出序列的任务。这是因为它们生成以整个输入序列为条件的输出序列。在本文中，我们提出了一种神经转换器，它可以在更多的输入到来时进行增量预测，而不需要重新进行整个输入序列计算。与序列到序列模型不同，神经转换器根据部分观察到的输入序列和部分生成的序列来计算下一步分布。在每个时间步，转换器可以决定发射零到多个输出符号。数据可以使用编码器进行处理，并作为转换器的输入。在每个时间步发射一个符号的离散决策使得用传统的反向传播很难学习。然而，可以通过使用动态规划算法来训练转换器以产生离散决策。我们的实验表明，神经转换器在需要数据输入时产生输出预测的环境下工作良好。我们还发现，即使在没有使用注意力机制的情况下，神经转换器在长序列中也表现得很好。</p><p><strong>参考</strong><br>[1] <em>Jaitly N, Sussillo D, Le Q V, et al. A neural transducer[J]. arXiv preprint arXiv:1511.04868, 2015.</em><a href="https://arxiv.org/abs/1511.04868">[pdf]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> RNN </tag>
+            
+            <tag> RNN-T </tag>
+            
+            <tag> Sequence-to-Sequence </tag>
             
         </tags>
       
