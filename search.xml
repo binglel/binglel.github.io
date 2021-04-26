@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>语音识别开源工具_Kaldi</title>
+      <link href="2021/04/26/Open004/"/>
+      <url>2021/04/26/Open004/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://www.kaldi-asr.org/">官网</a></p></blockquote><blockquote><p>kaldi<a href="https://github.com/kaldi-asr/kaldi">[Github]</a></p></blockquote><h1 id="部署过程"><a href="#部署过程" class="headerlink" title="部署过程"></a>部署过程</h1><h2 id="安装依赖工具"><a href="#安装依赖工具" class="headerlink" title="安装依赖工具"></a>安装依赖工具</h2><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">sudo apt-get update</span><br><span class="line">sudo apt-get install autoconf automake gcc libtool subversion libatlas-base-dev gfortran g++ zlib1g-dev sox </span><br></pre></td></tr></table></figure><h2 id="获取开源代码"><a href="#获取开源代码" class="headerlink" title="获取开源代码"></a>获取开源代码</h2><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git clone https://github.com/kaldi-asr/kaldi</span><br></pre></td></tr></table></figure><h2 id="创建虚拟空间"><a href="#创建虚拟空间" class="headerlink" title="创建虚拟空间"></a>创建虚拟空间</h2><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">export PATH=&quot;~/anaconda3/bin:$PATH&quot;</span><br><span class="line">PATH=~/cuda-10.0/bin:$PATH</span><br><span class="line">export PATH</span><br><span class="line">export LD_LIBRARY_PATH=~/cuda-10.0/lib64:/lib</span><br><span class="line"></span><br><span class="line">conda create -n py2_kaldi python=2.7</span><br><span class="line">source activate py2_kaldi</span><br></pre></td></tr></table></figure><p>若选用Python3，则需要在kaldi/tools/python/路径下创建一个空文件</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">touch kaldi/tools/python/python/.use_default_python</span><br></pre></td></tr></table></figure><h2 id="检测依赖环境"><a href="#检测依赖环境" class="headerlink" title="检测依赖环境"></a>检测依赖环境</h2><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">cd kaldi/tools</span><br><span class="line">extras/check_dependencies.sh</span><br></pre></td></tr></table></figure><p>根据提示安装缺失的工具即可，可能需要Intel MKL函数库</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">extras/install_mkl.sh</span><br></pre></td></tr></table></figure><h2 id="编译安装工具"><a href="#编译安装工具" class="headerlink" title="编译安装工具"></a>编译安装工具</h2><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">make -j12</span><br></pre></td></tr></table></figure><p>此过程会花费更长的时间，建议多核并行编译；此过程安装的软件有cub、openfst、sctk、sph2pipe；最后补充安装语言模型工具irstlm</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">extras/install_irstlm.sh</span><br></pre></td></tr></table></figure><h2 id="编译安装模块"><a href="#编译安装模块" class="headerlink" title="编译安装模块"></a>编译安装模块</h2><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">cd ../src</span><br><span class="line">./configure --cudatk-dir=/home/asr/cuda-10.0 --shared</span><br><span class="line">make depend -j12</span><br><span class="line">make -j12</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> Open </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>《中华人民共和国民法典》</title>
       <link href="2021/04/15/Tale002/"/>
       <url>2021/04/15/Tale002/</url>
