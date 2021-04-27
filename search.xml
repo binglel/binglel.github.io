@@ -4,6 +4,56 @@
   
     
     <entry>
+      <title>开源_Datasets_CIFAR</title>
+      <link href="2021/04/27/Data025/"/>
+      <url>2021/04/27/Data025/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://www.cs.toronto.edu/~kriz/cifar.html">官网</a></p></blockquote><p>CIFAR由Alex Krizhevsky、Vinod Nair和Geoffrey Hinton收集，起初的数据集共分为10类，分别为飞机、汽车、鸟、猫、鹿、狗、青蛙、马、船、卡车，所以CIFAR数据集常以CIFAR-10命名。CIFAR共包含60000张32*32的RGB图像（50000张训练+10000张测试），其中没有任何类型重叠的情况。后来CIFAR又出了一个分类更多的版本CIFAR-100，从名字也可以看出共有100类，将图片分得更细。CIFAR数据集分为Python、MATLAB、二进制bin文件包，可通过官网直接下载。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Data </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 图像数据集 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>开源_Datasets_MNIST</title>
+      <link href="2021/04/27/Data024/"/>
+      <url>2021/04/27/Data024/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://yann.lecun.com/exdb/mnist/"><del>官网</del></a></p></blockquote><p>MNIST数据集来自美国国家标准与技术研究所，该数据集包含60000张用于训练的样本和10000张用于测试的样本，样本是固定大小（28*28）。训练集由来自250个不同人手写的数字构成, 其中50%是高中学生，50%来自人口普查局的工作人员；测试集也是同样比例的手写数字数据。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Data </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 图像数据集 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>语音识别开源工具_Kaldi</title>
       <link href="2021/04/26/Open004/"/>
       <url>2021/04/26/Open004/</url>
