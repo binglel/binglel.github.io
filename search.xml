@@ -33,7 +33,7 @@
       <link href="2021/04/27/Data024/"/>
       <url>2021/04/27/Data024/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://yann.lecun.com/exdb/mnist/"><del>官网</del></a></p></blockquote><p>MNIST数据集来自美国国家标准与技术研究所，该数据集包含60000张用于训练的样本和10000张用于测试的样本，样本是固定大小（28*28）。训练集由来自250个不同人手写的数字构成, 其中50%是高中学生，50%来自人口普查局的工作人员；测试集也是同样比例的手写数字数据。</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://yann.lecun.com/exdb/mnist/">官网</a></p></blockquote><p>MNIST数据集来自美国国家标准与技术研究所，该数据集包含60000张用于训练的样本和10000张用于测试的样本，样本是固定大小（28*28）。训练集由来自250个不同人手写的数字构成, 其中50%是高中学生，50%来自人口普查局的工作人员；测试集也是同样比例的手写数字数据。</p>]]></content>
       
       
       <categories>
@@ -1378,37 +1378,6 @@
     
     
     <entry>
-      <title>谷歌_ICLR2018_Monotonic Chunkwise Attention</title>
-      <link href="2021/02/21/Paper036/"/>
-      <url>2021/02/21/Paper036/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>软注意力序列间模型已成功地应用于各种各样的问题，但其解码过程需要大量的时间和空间开销，不适用于实时序列转换。为了解决这些问题，我们提出了单调的组块注意力（MOCHA），它自适应地将输入序列分割成小块，在这些小块上计算软注意。我们证明了使用MOCHA的模型可以在标准反向传播的情况下有效地训练，同时允许在测试时进行在线和线性时间解码。当应用于在线语音识别时，我们获得了最先进的结果，并与使用离线软注意力机制的模型性能进行了比较。在文档总结的实验中，在没有进行单调对齐的情况下，与基于单调注意力的基线模型相比，该模型表现出显著的改进性能。</p><p><strong>参考</strong><br>[1] <em>Chiu C C, Raffel C. Monotonic chunkwise attention[J]. arXiv preprint arXiv:1712.05382, 2017.</em><a href="https://arxiv.org/abs/1712.05382">[pdf]</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Paper </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 语音识别 </tag>
-            
-            <tag> Attention </tag>
-            
-            <tag> Sequence-to-Sequence </tag>
-            
-            <tag> MoChA </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>谷歌_20160804_A Neural Transducer</title>
       <link href="2021/02/21/Paper035/"/>
       <url>2021/02/21/Paper035/</url>
@@ -1432,6 +1401,37 @@
             <tag> RNN-T </tag>
             
             <tag> Sequence-to-Sequence </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>谷歌_ICLR2018_Monotonic Chunkwise Attention</title>
+      <link href="2021/02/21/Paper036/"/>
+      <url>2021/02/21/Paper036/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>软注意力序列间模型已成功地应用于各种各样的问题，但其解码过程需要大量的时间和空间开销，不适用于实时序列转换。为了解决这些问题，我们提出了单调的组块注意力（MOCHA），它自适应地将输入序列分割成小块，在这些小块上计算软注意。我们证明了使用MOCHA的模型可以在标准反向传播的情况下有效地训练，同时允许在测试时进行在线和线性时间解码。当应用于在线语音识别时，我们获得了最先进的结果，并与使用离线软注意力机制的模型性能进行了比较。在文档总结的实验中，在没有进行单调对齐的情况下，与基于单调注意力的基线模型相比，该模型表现出显著的改进性能。</p><p><strong>参考</strong><br>[1] <em>Chiu C C, Raffel C. Monotonic chunkwise attention[J]. arXiv preprint arXiv:1712.05382, 2017.</em><a href="https://arxiv.org/abs/1712.05382">[pdf]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> Attention </tag>
+            
+            <tag> Sequence-to-Sequence </tag>
+            
+            <tag> MoChA </tag>
             
         </tags>
       
