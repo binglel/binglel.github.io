@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>华盛顿大学_20160509_You Only Look Once：Unified, Real-Time Object Detection</title>
+      <link href="2021/04/30/Paper040/"/>
+      <url>2021/04/30/Paper040/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>我们提出了一种新的目标检测方法YOLO。关于目标检测的以往工作是重新调整分类器的用途来执行检测。取而代之的是，我们将目标检测定义为空间上的边界框分离和相关类别概率的回归问题。单个神经网络在一次评估中直接从完整图像预测边界框和类别概率。由于整个检测管道是一个单一网络，因此可以直接根据检测性能进行端到端的优化。我们的统一架构速度极快。我们的基本YOLO模型以每秒45帧的速度实时处理图像。该网络的一个较小版本Fast YOLO，能够令人震惊地每秒处理155帧，且其mAP仍达到了其他实时检测器的两倍。与最先进的检测系统相比，YOLO会产生更多的定位错误，但在不存在的情况下，预测错误检测的可能性要小得多。最后，YOLO学习了目标非常一般的表示形式。在毕加索数据集和人物艺术数据集上，从自然图像推广到艺术品时，它比所有其他检测方法（包括DPM和R-CNN）都有很大的优势。</p><p><strong>参考</strong><br>[1] <em>Redmon J, Divvala S, Girshick R, et al. You only look once: Unified, real-time object detection[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2016: 779-788.</em><a href="https://arxiv.org/abs/1506.02640">[pdf]</a><br>[2] <a href="https://pjreddie.com/darknet/yolo/"><em>YOLO: Real-Time Object Detection</em></a></p><p><strong>源码</strong><br>[1] <em>darknet</em><a href="https://github.com/pjreddie/darknet">[GitHub]</a><br>[2] <em>YOLO_TensorFlow</em><a href="https://github.com/hizhangp/yolo_tensorflow">[GitHub]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 目标检测 </tag>
+            
+            <tag> YOLO </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>开源_Datasets_CIFAR</title>
       <link href="2021/04/27/Data025/"/>
       <url>2021/04/27/Data025/</url>
@@ -2797,9 +2824,9 @@
       
         <tags>
             
-            <tag> Wi-Fi </tag>
-            
             <tag> 网络技术 </tag>
+            
+            <tag> Wi-Fi </tag>
             
             <tag> 网络热点服务 </tag>
             
@@ -2851,11 +2878,11 @@
       
         <tags>
             
-            <tag> 网络技术 </tag>
-            
             <tag> Python </tag>
             
             <tag> SOCK5 </tag>
+            
+            <tag> 网络技术 </tag>
             
             <tag> 代理服务 </tag>
             
