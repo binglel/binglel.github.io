@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>微软_CVPR2016_Deep Residual Learning for Image Recognition</title>
+      <link href="2021/05/08/Paper042/"/>
+      <url>2021/05/08/Paper042/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>越深层的神经网络越难训练。我们提出了一个残差学习框架，以简化网络的训练，该网络比以前使用的网络要深得多。我们明确地将网络层重新表示为参考层输入的学习残差函数，而不是学习未参考的函数。我们提供了全面的实验证据，表明该残差网络更容易被优化，并且可以从更大深度获得精度的提升。在ImageNet数据集上，我们评估了深度高达152层的残差网络，该网络比VGG网络深8倍，但复杂度仍然较低。该残差网络的集合在ImageNet测试集上获得了3.57%的误差。这一结果在ILSVRC2015分类任务中获得第一名。我们还对CIFAR-10进行了100层和1000层的分析。表征的深度对于许多视觉识别任务至关重要。仅仅由于我们极深层的表示，我们在COCO目标检测数据集上获得了28%的相对改进。深层残差网络是我们提交给ILSVRC和COCO2015竞赛任务1的基线，我们还在ImageNet检测、ImageNet定位、COCO检测和COCO分割任务上获得了第一名。</p><p><strong>参考</strong><br>[1] <em>He K, Zhang X, Ren S, et al. Deep residual learning for image recognition[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2016: 770-778.</em><a href="https://arxiv.org/abs/1512.03385">[pdf]</a></p><p><strong>源码</strong><br>[1] <em>ResNet_Caffe</em><a href="https://github.com/KaimingHe/deep-residual-networks">[GitHub]</a><br>[2] <em>ResNet_Keras</em><a href="https://github.com/raghakot/keras-resnet">[GitHub]</a><br>[3] <em>ResNet_PyTorch</em><a href="https://github.com/facebookarchive/fb.resnet.torch">[GitHub]</a><br>[4] <em>ResNet_TensorFlow</em><a href="https://github.com/ry/tensorflow-resnet">[GitHub]</a><br>[5] <em>ResNet_MXNet</em><a href="https://github.com/tornadomeet/ResNet">[GitHub]</a><br>[6] <em>ResNet_Neon</em><a href="https://github.com/apark263/cfmz">[GitHub]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 目标检测 </tag>
+            
+            <tag> ResNet </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>康奈尔大学_CVPR2017_Densely Connected Convolutional Networks</title>
       <link href="2021/05/07/Paper041/"/>
       <url>2021/05/07/Paper041/</url>
