@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>数度智慧_Datasets_110小时8K</title>
+      <link href="2021/05/10/Data026/"/>
+      <url>2021/05/10/Data026/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://www.shudu-ai.com/">官网</a></p><blockquote><p><a href="http://www.shudu-ai.com/#team1">下载地址</a></p></blockquote></blockquote><p>第一批数据：中文普通话开源语音数据库录音室长200+小时，切割时长110+。8000K,16bit,mono。经过专业语音校对人员转写标注，并通过严格质量检验，此数据库文本正确率在95%以上。分为训练集、开发集、测试集。（支持学术研究，未经允许禁止商用）<br>第二批数据：与第一批相似，录制时长500小时，切割290小时。此数据需要申请。同步可申请新的460+切割数据，录制600+。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Data </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> 语音数据集 </tag>
+            
+            <tag> 中文语音数据集 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>微软_CVPR2016_Deep Residual Learning for Image Recognition</title>
       <link href="2021/05/08/Paper042/"/>
       <url>2021/05/08/Paper042/</url>
