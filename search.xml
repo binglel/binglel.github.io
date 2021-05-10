@@ -4,11 +4,123 @@
   
     
     <entry>
+      <title>谷歌_20160223_Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning</title>
+      <link href="2021/05/10/Paper046/"/>
+      <url>2021/05/10/Paper046/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>非常深的卷积网络是近年来图像识别性能最大进步的核心。一个例子是Inception结构，它已经被证明以相对较低的计算成本获得了非常好的性能。最近，将残差连接与更传统的架构相结合的方法，在ILSVRC2015挑战赛中获得了最先进的性能，其性能与最新一代的Inception-v3网络相似。这就提出了这样一个问题：将Inception结构与残差连接相结合是否有好处。在这里，我们给出了明确的经验证据，带有残差连接的训练可以显著地加速Inception网络的训练。也有一些证据表明，残差Inception网络稍微优于同样没有残差连接的的Inception网络性能。我们还针对残差和非残差的Inception网络提出了几种新的流线型体系结构。这些变化显著提高了ILSVRC2012分类任务的单帧识别性能。我们进一步展示了适当的激活缩放如何使非常广泛的残差Inception网络的训练稳定。在3个残差和1个Inception-v4的集成下，我们在ImageNet分类（CLS）挑战的测试集上获得了3.08%的TOP-5误差。</p><p><strong>参考</strong><br>[1] <em>Szegedy C, Ioffe S, Vanhoucke V, et al. Inception-v4, inception-resnet and the impact of residual connections on learning[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2017, 31(1).</em><a href="https://arxiv.org/abs/1602.07261v1">[pdf]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 目标检测 </tag>
+            
+            <tag> Inception </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>谷歌_CVPR2016_Rethinking the Inception Architecture for Computer Vision</title>
+      <link href="2021/05/10/Paper045/"/>
+      <url>2021/05/10/Paper045/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>卷积网络是用于各种任务的最先进计算机视觉解决方案的核心。自2014年以来，非常深的卷积网络开始成为主流，在各种基准中产生了实质性的收益。尽管增加的模型大小和计算成本往往会为大多数任务带来立竿见影的性能提升（只要为训练提供了足够的标签数据），但计算效率和低参数计数仍然是移动视觉和大数据场景等各种用例的考虑因素。在这里，我们探索通过适当的因子分解卷积和积极的正则化来扩大网络规模的方法，旨在尽可能有效地利用增加的计算。我们在ILSVRC2012分类挑战验证集上对我们的方法进行了基准测试，结果表明，与现有技术相比，我们的方法获得了显著的收益：使用计算成本为50亿次乘加的网络进行单帧评估时，TOP-1和TOP-5的误差分别为21.2%和5.6%，每个推理的计算成本为50亿次乘加，并且使用的参数少于2500万个。在4个模型集成和多种评估的情况下，我们在验证集上报告了3.5%的TOP-5错误(在测试集上错误了3.6%)，在验证集上报告了17.3%的TOP-1错误。</p><p><strong>参考</strong><br>[1] <em>Szegedy C, Vanhoucke V, Ioffe S, et al. Rethinking the inception architecture for computer vision[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2016: 2818-2826.</em><a href="https://arxiv.org/abs/1512.00567">[pdf]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 目标检测 </tag>
+            
+            <tag> Inception </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>谷歌_20150302_Batch Normalization：Accelerating Deep Network Training by Reducing Internal Covariate Shift</title>
+      <link href="2021/05/10/Paper044/"/>
+      <url>2021/05/10/Paper044/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>训练深度神经网络是复杂的，因为在训练过程中，随着前几层参数的变化，每一层的输入分布也会发生变化。这要求较小的学习率和小心翼翼的参数初始化，从而减慢了训练速度，并使训练具有饱和非线性的模型变得非常困难。我们将这种现象称为内部协变量漂移，并通过对层输入进行归一化来解决这个问题。我们的方法的优势在于将规范化作为模型体系结构的一部分，并对每个训练小批量执行规范化。批处理标准化使我们可以使用更大的学习率，同时不必太过谨慎地进行初始化。它还起到了正则化的作用，在某些情况下消除了Dropout的需要。将批归一化方法应用于最先进的图像分类模型，在减少14倍训练步骤的情况下达到了相同的精度，并且比原始模型的性能有了很大的提高。使用批量归一化网络集合，我们改进了ImageNet分类的最佳发布结果：TOP-5的验证误差达到4.9%（测试误差4.8%），超过了人类评分员的准确率。</p><p><strong>参考</strong><br>[1] <em>Ioffe S, Szegedy C. Batch normalization: Accelerating deep network training by reducing internal covariate shift[C]//International conference on machine learning. PMLR, 2015: 448-456.</em><a href="https://arxiv.org/abs/1502.03167">[pdf]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 目标检测 </tag>
+            
+            <tag> Inception </tag>
+            
+            <tag> BatchNormalization </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>谷歌_CVPR2015_Going Deeper with Convolutions</title>
+      <link href="2021/05/10/Paper043/"/>
+      <url>2021/05/10/Paper043/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>我们提出了一种代号为”Inception“的深卷积神经网络结构，该结构在2014年ImageNet大规模视觉识别挑战赛（ILSVRC2014）中使分类和检测效果的达到最新技术水平。该结构的主要特点是提高了网络内部计算资源的利用率。这是通过精心设计实现的，该结构允许增加网络的深度和宽度，同时保持计算预算不变。为了优化质量，架构决策基于赫布原则和多尺度处理的直觉。我们在提交给ILSVRC2014年的报告中使用的一个具体实例是GoogLeNet，这是一个22层深的网络，其质量是在分类和检测的背景下进行评估的。</p><p><strong>参考</strong><br>[1] <em>Szegedy C, Liu W, Jia Y, et al. Going deeper with convolutions[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2015: 1-9.</em><a href="https://arxiv.org/abs/1409.4842">[pdf]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 目标检测 </tag>
+            
+            <tag> Inception </tag>
+            
+            <tag> GoogLeNet </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>数度智慧_Datasets_110小时8K</title>
       <link href="2021/05/10/Data026/"/>
       <url>2021/05/10/Data026/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://www.shudu-ai.com/">官网</a></p><blockquote><p><a href="http://www.shudu-ai.com/#team1">下载地址</a></p></blockquote></blockquote><p>第一批数据：中文普通话开源语音数据库录音室长200+小时，切割时长110+。8000K,16bit,mono。经过专业语音校对人员转写标注，并通过严格质量检验，此数据库文本正确率在95%以上。分为训练集、开发集、测试集。（支持学术研究，未经允许禁止商用）<br>第二批数据：与第一批相似，录制时长500小时，切割290小时。此数据需要申请。同步可申请新的460+切割数据，录制600+。</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://www.shudu-ai.com/">官网</a></p><blockquote><p><a href="http://www.shudu-ai.com/#team1">下载地址</a></p></blockquote></blockquote><p>第一批数据：中文普通话开源语音数据库录音室长200+小时，切割时长110+。音频参数为8000K，16bit，mono。经过专业语音校对人员转写标注，并通过严格质量检验，此数据库文本正确率在95%以上。分为训练集、开发集、测试集。（支持学术研究，未经允许禁止商用）<br>第二批数据：与第一批相似，录制时长500小时，切割290小时。此数据需要申请。同步可申请新的460+切割数据，录制600+。</p>]]></content>
       
       
       <categories>
