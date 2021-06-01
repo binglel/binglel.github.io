@@ -4,6 +4,85 @@
   
     
     <entry>
+      <title>北京医疗</title>
+      <link href="2021/05/31/Tale003/"/>
+      <url>2021/05/31/Tale003/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://ybj.beijing.gov.cn/">北京市医疗保障局</a></p><blockquote><p><a href="http://ybj.beijing.gov.cn/2020_zwfw/2020_bmcx/202002/t20200217_1644108.html">北京市基本医疗保险A类定点医疗机构名单（32家）</a><br><a href="http://ybj.beijing.gov.cn/2020_zwfw/2020_bmcx/202002/t20200217_1644107.html">北京定点医疗机构查询</a></p></blockquote></blockquote><blockquote><p><a href="http://www.nhc.gov.cn/wjw/index.shtml">中华人民共和国国家卫生健康委员会</a></p><blockquote><p><a href="http://zgcx.nhc.gov.cn:9090/unit">全国医疗机构查询</a><br><a href="http://zgcx.nhc.gov.cn:9090/doctor">医生执业注册信息查询</a><br><a href="http://zgcx.nhc.gov.cn:9090/nurse">护士执业注册信息查询</a></p></blockquote></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> Tale </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 医疗常识 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>西班牙电话公司_NeurIPS2019_Blow：a single-scale hyperconditioned flow for non-parallel raw-audio voice conversion</title>
+      <link href="2021/05/31/Paper048/"/>
+      <url>2021/05/31/Paper048/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>原始音频生成的端到端模型是一个挑战，特别是当它必须非并行处理数据时，这在许多情况下都是理想的设置。声音转换就是其中的一种情况，在这种情况下，模型必须在录音中模仿说话人。在本文中，我们提出了Blow，一种使用超网络条件处理的单尺度归一化流程，用于实现原始音频之间的多对多语音转换。使用单个说话者标识符在逐帧的基础上使用非并行数据对Blow进行端到端训练。我们发现，Blow与现有的基于流的架构、其他竞争基线相比更具优势，在客观和主观评估中都获得了同等或更好的性能。我们通过消融研究进一步评估其主要组成部分的影响，并量化一些属性，如必要的训练数据量或对目标说话人的偏好。</p><p><strong>参考</strong><br>[1] <em>Serrà J, Pascual S, Segura C. Blow: a single-scale hyperconditioned flow for non-parallel raw-audio voice conversion[J]. arXiv preprint arXiv:1906.00794, 2019.</em><a href="https://arxiv.org/abs/1906.00794">[pdf]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音合成 </tag>
+            
+            <tag> 语音转换 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>百度_20181012_Neural Voice Cloning with a Few Samples</title>
+      <link href="2021/05/31/Paper047/"/>
+      <url>2021/05/31/Paper047/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>语音克隆是个性化语音接口非常需要的功能。基于神经网络的语音合成已被证明可以为大量说话人生成高质量的语音。本文介绍了一种以少量音频样本作为输入的神经语音克隆系统。我们研究了两种方法：说话人自适应和说话人编码。说话人自适应是基于用几个克隆样本微调多说话人生成模型。说话人编码是基于训练单独的模型，以从克隆音频直接推断新的说话人嵌入信息，并与多说话人生成模型一起使用。在语音的自然度和与原说话人的相似性方面，即使克隆音频很少，这两种方法也都能达到很好的性能。虽然说话人自适应可以获得更好的自然度和相似性，但说话人编码方法的克隆时间或所需内存明显较少，有利于低资源部署。</p><p><strong>参考</strong><br>[1] <em>Arik S O, Chen J, Peng K, et al. Neural voice cloning with a few samples[J]. arXiv preprint arXiv:1802.06006, 2018.</em><a href="https://arxiv.org/abs/1802.06006">[pdf]</a></p><p><strong>源码</strong><br>[1] <em>Neural-Voice-Cloning-With-Few-Samples</em><a href="https://github.com/SforAiDl/Neural-Voice-Cloning-With-Few-Samples">[GitHub]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音合成 </tag>
+            
+            <tag> 语音转换 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>谷歌_20160223_Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning</title>
       <link href="2021/05/10/Paper046/"/>
       <url>2021/05/10/Paper046/</url>
