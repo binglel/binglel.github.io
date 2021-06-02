@@ -56,6 +56,31 @@
     
     
     <entry>
+      <title>清华大学_20191120_CAT：CRF-based ASR Toolkit</title>
+      <link href="2021/05/31/Paper049/"/>
+      <url>2021/05/31/Paper049/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>摘要</strong><br>本文介绍了一个新型的开源自动语音识别工具包——CAT（CRF-based ASR Toolkit）。CAT的一个关键特点是在条件随机场（CRF）的框架下进行区分训练，特别是使用了受连接主义时态分类（CTC）启发的状态拓扑。CAT包含CTC-CRF的完整实现，并为基于CRF的端到端语音识别提供完整的工作流程。在Switchboard和Aishell等英文和中文基准测试上的评估结果表明，CAT在现有的端到端模型中以较少的参数获得了最先进的结果，并且与混合DNN-HMM模型相比具有竞争力。在灵活性方面，我们证明了基于i-vector的说话人自适应识别和延迟控制机制可以在CAT中方便而有效地进行探索。我们希望CAT，特别是基于CRF的框架和软件，能够引起社会的广泛关注，并能够得到进一步的探索和改进。</p><p><strong>参考</strong><br>[1] <em>An K, Xiang H, Ou Z. CAT: crf-based ASR toolkit[J]. arXiv preprint arXiv:1911.08747, 2019.</em><a href="https://arxiv.org/abs/1911.08747">[pdf]</a></p><p><strong>源码</strong><br>[1] <em>CAT</em><a href="https://github.com/thu-spmi/cat">[GitHub]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Paper </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>百度_20181012_Neural Voice Cloning with a Few Samples</title>
       <link href="2021/05/31/Paper047/"/>
       <url>2021/05/31/Paper047/</url>
@@ -1368,7 +1393,7 @@
       <link href="2021/02/28/Blog005/"/>
       <url>2021/02/28/Blog005/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="https://github.com/syhw/wer_are_we">wer_are_we</a></p></blockquote><p><strong>语音识别任务的数据集列表</strong></p><ul><li><p>LibriSpeech</p></li><li><p>WSJ</p></li><li><p>Hub5’00 Evaluation(Switchboard / CallHome)</p></li><li><p>Rich Transcriptions</p></li><li><p>Fisher</p></li><li><p>TED-LIUM</p></li><li><p>CHiME6(multiarray noisy speech)</p></li><li><p>CHiME(noisy speech)</p></li><li><p>TIMIT</p></li></ul><blockquote><p><a href="https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers">awesome-speech-recognition-speech-synthesis-papers</a></p></blockquote>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="https://github.com/syhw/wer_are_we">wer_are_we</a></p></blockquote><p><strong>语音识别任务的数据集列表</strong></p><ul><li><p>LibriSpeech</p></li><li><p>WSJ</p></li><li><p>Hub5’00 Evaluation(Switchboard / CallHome)</p></li><li><p>Rich Transcriptions</p></li><li><p>Fisher</p></li><li><p>TED-LIUM</p></li><li><p>CHiME6(multiarray noisy speech)</p></li><li><p>CHiME(noisy speech)</p></li><li><p>TIMIT</p></li></ul><blockquote><p><a href="https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers">awesome-speech-recognition-speech-synthesis-papers</a></p></blockquote><blockquote><p><a href="https://github.com/thu-spmi/ASR-Benchmarks">ASR-Benchmarks</a></p></blockquote>]]></content>
       
       
       <categories>
