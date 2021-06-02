@@ -2073,9 +2073,9 @@
             
             <tag> LSTM </tag>
             
-            <tag> GE2E </tag>
-            
             <tag> TE2E </tag>
+            
+            <tag> GE2E </tag>
             
         </tags>
       
