@@ -4,6 +4,66 @@
   
     
     <entry>
+      <title>希尔贝壳_Datasets_AISHELL-4</title>
+      <link href="2021/07/18/Data027/"/>
+      <url>2021/07/18/Data027/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="http://www.aishelltech.com/">希尔贝壳官网</a></p><blockquote><p><a href="http://www.aishelltech.com/aishell_4">AISHELL-4</a></p></blockquote></blockquote><ul><li>下载地址<ul><li><a href="http://www.openslr.org/111/">OpenSLR</a> / <a href="https://openslr.magicdatatech.com/111/">OpenSLR-China</a></li><li><a href="https://mab.to/6ZVD4vzaqyfnd">Netdisk</a></li></ul></li></ul><p>AISHELL-4是一个通过麦克风阵列实录的八通道中文普通话会议场景语音数据集。该数据集共包含211场会议，每场会议4至8人，数据集共120小时左右。该数据集旨在促进实际应用场景下多说话人处理的研究。AISHELL-4数据包括了实际会议场景下各种重要特性，例如停顿、重叠、说话人轮转、噪声等。同时数据集提供了准确的音字转写文本及时间戳信息，方便研究者进行诸如前端处理、语音识别、说话人分割等单独任务，并可以进行联合优化。</p><p><strong>参考</strong><br>[1] <em>Fu Y, Cheng L, Lv S, et al. AISHELL-4: An Open Source Dataset for Speech Enhancement, Separation, Recognition and Speaker Diarization in Conference Scenario[J]. arXiv preprint arXiv:2104.03603, 2021.</em><a href="https://arxiv.org/abs/2104.03603">[pdf]</a></p><p><strong>源码</strong><br>[1] <em>AISHELL-4</em><a href="https://github.com/felixfuyihui/AISHELL-4">[GitHub]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Data </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音数据集 </tag>
+            
+            <tag> 中文语音数据集 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>自动语音识别课程_信息学院_爱丁堡大学</title>
+      <link href="2021/07/18/Tutorial011/"/>
+      <url>2021/07/18/Tutorial011/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p><a href="https://www.ed.ac.uk/informatics/">School of Informatics@爱丁堡大学</a></p><blockquote><p><a href="http://www.inf.ed.ac.uk/teaching/courses/asr/index-2021.html">2020年版</a><br><a href="https://www.inf.ed.ac.uk/teaching/courses/asr/index-2020.html">2019年版</a><br><a href="https://www.inf.ed.ac.uk/teaching/courses/asr/index-2019.html">2018年版</a><br><a href="https://www.inf.ed.ac.uk/teaching/courses/asr/index-2017.html">2016年版</a><br><a href="https://www.inf.ed.ac.uk/teaching/courses/asr/index-2016.html">2015年版</a><br><a href="https://www.inf.ed.ac.uk/teaching/courses/asr/index-2015.html">2014年版</a><br><a href="https://www.inf.ed.ac.uk/teaching/courses/asr/index-2014.html">2013年版</a><br><a href="https://www.inf.ed.ac.uk/teaching/courses/asr/index-2013.html">2012年版</a><br><a href="https://www.inf.ed.ac.uk/teaching/courses/asr/index-2012.html">2011年版</a><br><a href="https://www.inf.ed.ac.uk/teaching/courses/asr/index-2011.html">2010年版</a><br><a href="https://www.inf.ed.ac.uk/teaching/courses/asr/index-2010.html">2009年版</a><br><a href="https://www.inf.ed.ac.uk/teaching/courses/asr/index-2009.html">2008年版</a><br><a href="https://www.inf.ed.ac.uk/teaching/courses/asr/index-2008.html">2007年版</a><br><a href="https://www.inf.ed.ac.uk/teaching/courses/asr/index-2007.html">2006年版</a><br><a href="https://www.inf.ed.ac.uk/teaching/courses/asr/index-2006.html">2005年版</a></p></blockquote></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> Tutorial </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语音识别 </tag>
+            
+            <tag> 语言模型 </tag>
+            
+            <tag> 信号处理 </tag>
+            
+            <tag> 声学模型 </tag>
+            
+            <tag> 解码器 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>跟踪图像降噪领域最新技术和最新结果</title>
       <link href="2021/07/13/Blog008/"/>
       <url>2021/07/13/Blog008/</url>
@@ -95,9 +155,9 @@
       
         <tags>
             
-            <tag> 语音合成 </tag>
-            
             <tag> 语音识别 </tag>
+            
+            <tag> 语音合成 </tag>
             
             <tag> 机器翻译 </tag>
             
@@ -1433,9 +1493,9 @@
       
         <tags>
             
-            <tag> 语音合成 </tag>
-            
             <tag> 语音识别 </tag>
+            
+            <tag> 语音合成 </tag>
             
             <tag> 说话人认证 </tag>
             
@@ -1563,9 +1623,9 @@
       
         <tags>
             
-            <tag> 语音合成 </tag>
-            
             <tag> 语音识别 </tag>
+            
+            <tag> 语音合成 </tag>
             
             <tag> 语音转换 </tag>
             
@@ -2130,9 +2190,9 @@
       
         <tags>
             
-            <tag> 语音合成 </tag>
-            
             <tag> 语音识别 </tag>
+            
+            <tag> 语音合成 </tag>
             
             <tag> 语音转换 </tag>
             
@@ -2685,9 +2745,9 @@
             
             <tag> Python </tag>
             
-            <tag> 语音合成 </tag>
-            
             <tag> 语音识别 </tag>
+            
+            <tag> 语音合成 </tag>
             
             <tag> 阿里云服务 </tag>
             
